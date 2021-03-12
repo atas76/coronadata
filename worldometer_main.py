@@ -3,7 +3,6 @@ import country
 
 Country = country.Country
 
-
 def get_cases(country):
     try:
         return int(country.daily_cases.replace(',', ''))
@@ -25,9 +24,21 @@ def get_population(country):
         return 0
 
 
+def get_daily_cases_ratio(country):
+    return country.get_daily_cases_ratio()
+
+
 def print_array(sorted_array):
     for entry in sorted_array:
         print(entry)
+
+
+def display_sorted(sorted_countries):
+    cases_ordinal = 1
+    for sortedCountry in sorted_countries:
+        print(str(cases_ordinal) + ": " + sortedCountry.to_str())
+        cases_ordinal = cases_ordinal + 1
+
 
 with open('worldometer.jl') as f:
     country_data = json.load(f)
@@ -39,18 +50,10 @@ for country_entry in country_data:
 sortedByPopulation = sorted(countries, key=get_population, reverse=True)
 sortedByCases = sorted(countries, key=get_cases, reverse=True)
 sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
+sortedByCasesRatio = sorted(countries, key=get_daily_cases_ratio, reverse=True)
 
-casesOrdinal = 1
+# display_sorted(sortedByCases)
+# display_sorted(sortedByDeaths)
+# display_sorted(sortedByPopulation)
 
-# for country in sortedByDeaths:
-#    print(str(casesOrdinal) + ", " + country.name + ", " + str(country.daily_deaths))
-#    casesOrdinal = casesOrdinal + 1
-
-for country in sortedByCases:
-    print(str(casesOrdinal) + ", " + country.name + ", " + str(country.daily_cases))
-    casesOrdinal = casesOrdinal + 1
-
-# for country in sortedByPopulation:
-#    print(str(casesOrdinal) + ", " + country.name + ", " + country.population)
-#    casesOrdinal = casesOrdinal + 1
-
+display_sorted(sortedByCasesRatio)
