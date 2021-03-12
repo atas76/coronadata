@@ -47,15 +47,27 @@ def display_sorted(sorted_countries):
 with open('worldometer.jl') as f:
     country_data = json.load(f)
 
+POPULATION_THRESHOLD = 1000000
+DEATH_TOLL_THRESHOLD = 112
+
 countries = []
+biggerCountries = []
+deathTollCountries = []
 for country_entry in country_data:
-    countries.append(Country(country_entry["country"], country_entry["daily cases"], country_entry["daily deaths"], country_entry["population"]))
+    currentCountry = Country(country_entry["country"], country_entry["daily cases"], country_entry["daily deaths"], country_entry["population"])
+    countries.append(currentCountry)
+    if currentCountry.population is not None and currentCountry.population != " ":
+        if int(currentCountry.population.replace(",", "")) > POPULATION_THRESHOLD:
+            biggerCountries.append(currentCountry)
+        if int(currentCountry.population.replace(",", "")) > POPULATION_THRESHOLD: # TODO use number of total deaths as threshold
+            deathTollCountries.append(currentCountry)
 
 sortedByPopulation = sorted(countries, key=get_population, reverse=True)
 sortedByCases = sorted(countries, key=get_cases, reverse=True)
 sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
-sortedByCasesRatio = sorted(countries, key=get_daily_cases_ratio, reverse=True)
-sortedByDeathsRatio = sorted(countries, key=get_daily_deaths_ratio, reverse=True)
+
+sortedByCasesRatio = sorted(biggerCountries, key=get_daily_cases_ratio, reverse=True)
+sortedByDeathsRatio = sorted(deathTollCountries, key=get_daily_deaths_ratio, reverse=True)
 
 # display_sorted(sortedByCases)
 # display_sorted(sortedByDeaths)
