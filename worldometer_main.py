@@ -28,6 +28,10 @@ def get_daily_cases_ratio(country):
     return country.get_daily_cases_ratio()
 
 
+def get_daily_deaths_ratio(country):
+    return country.get_daily_deaths_ratio()
+
+
 def print_array(sorted_array):
     for entry in sorted_array:
         print(entry)
@@ -51,9 +55,11 @@ sortedByPopulation = sorted(countries, key=get_population, reverse=True)
 sortedByCases = sorted(countries, key=get_cases, reverse=True)
 sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
 sortedByCasesRatio = sorted(countries, key=get_daily_cases_ratio, reverse=True)
+sortedByDeathsRatio = sorted(countries, key=get_daily_deaths_ratio, reverse=True)
 
 # display_sorted(sortedByCases)
 # display_sorted(sortedByDeaths)
 # display_sorted(sortedByPopulation)
 
-display_sorted(sortedByCasesRatio)
+# display_sorted(sortedByCasesRatio)
+display_sorted(sortedByDeathsRatio)
