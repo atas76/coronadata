@@ -12,6 +12,7 @@ class WorldometerSpider(scrapy.Spider):
             yield {
                 'country': row.xpath('td[2]//text()').extract_first(),
                 'daily cases': row.xpath('td[4]//text()').extract_first(),
+                'deaths': row.xpath('td[5]//text()').extract_first(),
                 'daily deaths': row.xpath('td[6]//text()').extract_first(),
                 'population': row.xpath('td[15]//text()').extract_first()
             }

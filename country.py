@@ -1,7 +1,8 @@
 class Country:
-    def __init__(self, name, daily_cases, daily_deaths, population):
+    def __init__(self, name, daily_cases, deaths, daily_deaths, population):
         self.name = name
         self.daily_cases = daily_cases
+        self.deaths = deaths
         self.daily_deaths = daily_deaths
         self.population = population
 

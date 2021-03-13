@@ -44,22 +44,26 @@ def display_sorted(sorted_countries):
         cases_ordinal = cases_ordinal + 1
 
 
-with open('worldometer.jl') as f:
+CURRENT_DATE = "210312"
+
+with open('worldometer_' + CURRENT_DATE + '.jl') as f:
     country_data = json.load(f)
 
 POPULATION_THRESHOLD = 1000000
-DEATH_TOLL_THRESHOLD = 112
+REFERENCE_COUNTRY = 'Andorra'
+DEATH_TOLL_THRESHOLD = int(next(c for c in country_data if c["country"] == REFERENCE_COUNTRY)["deaths"])
 
 countries = []
 biggerCountries = []
 deathTollCountries = []
 for country_entry in country_data:
-    currentCountry = Country(country_entry["country"], country_entry["daily cases"], country_entry["daily deaths"], country_entry["population"])
+    currentCountry = Country(country_entry["country"], country_entry["daily cases"], country_entry["deaths"], country_entry["daily deaths"], country_entry["population"])
     countries.append(currentCountry)
     if currentCountry.population is not None and currentCountry.population != " ":
         if int(currentCountry.population.replace(",", "")) > POPULATION_THRESHOLD:
             biggerCountries.append(currentCountry)
-        if int(currentCountry.population.replace(",", "")) > POPULATION_THRESHOLD: # TODO use number of total deaths as threshold
+    if currentCountry.deaths is not None and currentCountry.deaths != " ":
+        if int(currentCountry.deaths.replace(",", "")) >= DEATH_TOLL_THRESHOLD:
             deathTollCountries.append(currentCountry)
 
 sortedByPopulation = sorted(countries, key=get_population, reverse=True)
