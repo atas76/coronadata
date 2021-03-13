@@ -50,9 +50,9 @@ def display_sorted(sorted_countries):
 
 def create_csv(sorted_countries):
     cases_ordinal = 1
-    csv = ""
+    csv = "Ordinal Position, Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population\n"
     for sortedCountry in sorted_countries:
-        csv += str(cases_ordinal) + ": " + sortedCountry.to_csv() + "\n"
+        csv += str(cases_ordinal) + ", " + sortedCountry.to_csv() + "\n"
         cases_ordinal = cases_ordinal + 1
     return csv
 
