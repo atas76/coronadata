@@ -122,10 +122,10 @@ sortedByPositiveTests = sorted(countries, key=get_positive_tests_perc, reverse=T
 
 # display_sorted(sortedByDeathsRatio)
 
-# write_sorted(sortedByCasesRatio, 'daily_cases', CURRENT_DATE)
-# write_sorted(sortedByDeathsRatio, 'daily_deaths', CURRENT_DATE)
+write_sorted(sortedByCasesRatio, 'daily_cases', CURRENT_DATE)
+write_sorted(sortedByDeathsRatio, 'daily_deaths', CURRENT_DATE)
 
-# write_sorted(sortedByCasesRatioAllCountries, 'daily_cases_all_countries', CURRENT_DATE)
-# write_sorted(sortedByDeathsRatioAllCountries, 'daily_deaths_all_countries', CURRENT_DATE)
+write_sorted(sortedByCasesRatioAllCountries, 'daily_cases_all_countries', CURRENT_DATE)
+write_sorted(sortedByDeathsRatioAllCountries, 'daily_deaths_all_countries', CURRENT_DATE)
 
 write_sorted(sortedByPositiveTests, 'positive_tests', CURRENT_DATE)
