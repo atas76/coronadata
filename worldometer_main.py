@@ -48,7 +48,7 @@ def create_csv(sorted_countries):
     cases_ordinal = 1
     csv = ""
     for sortedCountry in sorted_countries:
-        csv += str(cases_ordinal) + ": " + sortedCountry.to_str() + "\n"
+        csv += str(cases_ordinal) + ": " + sortedCountry.to_csv() + "\n"
         cases_ordinal = cases_ordinal + 1
     return csv
 
