@@ -1,144 +1,145 @@
-1: Czechia, daily cases: +11220, daily deaths: +207, population: 10_722_817, daily cases ratio: 1046.3668269261705, daily deaths ratio: 19.304628625108492
-2: Slovakia, daily cases: +2301, daily deaths: +102, population: 5_461_485, daily cases ratio: 421.3139832847659, daily deaths ratio: 18.676239154735388
-3: Bulgaria, daily cases: +3159, daily deaths: +102, population: 6_911_877, daily cases ratio: 457.03938307929957, daily deaths ratio: 14.757207050993529
-4: Hungary, daily cases: +9011, daily deaths: +130, population: 9_643_236, daily cases ratio: 934.4373610684214, daily deaths ratio: 13.48095182986292
-5: Malta, daily cases: +329, daily deaths: +5, population: 442_362, daily cases ratio: 743.7347692613741, daily deaths ratio: 11.30296001916982
-6: Bosnia and Herzegovina, daily cases: +1170, daily deaths: +36, population: 3_266_560, daily cases ratio: 358.17496081504703, daily deaths ratio: 11.02076802507837
-7: Brazil, daily cases: +84047, daily deaths: +2152, population: 213_609_288, daily cases ratio: 393.46135548188334, daily deaths ratio: 10.074468297464668
-8: Luxembourg, daily cases: +182, daily deaths: +6, population: 633_023, daily cases ratio: 287.50930060993045, daily deaths ratio: 9.478328591536169
-9: Moldova, daily cases: +1785, daily deaths: +38, population: 4_027_422, daily cases ratio: 443.2115631289693, daily deaths ratio: 9.435316189860412
-10: Poland, daily cases: +18789, daily deaths: +352, population: 37_817_707, daily cases ratio: 496.830757084241, daily deaths ratio: 9.30780916992138
-11: North Macedonia, daily cases: +868, daily deaths: +15, population: 2_083_314, daily cases ratio: 416.64386645508074, daily deaths ratio: 7.200066816620058
-12: Lebanon, daily cases: +2930, daily deaths: +48, population: 6_804_102, daily cases ratio: 430.6225861987372, daily deaths ratio: 7.054567965030507
-13: Estonia, daily cases: +1358, daily deaths: +9, population: 1_327_157, daily cases ratio: 1023.239903040861, daily deaths ratio: 6.78141320130173
-14: Montenegro, daily cases: +581, daily deaths: +4, population: 628_121, daily cases ratio: 924.9810148044724, daily deaths ratio: 6.368199757689999
-15: Italy, daily cases: +26824, daily deaths: +380, population: 60_399_822, daily cases ratio: 444.1072690578459, daily deaths ratio: 6.291409269384934
-16: Romania, daily cases: +5010, daily deaths: +108, population: 19_148_003, daily cases ratio: 261.6460839284389, daily deaths ratio: 5.640274863128024
-17: Albania, daily cases: +681, daily deaths: +16, population: 2_875_606, daily cases ratio: 236.81964775424728, daily deaths ratio: 5.564044587471302
-18: Peru, daily cases: +8039, daily deaths: +180, population: 33_289_963, daily cases ratio: 241.4841975042147, daily deaths ratio: 5.407035147500765
-19: Jordan, daily cases: +7705, daily deaths: +55, population: 10_273_423, daily cases ratio: 749.9934539831563, daily deaths ratio: 5.353619723435899
-20: Ukraine, daily cases: +12946, daily deaths: +230, population: 43_550_185, daily cases ratio: 297.26624582651027, daily deaths ratio: 5.281263443542203
-21: Mexico, daily cases: +6470, daily deaths: +654, population: 129_872_506, daily cases ratio: 49.81808851828885, daily deaths ratio: 5.035707865681748
-22: Latvia, daily cases: +632, daily deaths: +9, population: 1_871_599, daily cases ratio: 337.67917166016866, daily deaths ratio: 4.808722381236579
-23: Greece, daily cases: +2357, daily deaths: +49, population: 10_387_498, daily cases ratio: 226.90738424209565, daily deaths ratio: 4.717209091159392
-24: Chile, daily cases: +5973, daily deaths: +89, population: 19_230_141, daily cases ratio: 310.6061468816063, daily deaths ratio: 4.628151192443155
-25: USA, daily cases: +66785, daily deaths: +1505, population: 332_352_077, daily cases ratio: 200.9465401956853, daily deaths ratio: 4.5283303585312025
-26: France, daily cases: +25229, daily deaths: +254, population: 65_374_087, daily cases ratio: 385.91743545114446, daily deaths ratio: 3.885331507574248
-27: Slovenia, daily cases: +770, daily deaths: +8, population: 2_079_137, daily cases ratio: 370.3459656578667, daily deaths ratio: 3.847750292549265
-28: Lithuania, daily cases: +364, daily deaths: +10, population: 2_695_669, daily cases ratio: 135.0314152071341, daily deaths ratio: 3.709654263932256
-29: Spain, daily cases: +5348, daily deaths: +173, population: 46_767_398, daily cases ratio: 114.35316542519642, daily deaths ratio: 3.6991581186535116
-30: Austria, daily cases: +3126, daily deaths: +33, population: 9_042_127, daily cases ratio: 345.71511769299417, daily deaths ratio: 3.6495837760296888
-31: Ecuador, daily cases: +1259, daily deaths: +65, population: 17_828_490, daily cases ratio: 70.61730971046903, daily deaths ratio: 3.6458499850520147
-32: Paraguay, daily cases: +1766, daily deaths: +25, population: 7_193_267, daily cases ratio: 245.50736125879936, daily deaths ratio: 3.4754722715005575
-33: Sweden, daily cases: None, daily deaths: +35, population: 10_143_038, daily cases ratio: 0, daily deaths ratio: 3.450642696990783
-34: Russia, daily cases: +9794, daily deaths: +486, population: 145_978_069, daily cases ratio: 67.0922698669209, daily deaths ratio: 3.3292672202699163
-35: Palestine, daily cases: +1983, daily deaths: +17, population: 5_183_161, daily cases ratio: 382.58506729773586, daily deaths ratio: 3.279851812436465
-36: Georgia, daily cases: +332, daily deaths: +12, population: 3_983_826, daily cases ratio: 83.33697305052982, daily deaths ratio: 3.0121797488143307
-37: Serbia, daily cases: +4668, daily deaths: +26, population: 8_712_801, daily cases ratio: 535.7634129368959, daily deaths ratio: 2.984114982082111
-38: Croatia, daily cases: +823, daily deaths: +12, population: 4_087_578, daily cases ratio: 201.34172363194048, daily deaths ratio: 2.935723795362437
-39: Germany, daily cases: +12786, daily deaths: +230, population: 83_970_413, daily cases ratio: 152.26791846313773, daily deaths ratio: 2.7390600067669073
-40: UK, daily cases: +6609, daily deaths: +175, population: 68_134_001, daily cases ratio: 97.00002793025467, daily deaths ratio: 2.5684679812066227
-41: Namibia, daily cases: +179, daily deaths: +6, population: 2_572_709, daily cases ratio: 69.57646589645388, daily deaths ratio: 2.3321720412219182
-42: Panama, daily cases: +451, daily deaths: +9, population: 4_361_767, daily cases ratio: 103.39846213701925, daily deaths ratio: 2.063383945084641
-43: Belgium, daily cases: +3503, daily deaths: +23, population: 11_624_713, daily cases ratio: 301.34077288617794, daily deaths ratio: 1.9785434702775029
-44: Argentina, daily cases: +7849, daily deaths: +85, population: 45_483_666, daily cases ratio: 172.56744432166042, daily deaths ratio: 1.868802747782028
-45: Kuwait, daily cases: +1356, daily deaths: +8, population: 4_314_295, daily cases ratio: 314.30395927955783, daily deaths ratio: 1.8543006447171555
-46: Ireland, daily cases: +641, daily deaths: +9, population: 4_976_038, daily cases ratio: 128.81734424053835, daily deaths ratio: 1.8086678598515527
-47: Colombia, daily cases: +4078, daily deaths: +92, population: 51_259_107, daily cases ratio: 79.55659469448034, daily deaths ratio: 1.7948030191005864
-48: Uruguay, daily cases: +1357, daily deaths: +6, population: 3_482_108, daily cases ratio: 389.70646516420516, daily deaths ratio: 1.7230941716914008
-49: Jamaica, daily cases: +419, daily deaths: +5, population: 2_970_159, daily cases ratio: 141.06988885106824, daily deaths ratio: 1.6834115614685947
-50: Cyprus, daily cases: +383, daily deaths: +2, population: 1_213_465, daily cases ratio: 315.6250901344497, daily deaths ratio: 1.6481727944357687
-51: Bolivia, daily cases: +778, daily deaths: +19, population: 11_783_318, daily cases ratio: 66.0255456060848, daily deaths ratio: 1.6124490572180092
-52: Switzerland, daily cases: +1333, daily deaths: +14, population: 8_698_595, daily cases ratio: 153.24313869078858, daily deaths ratio: 1.6094553200833008
-53: Netherlands, daily cases: +6026, daily deaths: +26, population: 17_161_273, daily cases ratio: 351.1394521839959, daily deaths ratio: 1.515039123263175
-54: Portugal, daily cases: +577, daily deaths: +15, population: 10_175_962, daily cases ratio: 56.702255767071456, daily deaths ratio: 1.474062108329414
-55: Israel, daily cases: +1948, daily deaths: +13, population: 9_197_590 , daily cases ratio: 211.79461141451182, daily deaths ratio: 1.4134137312056745
-56: Armenia, daily cases: +818, daily deaths: +4, population: 2_967_100, daily cases ratio: 275.690067742914, daily deaths ratio: 1.348117690674396
-57: Tunisia, daily cases: +640, daily deaths: +16, population: 11_904_413, daily cases ratio: 53.76157564425898, daily deaths ratio: 1.3440393911064745
-58: Libya, daily cases: +972, daily deaths: +8, population: 6_936_016, daily cases ratio: 140.1380850332525, daily deaths ratio: 1.1533998768168932
-59: South Africa, daily cases: +1225, daily deaths: +69, population: 59_826_923, daily cases ratio: 20.475731302443883, daily deaths ratio: 1.1533269060152065
-60: Bahrain, daily cases: +744, daily deaths: +2, population: 1_742_099, daily cases ratio: 427.07102179612065, daily deaths ratio: 1.1480403811723674
-61: Honduras, daily cases: +985, daily deaths: +10, population: 10_013_604, daily cases ratio: 98.36618264512957, daily deaths ratio: 0.9986414481739042
-62: UAE, daily cases: +2250, daily deaths: +9, population: 9_973_240, daily cases ratio: 225.6037155427925, daily deaths ratio: 0.9024148621711701
-63: Canada, daily cases: +3476, daily deaths: +33, population: 37_971_911, daily cases ratio: 91.54135013115354, daily deaths ratio: 0.869063450612217
-64: Belarus, daily cases: +1186, daily deaths: +8, population: 9_447_156, daily cases ratio: 125.54042719311505, daily deaths ratio: 0.8468156977613157
-65: Guatemala, daily cases: +831, daily deaths: +15, population: 18_144_574, daily cases ratio: 45.79881566797876, daily deaths ratio: 0.8266934236097249
-66: Dominican Republic, daily cases: +529, daily deaths: +9, population: 10_923_394, daily cases ratio: 48.42817168363606, daily deaths ratio: 0.8239197450902165
-67: Philippines, daily cases: +4571, daily deaths: +87, population: 110_591_530, daily cases ratio: 41.33227924416997, daily deaths ratio: 0.7866786904928433
-68: Turkey, daily cases: +14941, daily deaths: +66, population: 84_968_579, daily cases ratio: 175.84147193988028, daily deaths ratio: 0.7767577235815606
-69: El Salvador, daily cases: +133, daily deaths: +5, population: 6_508_966, daily cases ratio: 20.433353008757457, daily deaths ratio: 0.7681711657427617
-70: Indonesia, daily cases: +6412, daily deaths: +180, population: 275_530_076, daily cases ratio: 23.271506664847724, daily deaths ratio: 0.6532862132989068
-71: Iran, daily cases: +8088, daily deaths: +53, population: 84_737_946, daily cases ratio: 95.44720378282476, daily deaths ratio: 0.6254576904660871
-72: Iraq, daily cases: +4622, daily deaths: +25, population: 40_844_935, daily cases ratio: 113.15968552771598, daily deaths ratio: 0.6120709948491778
-73: Kyrgyzstan, daily cases: +63, daily deaths: +4, population: 6_598_650, daily cases ratio: 9.547407424245868, daily deaths ratio: 0.6061845983648171
-74: Azerbaijan, daily cases: +576, daily deaths: +6, population: 10_202_622, daily cases ratio: 56.456075702892846, daily deaths ratio: 0.5880841219051338
-75: Senegal, daily cases: +198, daily deaths: +10, population: 17_047_593, daily cases ratio: 11.614542885907706, daily deaths ratio: 0.5865930750458438
-76: Costa Rica, daily cases: +376, daily deaths: +3, population: 5_126_410, daily cases ratio: 73.34567465341243, daily deaths ratio: 0.5852048509580778
-77: Finland, daily cases: +706, daily deaths: +3, population: 5_546_715, daily cases ratio: 127.28254471340244, daily deaths ratio: 0.5408606715866959
-78: Denmark, daily cases: +645, daily deaths: +3, population: 5_806_397, daily cases ratio: 111.08437814362331, daily deaths ratio: 0.5166715262494108
-79: Egypt, daily cases: +639, daily deaths: +45, population: 103_667_896, daily cases ratio: 6.163914043360155, daily deaths ratio: 0.43407845375775733
-80: Yemen, daily cases: +62, daily deaths: +12, population: 30_279_066, daily cases ratio: 2.047619302391956, daily deaths ratio: 0.3963134133661851
-81: Japan, daily cases: +1288, daily deaths: +49, population: 126_206_260, daily cases ratio: 10.205515954596864, daily deaths ratio: 0.3882533243596633
-82: Qatar, daily cases: +455, daily deaths: +1, population: 2_807_805 , daily cases ratio: 162.04829039053638, daily deaths ratio: 0.35615008877040966
-83: Cuba, daily cases: +762, daily deaths: +4, population: 11_321_796, daily cases ratio: 67.3038093956118, daily deaths ratio: 0.3533008367223716
-84: Syria, daily cases: +71, daily deaths: +5, population: 17_793_554, daily cases ratio: 3.990209038621514, daily deaths ratio: 0.28100063652264184
-85: Zimbabwe, daily cases: +46, daily deaths: +4, population: 15_012_729, daily cases ratio: 3.0640664998349068, daily deaths ratio: 0.2664405652030354
-86: Mozambique, daily cases: +359, daily deaths: +8, population: 31_857_555, daily cases ratio: 11.268912507566887, daily deaths ratio: 0.2511178274666716
-87: Venezuela, daily cases: +509, daily deaths: +7, population: 28_379_718, daily cases ratio: 17.935343825474234, daily deaths ratio: 0.24665502314011714
-88: Pakistan, daily cases: +2701, daily deaths: +53, population: 223_854_800, daily cases ratio: 12.06585697514639, daily deaths ratio: 0.23676061446973665
-89: Sri Lanka, daily cases: +297, daily deaths: +5, population: 21_475_715, daily cases ratio: 13.829574475168814, daily deaths ratio: 0.2328211191105861
-90: Ethiopia, daily cases: +1361, daily deaths: +27, population: 116_925_005, daily cases ratio: 11.639939634811219, daily deaths ratio: 0.23091724477582876
-91: S. Korea, daily cases: +488, daily deaths: +10, population: 51_299_927, daily cases ratio: 9.512684101870164, daily deaths ratio: 0.19493205126783125
-92: Rwanda, daily cases: +112, daily deaths: +2, population: 13_173_363, daily cases ratio: 8.502005144775863, daily deaths ratio: 0.15182152044242614
-93: Saudi Arabia, daily cases: +360, daily deaths: +5, population: 35_189_073, daily cases ratio: 10.230448525881883, daily deaths ratio: 0.1420895628594706
-94: India, daily cases: +27512, daily deaths: +157, population: 1_389_419_783, daily cases ratio: 19.801071164106204, daily deaths ratio: 0.11299680767536617
-95: Morocco, daily cases: +431, daily deaths: +4, population: 37_213_872, daily cases ratio: 11.581702651097418, daily deaths ratio: 0.10748679954614773
-96: Malaysia, daily cases: +1575, daily deaths: +3, population: 32_653_364, daily cases ratio: 48.23392775090493, daily deaths ratio: 0.09187414809696176
-97: Bangladesh, daily cases: +1066, daily deaths: +13, population: 165_827_934, daily cases ratio: 6.428350002840897, daily deaths ratio: 0.07839451222976702
-98: Afghanistan, daily cases: +17, daily deaths: +3, population: 39_532_913, daily cases ratio: 0.4300214355567473, daily deaths ratio: 0.07588613568648482
-99: Ivory Coast, daily cases: +313, daily deaths: +2, population: 26_828_189, daily cases ratio: 11.66683297184167, daily deaths ratio: 0.07454845349419598
-100: Algeria, daily cases: +157, daily deaths: +3, population: 44_398_335, daily cases ratio: 3.5361686423601246, daily deaths ratio: 0.06757010144637181
-101: Chad, daily cases: +28, daily deaths: +1, population: 16_749_845, daily cases ratio: 1.6716572601119593, daily deaths ratio: 0.05970204500399855
-102: Angola, daily cases: +60, daily deaths: +2, population: 33_568_110, daily cases ratio: 1.7874107300053532, daily deaths ratio: 0.05958035766684511
-103: Zambia, daily cases: +327, daily deaths: +1, population: 18_737_978, daily cases ratio: 17.45118923717383, daily deaths ratio: 0.05336755118401783
-104: Malawi, daily cases: +73, daily deaths: +1, population: 19_470_243, daily cases ratio: 3.749311192469452, daily deaths ratio: 0.05136042729410208
-105: Mali, daily cases: +31, daily deaths: +1, population: 20_651_739, daily cases ratio: 1.5010842428330127, daily deaths ratio: 0.048422072349452026
-106: Burkina Faso, daily cases: +30, daily deaths: +1, population: 21_297_525, daily cases ratio: 1.4086143812485252, daily deaths ratio: 0.04695381270828418
-107: Nigeria, daily cases: +399, daily deaths: +8, population: 209_658_679, daily cases ratio: 1.9030931698277085, daily deaths ratio: 0.03815725653789891
-108: Kenya, daily cases: +750, daily deaths: +2, population: 54_588_274, daily cases ratio: 13.73921439611738, daily deaths ratio: 0.03663790505631301
-109: China, daily cases: +9, daily deaths: None, population: 1_439_323_776 , daily cases ratio: 0.0062529363789235425, daily deaths ratio: 0
-110: Nepal, daily cases: +48, daily deaths: None, population: 29_499_030, daily cases ratio: 1.627172147694348, daily deaths ratio: 0
-111: Kazakhstan, daily cases: +899, daily deaths: None, population: 18_932_409, daily cases ratio: 47.484712589929785, daily deaths ratio: 0
-112: Oman, daily cases: None, daily deaths: None, population: 5_196_050, daily cases ratio: 0, daily deaths ratio: 0
-113: Myanmar, daily cases: +8, daily deaths: None, population: 54_663_290, daily cases ratio: 0.14635050323535226, daily deaths ratio: 0
-114: Ghana, daily cases: None, daily deaths: None, population: 31_520_596, daily cases ratio: 0, daily deaths ratio: 0
-115: Uzbekistan, daily cases: +45, daily deaths: None, population: 33_805_059, daily cases ratio: 1.3311617057080125, daily deaths ratio: 0
-116: Norway, daily cases: +905, daily deaths: None, population: 5_450_686, daily cases ratio: 166.03414689453768, daily deaths ratio: 0
-117: Cameroon, daily cases: None, daily deaths: None, population: 27_000_972, daily cases ratio: 0, daily deaths ratio: 0
-118: Uganda, daily cases: +9, daily deaths: None, population: 46_732_418, daily cases ratio: 0.19258579772182985, daily deaths ratio: 0
-119: Botswana, daily cases: None, daily deaths: None, population: 2_384_409, daily cases ratio: 0, daily deaths ratio: 0
-120: Australia, daily cases: +12, daily deaths: None, population: 25_705_031, daily cases ratio: 0.46683468306262693, daily deaths ratio: 0
-121: Sudan, daily cases: None, daily deaths: None, population: 44_554_963, daily cases ratio: 0, daily deaths ratio: 0
-122: DRC, daily cases: +87, daily deaths: None, population: 91_431_296, daily cases ratio: 0.9515341442825004, daily deaths ratio: 0
-123: Madagascar, daily cases: None, daily deaths: None, population: 28_181_106, daily cases ratio: 0, daily deaths ratio: 0
-124: Mayotte, daily cases: +38, daily deaths: None, population: 277_350, daily cases ratio: 137.01099693528033, daily deaths ratio: 0
-125: French Polynesia, daily cases: +10, daily deaths: None, population: 282_037, daily cases ratio: 35.456340834713174, daily deaths ratio: 0
-126: Mauritania, daily cases: +16, daily deaths: None, population: 4_733_772, daily cases ratio: 3.379968447994538, daily deaths ratio: 0
-127: Eswatini, daily cases: +10, daily deaths: None, population: 1_168_498, daily cases ratio: 8.557994964475764, daily deaths ratio: 0
-128: Cabo Verde, daily cases: +54, daily deaths: None, population: 560_176, daily cases ratio: 96.39827482791122, daily deaths ratio: 0
-129: Haiti, daily cases: +38, daily deaths: None, population: 11_498_882, daily cases ratio: 3.3046690973957293, daily deaths ratio: 0
-130: Belize, daily cases: +11, daily deaths: None, population: 402_617, daily cases ratio: 27.32125071718283, daily deaths ratio: 0
-131: Hong Kong, daily cases: +60, daily deaths: None, population: 7_539_223, daily cases ratio: 7.958379795902045, daily deaths ratio: 0
-132: Andorra, daily cases: +69, daily deaths: None, population: 77_351, daily cases ratio: 892.0375948597949, daily deaths ratio: 0
-133: Guadeloupe, daily cases: None, daily deaths: None, population: 400_172, daily cases ratio: 0, daily deaths ratio: 0
-134: Lesotho, daily cases: None, daily deaths: None, population: 2_154_044, daily cases ratio: 0, daily deaths ratio: 0
-135: Congo, daily cases: None, daily deaths: None, population: 5_611_646, daily cases ratio: 0, daily deaths ratio: 0
-136: Guyana, daily cases: +76, daily deaths: None, population: 789_192, daily cases ratio: 96.30102687305497, daily deaths ratio: 0
-137: Suriname, daily cases: +15, daily deaths: None, population: 590_281, daily cases ratio: 25.411625988300486, daily deaths ratio: 0
-138: Somalia, daily cases: None, daily deaths: None, population: 16_198_132, daily cases ratio: 0, daily deaths ratio: 0
-139: Bahamas, daily cases: +16, daily deaths: None, population: 395_852, daily cases ratio: 40.4191465497206, daily deaths ratio: 0
-140: Trinidad and Tobago, daily cases: +6, daily deaths: None, population: 1_402_642, daily cases ratio: 4.277641764612781, daily deaths ratio: 0
-141: Nicaragua, daily cases: None, daily deaths: None, population: 6_679_195, daily cases ratio: 0, daily deaths ratio: 0
-142: Gambia, daily cases: +88, daily deaths: None, population: 2_463_350, daily cases ratio: 35.723709582479145, daily deaths ratio: 0
-143: Niger, daily cases: None, daily deaths: None, population: 24_806_536, daily cases ratio: 0, daily deaths ratio: 0
-144: Comoros, daily cases: +3, daily deaths: None, population: 882_383, daily cases ratio: 3.3998841772790276, daily deaths ratio: 0
+Ordinal Position, Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population
+1, Czechia, +11220, +207, 1046.3668269261705, 19.304628625108492, 6.685296518521608, 10_722_817
+2, Slovakia, +2301, +102, 421.3139832847659, 18.676239154735388, 20.58876163206872, 5_461_485
+3, Bulgaria, +3159, +102, 457.03938307929957, 14.757207050993529, 18.406945577438528, 6_911_877
+4, Hungary, +9011, +130, 934.4373610684214, 13.48095182986292, 24.489074899445594, 9_643_236
+5, Malta, +329, +5, 743.7347692613741, 11.30296001916982, 8.706006880127019, 442_362
+6, Bosnia and Herzegovina, +1170, +36, 358.17496081504703, 11.02076802507837, 0, 3_266_560
+7, Brazil, +84047, +2152, 393.46135548188334, 10.074468297464668, 0, 213_609_288
+8, Luxembourg, +182, +6, 287.50930060993045, 9.478328591536169, 1.8016234409027914, 633_023
+9, Moldova, +1785, +38, 443.2115631289693, 9.435316189860412, 34.98627989023912, 4_027_422
+10, Poland, +18789, +352, 496.830757084241, 9.30780916992138, 28.48285480398993, 37_817_707
+11, North Macedonia, +868, +15, 416.64386645508074, 7.200066816620058, 23.754789272030653, 2_083_314
+12, Lebanon, +2930, +48, 430.6225861987372, 7.054567965030507, 14.355004654353046, 6_804_102
+13, Estonia, +1358, +9, 1023.239903040861, 6.78141320130173, 18.772463367431573, 1_327_157
+14, Montenegro, +581, +4, 924.9810148044724, 6.368199757689999, 25.206073752711493, 628_121
+15, Italy, +26824, +380, 444.1072690578459, 6.291409269384934, 7.256868919693969, 60_399_822
+16, Romania, +5010, +108, 261.6460839284389, 5.640274863128024, 13.330495170688875, 19_148_003
+17, Albania, +681, +16, 236.81964775424728, 5.564044587471302, 20.389221556886227, 2_875_606
+18, Peru, +8039, +180, 241.4841975042147, 5.407035147500765, 12.032990061070532, 33_289_963
+19, Jordan, +7705, +55, 749.9934539831563, 5.353619723435899, 15.24384212088238, 10_273_423
+20, Ukraine, +12946, +230, 297.26624582651027, 5.281263443542203, 0, 43_550_185
+21, Mexico, +6470, +654, 49.81808851828885, 5.035707865681748, 24.887487017732816, 129_872_506
+22, Latvia, +632, +9, 337.67917166016866, 4.808722381236579, 3.5060468212581823, 1_871_599
+23, Greece, +2357, +49, 226.90738424209565, 4.717209091159392, 4.956157873709444, 10_387_498
+24, Chile, +5973, +89, 310.6061468816063, 4.628151192443155, 9.093261882288463, 19_230_141
+25, USA, +66785, +1505, 200.9465401956853, 4.5283303585312025, 4.065585067428993, 332_352_077
+26, France, +25229, +254, 385.91743545114446, 3.885331507574248, 6.639455137820867, 65_374_087
+27, Slovenia, +770, +8, 370.3459656578667, 3.847750292549265, 14.745308310991955, 2_079_137
+28, Lithuania, +364, +10, 135.0314152071341, 3.709654263932256, 8.83495145631068, 2_695_669
+29, Spain, +5348, +173, 114.35316542519642, 3.6991581186535116, 0, 46_767_398
+30, Austria, +3126, +33, 345.71511769299417, 3.6495837760296888, 5.416269600623755, 9_042_127
+31, Ecuador, +1259, +65, 70.61730971046903, 3.6458499850520147, 19.35136796802951, 17_828_490
+32, Paraguay, +1766, +25, 245.50736125879936, 3.4754722715005575, 35.11632531318353, 7_193_267
+33, Sweden, None, +35, 0, 3.450642696990783, 0, 10_143_038
+34, Russia, +9794, +486, 67.0922698669209, 3.3292672202699163, 1.6323333333333332, 145_978_069
+35, Palestine, +1983, +17, 382.58506729773586, 3.279851812436465, 28.41381286717295, 5_183_161
+36, Georgia, +332, +12, 83.33697305052982, 3.0121797488143307, 1.2434456928838953, 3_983_826
+37, Serbia, +4668, +26, 535.7634129368959, 2.984114982082111, 27.73453746063811, 8_712_801
+38, Croatia, +823, +12, 201.34172363194048, 2.935723795362437, 13.843566021867115, 4_087_578
+39, Germany, +12786, +230, 152.26791846313773, 2.7390600067669073, 0, 83_970_413
+40, UK, +6609, +175, 97.00002793025467, 2.5684679812066227, 0.37988980953776913, 68_134_001
+41, Namibia, +179, +6, 69.57646589645388, 2.3321720412219182, 10.789632308619652, 2_572_709
+42, Panama, +451, +9, 103.39846213701925, 2.063383945084641, 5.34930613213142, 4_361_767
+43, Belgium, +3503, +23, 301.34077288617794, 1.9785434702775029, 6.080436027841905, 11_624_713
+44, Argentina, +7849, +85, 172.56744432166042, 1.868802747782028, 18.528398092630187, 45_483_666
+45, Kuwait, +1356, +8, 314.30395927955783, 1.8543006447171555, 17.36902779556808, 4_314_295
+46, Ireland, +641, +9, 128.81734424053835, 1.8086678598515527, 0, 4_976_038
+47, Colombia, +4078, +92, 79.55659469448034, 1.7948030191005864, 8.482226428437714, 51_259_107
+48, Uruguay, +1357, +6, 389.70646516420516, 1.7230941716914008, 10.89347354900859, 3_482_108
+49, Jamaica, +419, +5, 141.06988885106824, 1.6834115614685947, 23.99770904925544, 2_970_159
+50, Cyprus, +383, +2, 315.6250901344497, 1.6481727944357687, 0.6679805361285035, 1_213_465
+51, Bolivia, +778, +19, 66.0255456060848, 1.6124490572180092, 11.013590033975085, 11_783_318
+52, Switzerland, +1333, +14, 153.24313869078858, 1.6094553200833008, 4.005288302635137, 8_698_595
+53, Netherlands, +6026, +26, 351.1394521839959, 1.515039123263175, 0, 17_161_273
+54, Portugal, +577, +15, 56.702255767071456, 1.474062108329414, 0, 10_175_962
+55, Israel, +1948, +13, 211.79461141451182, 1.4134137312056745, 2.3567271979384685, 9_197_590 
+56, Armenia, +818, +4, 275.690067742914, 1.348117690674396, 20.793085917641076, 2_967_100
+57, Tunisia, +640, +16, 53.76157564425898, 1.3440393911064745, 13.813943449169006, 11_904_413
+58, Libya, +972, +8, 140.1380850332525, 1.1533998768168932, 19.70004053506283, 6_936_016
+59, South Africa, +1225, +69, 20.475731302443883, 1.1533269060152065, 5.07603696183649, 59_826_923
+60, Bahrain, +744, +2, 427.07102179612065, 1.1480403811723674, 4.719913722007233, 1_742_099
+61, Honduras, +985, +10, 98.36618264512957, 0.9986414481739042, 29.298036882807853, 10_013_604
+62, UAE, +2250, +9, 225.6037155427925, 0.9024148621711701, 0.9393591483143723, 9_973_240
+63, Canada, +3476, +33, 91.54135013115354, 0.869063450612217, 2.8644889079342057, 37_971_911
+64, Belarus, +1186, +8, 125.54042719311505, 0.8468156977613157, 8.249287055713987, 9_447_156
+65, Guatemala, +831, +15, 45.79881566797876, 0.8266934236097249, 14.653500264503617, 18_144_574
+66, Dominican Republic, +529, +9, 48.42817168363606, 0.8239197450902165, 14.755927475592747, 10_923_394
+67, Philippines, +4571, +87, 41.33227924416997, 0.7866786904928433, 8.726613211149294, 110_591_530
+68, Turkey, +14941, +66, 175.84147193988028, 0.7767577235815606, 10.037217176331488, 84_968_579
+69, El Salvador, +133, +5, 20.433353008757457, 0.7681711657427617, 5.307262569832402, 6_508_966
+70, Indonesia, +6412, +180, 23.271506664847724, 0.6532862132989068, 5.227713731309212, 275_530_076
+71, Iran, +8088, +53, 95.44720378282476, 0.6254576904660871, 0, 84_737_946
+72, Iraq, +4622, +25, 113.15968552771598, 0.6120709948491778, 11.988068992348593, 40_844_935
+73, Kyrgyzstan, +63, +4, 9.547407424245868, 0.6061845983648171, 2.0381753477838886, 6_598_650
+74, Azerbaijan, +576, +6, 56.456075702892846, 0.5880841219051338, 6.701570680628273, 10_202_622
+75, Senegal, +198, +10, 11.614542885907706, 0.5865930750458438, 10.232558139534884, 17_047_593
+76, Costa Rica, +376, +3, 73.34567465341243, 0.5852048509580778, 9.511763217809259, 5_126_410
+77, Finland, +706, +3, 127.28254471340244, 0.5408606715866959, 3.825936162141657, 5_546_715
+78, Denmark, +645, +3, 111.08437814362331, 0.5166715262494108, 0.277229765450724, 5_806_397
+79, Egypt, +639, +45, 6.163914043360155, 0.43407845375775733, 0, 103_667_896
+80, Yemen, +62, +12, 2.047619302391956, 0.3963134133661851, 0, 30_279_066
+81, Japan, +1288, +49, 10.205515954596864, 0.3882533243596633, 2.199528672427337, 126_206_260
+82, Qatar, +455, +1, 162.04829039053638, 0.35615008877040966, 6.658861407873555, 2_807_805 
+83, Cuba, +762, +4, 67.3038093956118, 0.3533008367223716, 4.290782138633932, 11_321_796
+84, Syria, +71, +5, 3.990209038621514, 0.28100063652264184, 0, 17_793_554
+85, Zimbabwe, +46, +4, 3.0640664998349068, 0.2664405652030354, 0, 15_012_729
+86, Mozambique, +359, +8, 11.268912507566887, 0.2511178274666716, 15.835906484340539, 31_857_555
+87, Venezuela, +509, +7, 17.935343825474234, 0.24665502314011714, 0, 28_379_718
+88, Pakistan, +2701, +53, 12.06585697514639, 0.23676061446973665, 6.3647288922402625, 223_854_800
+89, Sri Lanka, +297, +5, 13.829574475168814, 0.2328211191105861, 0, 21_475_715
+90, Ethiopia, +1361, +27, 11.639939634811219, 0.23091724477582876, 19.484609878310664, 116_925_005
+91, S. Korea, +488, +10, 9.512684101870164, 0.19493205126783125, 1.3677513383222624, 51_299_927
+92, Rwanda, +112, +2, 8.502005144775863, 0.15182152044242614, 2.487230735065512, 13_173_363
+93, Saudi Arabia, +360, +5, 10.230448525881883, 0.1420895628594706, 0.6969180734087037, 35_189_073
+94, India, +27512, +157, 19.801071164106204, 0.11299680767536617, 3.716105329272164, 1_389_419_783
+95, Morocco, +431, +4, 11.581702651097418, 0.10748679954614773, 3.1895212018056687, 37_213_872
+96, Malaysia, +1575, +3, 48.23392775090493, 0.09187414809696176, 3.0722116022314983, 32_653_364
+97, Bangladesh, +1066, +13, 6.428350002840897, 0.07839451222976702, 6.616597355843834, 165_827_934
+98, Afghanistan, +17, +3, 0.4300214355567473, 0.07588613568648482, 0.9609949123798756, 39_532_913
+99, Ivory Coast, +313, +2, 11.66683297184167, 0.07454845349419598, 10.412508316699935, 26_828_189
+100, Algeria, +157, +3, 3.5361686423601246, 0.06757010144637181, 0, 44_398_335
+101, Chad, +28, +1, 1.6716572601119593, 0.05970204500399855, 0, 16_749_845
+102, Angola, +60, +2, 1.7874107300053532, 0.05958035766684511, 0, 33_568_110
+103, Zambia, +327, +1, 17.45118923717383, 0.05336755118401783, 6.255978572795103, 18_737_978
+104, Malawi, +73, +1, 3.749311192469452, 0.05136042729410208, 4.392298435619735, 19_470_243
+105, Mali, +31, +1, 1.5010842428330127, 0.048422072349452026, 0, 20_651_739
+106, Burkina Faso, +30, +1, 1.4086143812485252, 0.04695381270828418, 0, 21_297_525
+107, Nigeria, +399, +8, 1.9030931698277085, 0.03815725653789891, 0, 209_658_679
+108, Kenya, +750, +2, 13.73921439611738, 0.03663790505631301, 11.973180076628353, 54_588_274
+109, China, +9, None, 0.0062529363789235425, 0, 0, 1_439_323_776 
+110, Nepal, +48, None, 1.627172147694348, 0, 0.6861063464837049, 29_499_030
+111, Kazakhstan, +899, None, 47.484712589929785, 0, 0, 18_932_409
+112, Oman, None, None, 0, 0, 0, 5_196_050
+113, Myanmar, +8, None, 0.14635050323535226, 0, 0.19521717911176184, 54_663_290
+114, Ghana, None, None, 0, 0, 0, 31_520_596
+115, Uzbekistan, +45, None, 1.3311617057080125, 0, 0, 33_805_059
+116, Norway, +905, None, 166.03414689453768, 0, 0.4417802033653401, 5_450_686
+117, Cameroon, None, None, 0, 0, 0, 27_000_972
+118, Uganda, +9, None, 0.19258579772182985, 0, 0.40196516301920504, 46_732_418
+119, Botswana, None, None, 0, 0, 0, 2_384_409
+120, Australia, +12, None, 0.46683468306262693, 0, 0.026488896737450886, 25_705_031
+121, Sudan, None, None, 0, 0, 0, 44_554_963
+122, DRC, +87, None, 0.9515341442825004, 0, 0, 91_431_296
+123, Madagascar, None, None, 0, 0, 0, 28_181_106
+124, Mayotte, +38, None, 137.01099693528033, 0, 0, 277_350
+125, French Polynesia, +10, None, 35.456340834713174, 0, 0, 282_037
+126, Mauritania, +16, None, 3.379968447994538, 0, 1.4842300556586272, 4_733_772
+127, Eswatini, +10, None, 8.557994964475764, 0, 0, 1_168_498
+128, Cabo Verde, +54, None, 96.39827482791122, 0, 0, 560_176
+129, Haiti, +38, None, 3.3046690973957293, 0, 0, 11_498_882
+130, Belize, +11, None, 27.32125071718283, 0, 1.4102564102564104, 402_617
+131, Hong Kong, +60, None, 7.958379795902045, 0, 0, 7_539_223
+132, Andorra, +69, None, 892.0375948597949, 0, 0, 77_351
+133, Guadeloupe, None, None, 0, 0, 0, 400_172
+134, Lesotho, None, None, 0, 0, 0, 2_154_044
+135, Congo, None, None, 0, 0, 0, 5_611_646
+136, Guyana, +76, None, 96.30102687305497, 0, 8.909730363423213, 789_192
+137, Suriname, +15, None, 25.411625988300486, 0, 11.450381679389313, 590_281
+138, Somalia, None, None, 0, 0, 0, 16_198_132
+139, Bahamas, +16, None, 40.4191465497206, 0, 6.956521739130435, 395_852
+140, Trinidad and Tobago, +6, None, 4.277641764612781, 0, 2.9702970297029703, 1_402_642
+141, Nicaragua, None, None, 0, 0, 0, 6_679_195
+142, Gambia, +88, None, 35.723709582479145, 0, 1.6606906963578034, 2_463_350
+143, Niger, None, None, 0, 0, 0, 24_806_536
+144, Comoros, +3, None, 3.3998841772790276, 0, 0, 882_383

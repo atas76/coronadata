@@ -1,221 +1,222 @@
-1: Paraguay, daily cases: +1766, daily deaths: +25, population: 7_193_267, daily cases ratio: 245.50736125879936, daily deaths ratio: 3.4754722715005575, positive tests percentage: 35.11632531318353
-2: Moldova, daily cases: +1785, daily deaths: +38, population: 4_027_422, daily cases ratio: 443.2115631289693, daily deaths ratio: 9.435316189860412, positive tests percentage: 34.98627989023912
-3: Caribbean Netherlands, daily cases: +30, daily deaths: None, population: 26_392, daily cases ratio: 1136.7080933616248, daily deaths ratio: 0, positive tests percentage: 30.303030303030305
-4: Honduras, daily cases: +985, daily deaths: +10, population: 10_013_604, daily cases ratio: 98.36618264512957, daily deaths ratio: 0.9986414481739042, positive tests percentage: 29.298036882807853
-5: Poland, daily cases: +18789, daily deaths: +352, population: 37_817_707, daily cases ratio: 496.830757084241, daily deaths ratio: 9.30780916992138, positive tests percentage: 28.48285480398993
-6: Palestine, daily cases: +1983, daily deaths: +17, population: 5_183_161, daily cases ratio: 382.58506729773586, daily deaths ratio: 3.279851812436465, positive tests percentage: 28.41381286717295
-7: Serbia, daily cases: +4668, daily deaths: +26, population: 8_712_801, daily cases ratio: 535.7634129368959, daily deaths ratio: 2.984114982082111, positive tests percentage: 27.73453746063811
-8: Montenegro, daily cases: +581, daily deaths: +4, population: 628_121, daily cases ratio: 924.9810148044724, daily deaths ratio: 6.368199757689999, positive tests percentage: 25.206073752711493
-9: Mexico, daily cases: +6470, daily deaths: +654, population: 129_872_506, daily cases ratio: 49.81808851828885, daily deaths ratio: 5.035707865681748, positive tests percentage: 24.887487017732816
-10: Hungary, daily cases: +9011, daily deaths: +130, population: 9_643_236, daily cases ratio: 934.4373610684214, daily deaths ratio: 13.48095182986292, positive tests percentage: 24.489074899445594
-11: Jamaica, daily cases: +419, daily deaths: +5, population: 2_970_159, daily cases ratio: 141.06988885106824, daily deaths ratio: 1.6834115614685947, positive tests percentage: 23.99770904925544
-12: North Macedonia, daily cases: +868, daily deaths: +15, population: 2_083_314, daily cases ratio: 416.64386645508074, daily deaths ratio: 7.200066816620058, positive tests percentage: 23.754789272030653
-13: Armenia, daily cases: +818, daily deaths: +4, population: 2_967_100, daily cases ratio: 275.690067742914, daily deaths ratio: 1.348117690674396, positive tests percentage: 20.793085917641076
-14: Slovakia, daily cases: +2301, daily deaths: +102, population: 5_461_485, daily cases ratio: 421.3139832847659, daily deaths ratio: 18.676239154735388, positive tests percentage: 20.58876163206872
-15: Albania, daily cases: +681, daily deaths: +16, population: 2_875_606, daily cases ratio: 236.81964775424728, daily deaths ratio: 5.564044587471302, positive tests percentage: 20.389221556886227
-16: Libya, daily cases: +972, daily deaths: +8, population: 6_936_016, daily cases ratio: 140.1380850332525, daily deaths ratio: 1.1533998768168932, positive tests percentage: 19.70004053506283
-17: Ethiopia, daily cases: +1361, daily deaths: +27, population: 116_925_005, daily cases ratio: 11.639939634811219, daily deaths ratio: 0.23091724477582876, positive tests percentage: 19.484609878310664
-18: Ecuador, daily cases: +1259, daily deaths: +65, population: 17_828_490, daily cases ratio: 70.61730971046903, daily deaths ratio: 3.6458499850520147, positive tests percentage: 19.35136796802951
-19: Estonia, daily cases: +1358, daily deaths: +9, population: 1_327_157, daily cases ratio: 1023.239903040861, daily deaths ratio: 6.78141320130173, positive tests percentage: 18.772463367431573
-20: Argentina, daily cases: +7849, daily deaths: +85, population: 45_483_666, daily cases ratio: 172.56744432166042, daily deaths ratio: 1.868802747782028, positive tests percentage: 18.528398092630187
-21: Bulgaria, daily cases: +3159, daily deaths: +102, population: 6_911_877, daily cases ratio: 457.03938307929957, daily deaths ratio: 14.757207050993529, positive tests percentage: 18.406945577438528
-22: Kuwait, daily cases: +1356, daily deaths: +8, population: 4_314_295, daily cases ratio: 314.30395927955783, daily deaths ratio: 1.8543006447171555, positive tests percentage: 17.36902779556808
-23: Mozambique, daily cases: +359, daily deaths: +8, population: 31_857_555, daily cases ratio: 11.268912507566887, daily deaths ratio: 0.2511178274666716, positive tests percentage: 15.835906484340539
-24: Jordan, daily cases: +7705, daily deaths: +55, population: 10_273_423, daily cases ratio: 749.9934539831563, daily deaths ratio: 5.353619723435899, positive tests percentage: 15.24384212088238
-25: Dominican Republic, daily cases: +529, daily deaths: +9, population: 10_923_394, daily cases ratio: 48.42817168363606, daily deaths ratio: 0.8239197450902165, positive tests percentage: 14.755927475592747
-26: Slovenia, daily cases: +770, daily deaths: +8, population: 2_079_137, daily cases ratio: 370.3459656578667, daily deaths ratio: 3.847750292549265, positive tests percentage: 14.745308310991955
-27: Guatemala, daily cases: +831, daily deaths: +15, population: 18_144_574, daily cases ratio: 45.79881566797876, daily deaths ratio: 0.8266934236097249, positive tests percentage: 14.653500264503617
-28: Lebanon, daily cases: +2930, daily deaths: +48, population: 6_804_102, daily cases ratio: 430.6225861987372, daily deaths ratio: 7.054567965030507, positive tests percentage: 14.355004654353046
-29: Croatia, daily cases: +823, daily deaths: +12, population: 4_087_578, daily cases ratio: 201.34172363194048, daily deaths ratio: 2.935723795362437, positive tests percentage: 13.843566021867115
-30: Tunisia, daily cases: +640, daily deaths: +16, population: 11_904_413, daily cases ratio: 53.76157564425898, daily deaths ratio: 1.3440393911064745, positive tests percentage: 13.813943449169006
-31: Romania, daily cases: +5010, daily deaths: +108, population: 19_148_003, daily cases ratio: 261.6460839284389, daily deaths ratio: 5.640274863128024, positive tests percentage: 13.330495170688875
-32: South Sudan, daily cases: +129, daily deaths: +1, population: 11_284_716, daily cases ratio: 11.431390918477701, daily deaths ratio: 0.08861543347657132, positive tests percentage: 12.797619047619047
-33: Peru, daily cases: +8039, daily deaths: +180, population: 33_289_963, daily cases ratio: 241.4841975042147, daily deaths ratio: 5.407035147500765, positive tests percentage: 12.032990061070532
-34: Iraq, daily cases: +4622, daily deaths: +25, population: 40_844_935, daily cases ratio: 113.15968552771598, daily deaths ratio: 0.6120709948491778, positive tests percentage: 11.988068992348593
-35: Kenya, daily cases: +750, daily deaths: +2, population: 54_588_274, daily cases ratio: 13.73921439611738, daily deaths ratio: 0.03663790505631301, positive tests percentage: 11.973180076628353
-36: Saint Lucia, daily cases: +23, daily deaths: +1, population: 184_211, daily cases ratio: 124.85682179674394, daily deaths ratio: 5.42855746942365, positive tests percentage: 11.6751269035533
-37: Suriname, daily cases: +15, daily deaths: None, population: 590_281, daily cases ratio: 25.411625988300486, daily deaths ratio: 0, positive tests percentage: 11.450381679389313
-38: Bolivia, daily cases: +778, daily deaths: +19, population: 11_783_318, daily cases ratio: 66.0255456060848, daily deaths ratio: 1.6124490572180092, positive tests percentage: 11.013590033975085
-39: Uruguay, daily cases: +1357, daily deaths: +6, population: 3_482_108, daily cases ratio: 389.70646516420516, daily deaths ratio: 1.7230941716914008, positive tests percentage: 10.89347354900859
-40: Namibia, daily cases: +179, daily deaths: +6, population: 2_572_709, daily cases ratio: 69.57646589645388, daily deaths ratio: 2.3321720412219182, positive tests percentage: 10.789632308619652
-41: Ivory Coast, daily cases: +313, daily deaths: +2, population: 26_828_189, daily cases ratio: 11.66683297184167, daily deaths ratio: 0.07454845349419598, positive tests percentage: 10.412508316699935
-42: Senegal, daily cases: +198, daily deaths: +10, population: 17_047_593, daily cases ratio: 11.614542885907706, daily deaths ratio: 0.5865930750458438, positive tests percentage: 10.232558139534884
-43: Turkey, daily cases: +14941, daily deaths: +66, population: 84_968_579, daily cases ratio: 175.84147193988028, daily deaths ratio: 0.7767577235815606, positive tests percentage: 10.037217176331488
-44: Curaçao, daily cases: +45, daily deaths: None, population: 164_560, daily cases ratio: 273.45649003403014, daily deaths ratio: 0, positive tests percentage: 9.554140127388536
-45: Costa Rica, daily cases: +376, daily deaths: +3, population: 5_126_410, daily cases ratio: 73.34567465341243, daily deaths ratio: 0.5852048509580778, positive tests percentage: 9.511763217809259
-46: Chile, daily cases: +5973, daily deaths: +89, population: 19_230_141, daily cases ratio: 310.6061468816063, daily deaths ratio: 4.628151192443155, positive tests percentage: 9.093261882288463
-47: Guyana, daily cases: +76, daily deaths: None, population: 789_192, daily cases ratio: 96.30102687305497, daily deaths ratio: 0, positive tests percentage: 8.909730363423213
-48: Lithuania, daily cases: +364, daily deaths: +10, population: 2_695_669, daily cases ratio: 135.0314152071341, daily deaths ratio: 3.709654263932256, positive tests percentage: 8.83495145631068
-49: Philippines, daily cases: +4571, daily deaths: +87, population: 110_591_530, daily cases ratio: 41.33227924416997, daily deaths ratio: 0.7866786904928433, positive tests percentage: 8.726613211149294
-50: Malta, daily cases: +329, daily deaths: +5, population: 442_362, daily cases ratio: 743.7347692613741, daily deaths ratio: 11.30296001916982, positive tests percentage: 8.706006880127019
-51: Colombia, daily cases: +4078, daily deaths: +92, population: 51_259_107, daily cases ratio: 79.55659469448034, daily deaths ratio: 1.7948030191005864, positive tests percentage: 8.482226428437714
-52: San Marino, daily cases: +33, daily deaths: None, population: 33_981, daily cases ratio: 971.130926105765, daily deaths ratio: 0, positive tests percentage: 8.396946564885496
-53: Belarus, daily cases: +1186, daily deaths: +8, population: 9_447_156, daily cases ratio: 125.54042719311505, daily deaths ratio: 0.8468156977613157, positive tests percentage: 8.249287055713987
-54: Togo, daily cases: +96, daily deaths: None, population: 8_412_461, daily cases ratio: 11.411642799889353, daily deaths ratio: 0, positive tests percentage: 8.156329651656755
-55: Italy, daily cases: +26824, daily deaths: +380, population: 60_399_822, daily cases ratio: 444.1072690578459, daily deaths ratio: 6.291409269384934, positive tests percentage: 7.256868919693969
-56: Bahamas, daily cases: +16, daily deaths: None, population: 395_852, daily cases ratio: 40.4191465497206, daily deaths ratio: 0, positive tests percentage: 6.956521739130435
-57: Aruba, daily cases: +48, daily deaths: None, population: 107_081, daily cases ratio: 448.25879474416564, daily deaths ratio: 0, positive tests percentage: 6.837606837606838
-58: Guinea-Bissau, daily cases: +18, daily deaths: +1, population: 2_000_058, daily cases ratio: 8.999739007568781, daily deaths ratio: 0.4999855004204878, positive tests percentage: 6.7164179104477615
-59: Azerbaijan, daily cases: +576, daily deaths: +6, population: 10_202_622, daily cases ratio: 56.456075702892846, daily deaths ratio: 0.5880841219051338, positive tests percentage: 6.701570680628273
-60: Czechia, daily cases: +11220, daily deaths: +207, population: 10_722_817, daily cases ratio: 1046.3668269261705, daily deaths ratio: 19.304628625108492, positive tests percentage: 6.685296518521608
-61: Qatar, daily cases: +455, daily deaths: +1, population: 2_807_805 , daily cases ratio: 162.04829039053638, daily deaths ratio: 0.35615008877040966, positive tests percentage: 6.658861407873555
-62: France, daily cases: +25229, daily deaths: +254, population: 65_374_087, daily cases ratio: 385.91743545114446, daily deaths ratio: 3.885331507574248, positive tests percentage: 6.639455137820867
-63: Bangladesh, daily cases: +1066, daily deaths: +13, population: 165_827_934, daily cases ratio: 6.428350002840897, daily deaths ratio: 0.07839451222976702, positive tests percentage: 6.616597355843834
-64: Pakistan, daily cases: +2701, daily deaths: +53, population: 223_854_800, daily cases ratio: 12.06585697514639, daily deaths ratio: 0.23676061446973665, positive tests percentage: 6.3647288922402625
-65: Zambia, daily cases: +327, daily deaths: +1, population: 18_737_978, daily cases ratio: 17.45118923717383, daily deaths ratio: 0.05336755118401783, positive tests percentage: 6.255978572795103
-66: Belgium, daily cases: +3503, daily deaths: +23, population: 11_624_713, daily cases ratio: 301.34077288617794, daily deaths ratio: 1.9785434702775029, positive tests percentage: 6.080436027841905
-67: Austria, daily cases: +3126, daily deaths: +33, population: 9_042_127, daily cases ratio: 345.71511769299417, daily deaths ratio: 3.6495837760296888, positive tests percentage: 5.416269600623755
-68: Panama, daily cases: +451, daily deaths: +9, population: 4_361_767, daily cases ratio: 103.39846213701925, daily deaths ratio: 2.063383945084641, positive tests percentage: 5.34930613213142
-69: El Salvador, daily cases: +133, daily deaths: +5, population: 6_508_966, daily cases ratio: 20.433353008757457, daily deaths ratio: 0.7681711657427617, positive tests percentage: 5.307262569832402
-70: Indonesia, daily cases: +6412, daily deaths: +180, population: 275_530_076, daily cases ratio: 23.271506664847724, daily deaths ratio: 0.6532862132989068, positive tests percentage: 5.227713731309212
-71: South Africa, daily cases: +1225, daily deaths: +69, population: 59_826_923, daily cases ratio: 20.475731302443883, daily deaths ratio: 1.1533269060152065, positive tests percentage: 5.07603696183649
-72: Greece, daily cases: +2357, daily deaths: +49, population: 10_387_498, daily cases ratio: 226.90738424209565, daily deaths ratio: 4.717209091159392, positive tests percentage: 4.956157873709444
-73: Bahrain, daily cases: +744, daily deaths: +2, population: 1_742_099, daily cases ratio: 427.07102179612065, daily deaths ratio: 1.1480403811723674, positive tests percentage: 4.719913722007233
-74: Malawi, daily cases: +73, daily deaths: +1, population: 19_470_243, daily cases ratio: 3.749311192469452, daily deaths ratio: 0.05136042729410208, positive tests percentage: 4.392298435619735
-75: Cuba, daily cases: +762, daily deaths: +4, population: 11_321_796, daily cases ratio: 67.3038093956118, daily deaths ratio: 0.3533008367223716, positive tests percentage: 4.290782138633932
-76: USA, daily cases: +66785, daily deaths: +1505, population: 332_352_077, daily cases ratio: 200.9465401956853, daily deaths ratio: 4.5283303585312025, positive tests percentage: 4.065585067428993
-77: Switzerland, daily cases: +1333, daily deaths: +14, population: 8_698_595, daily cases ratio: 153.24313869078858, daily deaths ratio: 1.6094553200833008, positive tests percentage: 4.005288302635137
-78: Gabon, daily cases: +347, daily deaths: +3, population: 2_261_930, daily cases ratio: 153.4088145963845, daily deaths ratio: 1.3263009907468402, positive tests percentage: 3.9337943543815896
-79: Barbados, daily cases: +19, daily deaths: None, population: 287_620, daily cases ratio: 66.05938390932481, daily deaths ratio: 0, positive tests percentage: 3.8306451612903225
-80: Finland, daily cases: +706, daily deaths: +3, population: 5_546_715, daily cases ratio: 127.28254471340244, daily deaths ratio: 0.5408606715866959, positive tests percentage: 3.825936162141657
-81: India, daily cases: +27512, daily deaths: +157, population: 1_389_419_783, daily cases ratio: 19.801071164106204, daily deaths ratio: 0.11299680767536617, positive tests percentage: 3.716105329272164
-82: Latvia, daily cases: +632, daily deaths: +9, population: 1_871_599, daily cases ratio: 337.67917166016866, daily deaths ratio: 4.808722381236579, positive tests percentage: 3.5060468212581823
-83: Maldives, daily cases: +114, daily deaths: None, population: 547_126, daily cases ratio: 208.3615108768364, daily deaths ratio: 0, positive tests percentage: 3.4409900392393604
-84: Morocco, daily cases: +431, daily deaths: +4, population: 37_213_872, daily cases ratio: 11.581702651097418, daily deaths ratio: 0.10748679954614773, positive tests percentage: 3.1895212018056687
-85: Malaysia, daily cases: +1575, daily deaths: +3, population: 32_653_364, daily cases ratio: 48.23392775090493, daily deaths ratio: 0.09187414809696176, positive tests percentage: 3.0722116022314983
-86: Trinidad and Tobago, daily cases: +6, daily deaths: None, population: 1_402_642, daily cases ratio: 4.277641764612781, daily deaths ratio: 0, positive tests percentage: 2.9702970297029703
-87: Canada, daily cases: +3476, daily deaths: +33, population: 37_971_911, daily cases ratio: 91.54135013115354, daily deaths ratio: 0.869063450612217, positive tests percentage: 2.8644889079342057
-88: Rwanda, daily cases: +112, daily deaths: +2, population: 13_173_363, daily cases ratio: 8.502005144775863, daily deaths ratio: 0.15182152044242614, positive tests percentage: 2.487230735065512
-89: Dominica, daily cases: +5, daily deaths: None, population: 72_110, daily cases ratio: 69.33851060879212, daily deaths ratio: 0, positive tests percentage: 2.4630541871921183
-90: Israel, daily cases: +1948, daily deaths: +13, population: 9_197_590 , daily cases ratio: 211.79461141451182, daily deaths ratio: 1.4134137312056745, positive tests percentage: 2.3567271979384685
-91: Japan, daily cases: +1288, daily deaths: +49, population: 126_206_260, daily cases ratio: 10.205515954596864, daily deaths ratio: 0.3882533243596633, positive tests percentage: 2.199528672427337
-92: Kyrgyzstan, daily cases: +63, daily deaths: +4, population: 6_598_650, daily cases ratio: 9.547407424245868, daily deaths ratio: 0.6061845983648171, positive tests percentage: 2.0381753477838886
-93: Luxembourg, daily cases: +182, daily deaths: +6, population: 633_023, daily cases ratio: 287.50930060993045, daily deaths ratio: 9.478328591536169, positive tests percentage: 1.8016234409027914
-94: Timor-Leste, daily cases: +11, daily deaths: None, population: 1_335_793, daily cases ratio: 8.234808836399052, daily deaths ratio: 0, positive tests percentage: 1.7915309446254073
-95: New Caledonia, daily cases: +7, daily deaths: None, population: 287_403, daily cases ratio: 24.356043604276923, daily deaths ratio: 0, positive tests percentage: 1.7857142857142856
-96: Gambia, daily cases: +88, daily deaths: None, population: 2_463_350, daily cases ratio: 35.723709582479145, daily deaths ratio: 0, positive tests percentage: 1.6606906963578034
-97: Russia, daily cases: +9794, daily deaths: +486, population: 145_978_069, daily cases ratio: 67.0922698669209, daily deaths ratio: 3.3292672202699163, positive tests percentage: 1.6323333333333332
-98: Mauritania, daily cases: +16, daily deaths: None, population: 4_733_772, daily cases ratio: 3.379968447994538, daily deaths ratio: 0, positive tests percentage: 1.4842300556586272
-99: Belize, daily cases: +11, daily deaths: None, population: 402_617, daily cases ratio: 27.32125071718283, daily deaths ratio: 0, positive tests percentage: 1.4102564102564104
-100: S. Korea, daily cases: +488, daily deaths: +10, population: 51_299_927, daily cases ratio: 9.512684101870164, daily deaths ratio: 0.19493205126783125, positive tests percentage: 1.3677513383222624
-101: Georgia, daily cases: +332, daily deaths: +12, population: 3_983_826, daily cases ratio: 83.33697305052982, daily deaths ratio: 3.0121797488143307, positive tests percentage: 1.2434456928838953
-102: Afghanistan, daily cases: +17, daily deaths: +3, population: 39_532_913, daily cases ratio: 0.4300214355567473, daily deaths ratio: 0.07588613568648482, positive tests percentage: 0.9609949123798756
-103: UAE, daily cases: +2250, daily deaths: +9, population: 9_973_240, daily cases ratio: 225.6037155427925, daily deaths ratio: 0.9024148621711701, positive tests percentage: 0.9393591483143723
-104: Cayman Islands, daily cases: +5, daily deaths: None, population: 66_257, daily cases ratio: 75.46372458759073, daily deaths ratio: 0, positive tests percentage: 0.8012820512820512
-105: Djibouti, daily cases: +2, daily deaths: None, population: 997_948, daily cases ratio: 2.0041124387242624, daily deaths ratio: 0, positive tests percentage: 0.7117437722419928
-106: Saudi Arabia, daily cases: +360, daily deaths: +5, population: 35_189_073, daily cases ratio: 10.230448525881883, daily deaths ratio: 0.1420895628594706, positive tests percentage: 0.6969180734087037
-107: Nepal, daily cases: +48, daily deaths: None, population: 29_499_030, daily cases ratio: 1.627172147694348, daily deaths ratio: 0, positive tests percentage: 0.6861063464837049
-108: Cyprus, daily cases: +383, daily deaths: +2, population: 1_213_465, daily cases ratio: 315.6250901344497, daily deaths ratio: 1.6481727944357687, positive tests percentage: 0.6679805361285035
-109: Mongolia, daily cases: +103, daily deaths: None, population: 3_314_815, daily cases ratio: 31.072623962423243, daily deaths ratio: 0, positive tests percentage: 0.5325474380848974
-110: Norway, daily cases: +905, daily deaths: None, population: 5_450_686, daily cases ratio: 166.03414689453768, daily deaths ratio: 0, positive tests percentage: 0.4417802033653401
-111: Gibraltar, daily cases: +4, daily deaths: None, population: 33_684, daily cases ratio: 118.7507421921387, daily deaths ratio: 0, positive tests percentage: 0.4171011470281543
-112: Uganda, daily cases: +9, daily deaths: None, population: 46_732_418, daily cases ratio: 0.19258579772182985, daily deaths ratio: 0, positive tests percentage: 0.40196516301920504
-113: UK, daily cases: +6609, daily deaths: +175, population: 68_134_001, daily cases ratio: 97.00002793025467, daily deaths ratio: 2.5684679812066227, positive tests percentage: 0.37988980953776913
-114: Denmark, daily cases: +645, daily deaths: +3, population: 5_806_397, daily cases ratio: 111.08437814362331, daily deaths ratio: 0.5166715262494108, positive tests percentage: 0.277229765450724
-115: Myanmar, daily cases: +8, daily deaths: None, population: 54_663_290, daily cases ratio: 0.14635050323535226, daily deaths ratio: 0, positive tests percentage: 0.19521717911176184
-116: Iceland, daily cases: +2, daily deaths: None, population: 342_782, daily cases ratio: 5.834612085815475, daily deaths ratio: 0, positive tests percentage: 0.10610079575596816
-117: Australia, daily cases: +12, daily deaths: None, population: 25_705_031, daily cases ratio: 0.46683468306262693, daily deaths ratio: 0, positive tests percentage: 0.026488896737450886
-118: New Zealand, daily cases: +1, daily deaths: None, population: 5_002_100 , daily cases ratio: 0.1999160352651886, daily deaths ratio: 0, positive tests percentage: 0.015071590052750564
-119: China, daily cases: +9, daily deaths: None, population: 1_439_323_776 , daily cases ratio: 0.0062529363789235425, daily deaths ratio: 0, positive tests percentage: 0
-120: Brazil, daily cases: +84047, daily deaths: +2152, population: 213_609_288, daily cases ratio: 393.46135548188334, daily deaths ratio: 10.074468297464668, positive tests percentage: 0
-121: Spain, daily cases: +5348, daily deaths: +173, population: 46_767_398, daily cases ratio: 114.35316542519642, daily deaths ratio: 3.6991581186535116, positive tests percentage: 0
-122: Germany, daily cases: +12786, daily deaths: +230, population: 83_970_413, daily cases ratio: 152.26791846313773, daily deaths ratio: 2.7390600067669073, positive tests percentage: 0
-123: Iran, daily cases: +8088, daily deaths: +53, population: 84_737_946, daily cases ratio: 95.44720378282476, daily deaths ratio: 0.6254576904660871, positive tests percentage: 0
-124: Ukraine, daily cases: +12946, daily deaths: +230, population: 43_550_185, daily cases ratio: 297.26624582651027, daily deaths ratio: 5.281263443542203, positive tests percentage: 0
-125: Netherlands, daily cases: +6026, daily deaths: +26, population: 17_161_273, daily cases ratio: 351.1394521839959, daily deaths ratio: 1.515039123263175, positive tests percentage: 0
-126: Portugal, daily cases: +577, daily deaths: +15, population: 10_175_962, daily cases ratio: 56.702255767071456, daily deaths ratio: 1.474062108329414, positive tests percentage: 0
-127: Sweden, daily cases: None, daily deaths: +35, population: 10_143_038, daily cases ratio: 0, daily deaths ratio: 3.450642696990783, positive tests percentage: 0
-128: Ireland, daily cases: +641, daily deaths: +9, population: 4_976_038, daily cases ratio: 128.81734424053835, daily deaths ratio: 1.8086678598515527, positive tests percentage: 0
-129: Kazakhstan, daily cases: +899, daily deaths: None, population: 18_932_409, daily cases ratio: 47.484712589929785, daily deaths ratio: 0, positive tests percentage: 0
-130: Egypt, daily cases: +639, daily deaths: +45, population: 103_667_896, daily cases ratio: 6.163914043360155, daily deaths ratio: 0.43407845375775733, positive tests percentage: 0
-131: Nigeria, daily cases: +399, daily deaths: +8, population: 209_658_679, daily cases ratio: 1.9030931698277085, daily deaths ratio: 0.03815725653789891, positive tests percentage: 0
-132: Oman, daily cases: None, daily deaths: None, population: 5_196_050, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-133: Venezuela, daily cases: +509, daily deaths: +7, population: 28_379_718, daily cases ratio: 17.935343825474234, daily deaths ratio: 0.24665502314011714, positive tests percentage: 0
-134: Bosnia and Herzegovina, daily cases: +1170, daily deaths: +36, population: 3_266_560, daily cases ratio: 358.17496081504703, daily deaths ratio: 11.02076802507837, positive tests percentage: 0
-135: Algeria, daily cases: +157, daily deaths: +3, population: 44_398_335, daily cases ratio: 3.5361686423601246, daily deaths ratio: 0.06757010144637181, positive tests percentage: 0
-136: Sri Lanka, daily cases: +297, daily deaths: +5, population: 21_475_715, daily cases ratio: 13.829574475168814, daily deaths ratio: 0.2328211191105861, positive tests percentage: 0
-137: Ghana, daily cases: None, daily deaths: None, population: 31_520_596, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-138: Uzbekistan, daily cases: +45, daily deaths: None, population: 33_805_059, daily cases ratio: 1.3311617057080125, daily deaths ratio: 0, positive tests percentage: 0
-139: Singapore, daily cases: +10, daily deaths: None, population: 5_882_301, daily cases ratio: 1.7000150111325483, daily deaths ratio: 0, positive tests percentage: 0
-140: Cameroon, daily cases: None, daily deaths: None, population: 27_000_972, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-141: Zimbabwe, daily cases: +46, daily deaths: +4, population: 15_012_729, daily cases ratio: 3.0640664998349068, daily deaths ratio: 0.2664405652030354, positive tests percentage: 0
-142: Botswana, daily cases: None, daily deaths: None, population: 2_384_409, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-143: Sudan, daily cases: None, daily deaths: None, population: 44_554_963, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-144: DRC, daily cases: +87, daily deaths: None, population: 91_431_296, daily cases ratio: 0.9515341442825004, daily deaths ratio: 0, positive tests percentage: 0
-145: Thailand, daily cases: +81, daily deaths: None, population: 69_921_924, daily cases ratio: 1.158434942379446, daily deaths ratio: 0, positive tests percentage: 0
-146: Angola, daily cases: +60, daily deaths: +2, population: 33_568_110, daily cases ratio: 1.7874107300053532, daily deaths ratio: 0.05958035766684511, positive tests percentage: 0
-147: Madagascar, daily cases: None, daily deaths: None, population: 28_181_106, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-148: Mayotte, daily cases: +38, daily deaths: None, population: 277_350, daily cases ratio: 137.01099693528033, daily deaths ratio: 0, positive tests percentage: 0
-149: French Polynesia, daily cases: +10, daily deaths: None, population: 282_037, daily cases ratio: 35.456340834713174, daily deaths ratio: 0, positive tests percentage: 0
-150: Guinea, daily cases: +220, daily deaths: +1, population: 13_377_852, daily cases ratio: 16.445091484043925, daily deaths ratio: 0.0747504158365633, positive tests percentage: 0
-151: Eswatini, daily cases: +10, daily deaths: None, population: 1_168_498, daily cases ratio: 8.557994964475764, daily deaths ratio: 0, positive tests percentage: 0
-152: French Guiana, daily cases: +71, daily deaths: None, population: 304_011, daily cases ratio: 233.54418096713604, daily deaths ratio: 0, positive tests percentage: 0
-153: Syria, daily cases: +71, daily deaths: +5, population: 17_793_554, daily cases ratio: 3.990209038621514, daily deaths ratio: 0.28100063652264184, positive tests percentage: 0
-154: Cabo Verde, daily cases: +54, daily deaths: None, population: 560_176, daily cases ratio: 96.39827482791122, daily deaths ratio: 0, positive tests percentage: 0
-155: Réunion, daily cases: None, daily deaths: None, population: 899_752, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-156: Tajikistan, daily cases: None, daily deaths: None, population: 9_685_375, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-157: Haiti, daily cases: +38, daily deaths: None, population: 11_498_882, daily cases ratio: 3.3046690973957293, daily deaths ratio: 0, positive tests percentage: 0
-158: Burkina Faso, daily cases: +30, daily deaths: +1, population: 21_297_525, daily cases ratio: 1.4086143812485252, daily deaths ratio: 0.04695381270828418, positive tests percentage: 0
-159: Hong Kong, daily cases: +60, daily deaths: None, population: 7_539_223, daily cases ratio: 7.958379795902045, daily deaths ratio: 0, positive tests percentage: 0
-160: Andorra, daily cases: +69, daily deaths: None, population: 77_351, daily cases ratio: 892.0375948597949, daily deaths ratio: 0, positive tests percentage: 0
-161: Guadeloupe, daily cases: None, daily deaths: None, population: 400_172, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-162: Lesotho, daily cases: None, daily deaths: None, population: 2_154_044, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-163: Congo, daily cases: None, daily deaths: None, population: 5_611_646, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-164: Somalia, daily cases: None, daily deaths: None, population: 16_198_132, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-165: Mali, daily cases: +31, daily deaths: +1, population: 20_651_739, daily cases ratio: 1.5010842428330127, daily deaths ratio: 0.048422072349452026, positive tests percentage: 0
-166: Martinique, daily cases: None, daily deaths: None, population: 375_062, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-167: Nicaragua, daily cases: None, daily deaths: None, population: 6_679_195, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-168: Benin, daily cases: None, daily deaths: None, population: 12_341_752, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-169: Equatorial Guinea, daily cases: None, daily deaths: None, population: 1_434_598, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-170: CAR, daily cases: None, daily deaths: None, population: 4_887_826, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-171: Niger, daily cases: None, daily deaths: None, population: 24_806_536, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-172: Chad, daily cases: +28, daily deaths: +1, population: 16_749_845, daily cases ratio: 1.6716572601119593, daily deaths ratio: 0.05970204500399855, positive tests percentage: 0
-173: Channel Islands, daily cases: None, daily deaths: None, population: 174_975, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-174: Sierra Leone, daily cases: +2, daily deaths: None, population: 8_088_973, daily cases ratio: 0.2472501762584694, daily deaths ratio: 0, positive tests percentage: 0
-175: Comoros, daily cases: +3, daily deaths: None, population: 882_383, daily cases ratio: 3.3998841772790276, daily deaths ratio: 0, positive tests percentage: 0
-176: Seychelles, daily cases: +41, daily deaths: None, population: 98_770, daily cases ratio: 415.10580135668727, daily deaths ratio: 0, positive tests percentage: 0
-177: Eritrea, daily cases: +29, daily deaths: None, population: 3_580_417, daily cases ratio: 8.099615212417994, daily deaths ratio: 0, positive tests percentage: 0
-178: Yemen, daily cases: +62, daily deaths: +12, population: 30_279_066, daily cases ratio: 2.047619302391956, daily deaths ratio: 0.3963134133661851, positive tests percentage: 0
-179: Liechtenstein, daily cases: +5, daily deaths: None, population: 38_204, daily cases ratio: 130.87634802638465, daily deaths ratio: 0, positive tests percentage: 0
-180: Vietnam, daily cases: +17, daily deaths: None, population: 97_946_595, daily cases ratio: 0.17356397126413636, daily deaths ratio: 0, positive tests percentage: 0
-181: Burundi, daily cases: +24, daily deaths: None, population: 12_134_068, daily cases ratio: 1.9779022171294902, daily deaths ratio: 0, positive tests percentage: 0
-182: Turks and Caicos, daily cases: None, daily deaths: None, population: 39_080, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-183: Monaco, daily cases: +22, daily deaths: +1, population: 39_435, daily cases ratio: 557.8800557880056, daily deaths ratio: 25.358184354000255, positive tests percentage: 0
-184: Sint Maarten, daily cases: +4, daily deaths: None, population: 43_214, daily cases ratio: 92.56259545517656, daily deaths ratio: 0, positive tests percentage: 0
-185: Sao Tome and Principe, daily cases: +22, daily deaths: None, population: 221_971, daily cases ratio: 99.11204616819313, daily deaths ratio: 0, positive tests percentage: 0
-186: Liberia, daily cases: +4, daily deaths: None, population: 5_139_613, daily cases ratio: 0.7782687140062879, daily deaths ratio: 0, positive tests percentage: 0
-187: Papua New Guinea, daily cases: None, daily deaths: None, population: 9_064_111, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-188: St. Vincent Grenadines, daily cases: None, daily deaths: None, population: 111_185, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-189: Saint Martin, daily cases: +28, daily deaths: None, population: 39_122, daily cases ratio: 715.7098307857472, daily deaths ratio: 0, positive tests percentage: 0
-190: Cambodia, daily cases: +62, daily deaths: None, population: 16_879_226, daily cases ratio: 3.6731542074263355, daily deaths ratio: 0, positive tests percentage: 0
-191: Isle of Man, daily cases: +66, daily deaths: +1, population: 85_346, daily cases ratio: 773.3227099102477, daily deaths ratio: 11.717010756215874, positive tests percentage: 0
-192: Taiwan, daily cases: +6, daily deaths: None, population: 23_846_797, daily cases ratio: 0.2516061171653367, daily deaths ratio: 0, positive tests percentage: 0
-193: Antigua and Barbuda, daily cases: +8, daily deaths: None, population: 98_492, daily cases ratio: 81.22487105551721, daily deaths ratio: 0, positive tests percentage: 0
-194: Bhutan, daily cases: None, daily deaths: None, population: 777_501, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-195: Bermuda, daily cases: None, daily deaths: None, population: 62_117, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-196: Diamond Princess, daily cases: None, daily deaths: None, population:  , daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-197: St. Barth, daily cases: +58, daily deaths: None, population: 9_898, daily cases ratio: 5859.769650434431, daily deaths ratio: 0, positive tests percentage: 0
-198: Mauritius, daily cases: +43, daily deaths: None, population: 1_273_238, daily cases ratio: 33.772161999563316, daily deaths ratio: 0, positive tests percentage: 0
-199: Faeroe Islands, daily cases: None, daily deaths: None, population: 48_992, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-200: Tanzania, daily cases: None, daily deaths: None, population: 60_903_854, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-201: Brunei , daily cases: None, daily deaths: None, population: 440_386, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-202: British Virgin Islands, daily cases: None, daily deaths: None, population: 30_371, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-203: Grenada, daily cases: None, daily deaths: None, population: 112_886, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-204: Wallis and Futuna, daily cases: +17, daily deaths: None, population: 11_101, daily cases ratio: 1531.3935681470139, daily deaths ratio: 0, positive tests percentage: 0
-205: Fiji, daily cases: None, daily deaths: None, population: 900_958, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-206: Falkland Islands, daily cases: None, daily deaths: None, population: 3_550, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-207: Macao, daily cases: None, daily deaths: None, population: 655_466, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-208: Laos, daily cases: None, daily deaths: None, population: 7_348_660, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-209: Saint Kitts and Nevis, daily cases: None, daily deaths: None, population: 53_460, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-210: Greenland, daily cases: None, daily deaths: None, population: 56_839, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-211: Vatican City, daily cases: None, daily deaths: None, population: 802, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-212: Saint Pierre Miquelon, daily cases: None, daily deaths: None, population: 5_774, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-213: Montserrat, daily cases: None, daily deaths: None, population: 4_994, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-214: Anguilla, daily cases: None, daily deaths: None, population: 15_096, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-215: Solomon Islands, daily cases: None, daily deaths: None, population: 698_488, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-216: Western Sahara, daily cases: None, daily deaths: None, population: 607_456, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-217: MS Zaandam, daily cases: None, daily deaths: None, population:  , daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-218: Marshall Islands, daily cases: None, daily deaths: None, population: 59_468, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-219: Samoa, daily cases: None, daily deaths: None, population: 199_330, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-220: Vanuatu, daily cases: None, daily deaths: None, population: 312_092, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
-221: Micronesia, daily cases: None, daily deaths: None, population: 115_859, daily cases ratio: 0, daily deaths ratio: 0, positive tests percentage: 0
+Ordinal Position, Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population
+1, Paraguay, +1766, +25, 245.50736125879936, 3.4754722715005575, 35.11632531318353, 7_193_267
+2, Moldova, +1785, +38, 443.2115631289693, 9.435316189860412, 34.98627989023912, 4_027_422
+3, Caribbean Netherlands, +30, None, 1136.7080933616248, 0, 30.303030303030305, 26_392
+4, Honduras, +985, +10, 98.36618264512957, 0.9986414481739042, 29.298036882807853, 10_013_604
+5, Poland, +18789, +352, 496.830757084241, 9.30780916992138, 28.48285480398993, 37_817_707
+6, Palestine, +1983, +17, 382.58506729773586, 3.279851812436465, 28.41381286717295, 5_183_161
+7, Serbia, +4668, +26, 535.7634129368959, 2.984114982082111, 27.73453746063811, 8_712_801
+8, Montenegro, +581, +4, 924.9810148044724, 6.368199757689999, 25.206073752711493, 628_121
+9, Mexico, +6470, +654, 49.81808851828885, 5.035707865681748, 24.887487017732816, 129_872_506
+10, Hungary, +9011, +130, 934.4373610684214, 13.48095182986292, 24.489074899445594, 9_643_236
+11, Jamaica, +419, +5, 141.06988885106824, 1.6834115614685947, 23.99770904925544, 2_970_159
+12, North Macedonia, +868, +15, 416.64386645508074, 7.200066816620058, 23.754789272030653, 2_083_314
+13, Armenia, +818, +4, 275.690067742914, 1.348117690674396, 20.793085917641076, 2_967_100
+14, Slovakia, +2301, +102, 421.3139832847659, 18.676239154735388, 20.58876163206872, 5_461_485
+15, Albania, +681, +16, 236.81964775424728, 5.564044587471302, 20.389221556886227, 2_875_606
+16, Libya, +972, +8, 140.1380850332525, 1.1533998768168932, 19.70004053506283, 6_936_016
+17, Ethiopia, +1361, +27, 11.639939634811219, 0.23091724477582876, 19.484609878310664, 116_925_005
+18, Ecuador, +1259, +65, 70.61730971046903, 3.6458499850520147, 19.35136796802951, 17_828_490
+19, Estonia, +1358, +9, 1023.239903040861, 6.78141320130173, 18.772463367431573, 1_327_157
+20, Argentina, +7849, +85, 172.56744432166042, 1.868802747782028, 18.528398092630187, 45_483_666
+21, Bulgaria, +3159, +102, 457.03938307929957, 14.757207050993529, 18.406945577438528, 6_911_877
+22, Kuwait, +1356, +8, 314.30395927955783, 1.8543006447171555, 17.36902779556808, 4_314_295
+23, Mozambique, +359, +8, 11.268912507566887, 0.2511178274666716, 15.835906484340539, 31_857_555
+24, Jordan, +7705, +55, 749.9934539831563, 5.353619723435899, 15.24384212088238, 10_273_423
+25, Dominican Republic, +529, +9, 48.42817168363606, 0.8239197450902165, 14.755927475592747, 10_923_394
+26, Slovenia, +770, +8, 370.3459656578667, 3.847750292549265, 14.745308310991955, 2_079_137
+27, Guatemala, +831, +15, 45.79881566797876, 0.8266934236097249, 14.653500264503617, 18_144_574
+28, Lebanon, +2930, +48, 430.6225861987372, 7.054567965030507, 14.355004654353046, 6_804_102
+29, Croatia, +823, +12, 201.34172363194048, 2.935723795362437, 13.843566021867115, 4_087_578
+30, Tunisia, +640, +16, 53.76157564425898, 1.3440393911064745, 13.813943449169006, 11_904_413
+31, Romania, +5010, +108, 261.6460839284389, 5.640274863128024, 13.330495170688875, 19_148_003
+32, South Sudan, +129, +1, 11.431390918477701, 0.08861543347657132, 12.797619047619047, 11_284_716
+33, Peru, +8039, +180, 241.4841975042147, 5.407035147500765, 12.032990061070532, 33_289_963
+34, Iraq, +4622, +25, 113.15968552771598, 0.6120709948491778, 11.988068992348593, 40_844_935
+35, Kenya, +750, +2, 13.73921439611738, 0.03663790505631301, 11.973180076628353, 54_588_274
+36, Saint Lucia, +23, +1, 124.85682179674394, 5.42855746942365, 11.6751269035533, 184_211
+37, Suriname, +15, None, 25.411625988300486, 0, 11.450381679389313, 590_281
+38, Bolivia, +778, +19, 66.0255456060848, 1.6124490572180092, 11.013590033975085, 11_783_318
+39, Uruguay, +1357, +6, 389.70646516420516, 1.7230941716914008, 10.89347354900859, 3_482_108
+40, Namibia, +179, +6, 69.57646589645388, 2.3321720412219182, 10.789632308619652, 2_572_709
+41, Ivory Coast, +313, +2, 11.66683297184167, 0.07454845349419598, 10.412508316699935, 26_828_189
+42, Senegal, +198, +10, 11.614542885907706, 0.5865930750458438, 10.232558139534884, 17_047_593
+43, Turkey, +14941, +66, 175.84147193988028, 0.7767577235815606, 10.037217176331488, 84_968_579
+44, Curaçao, +45, None, 273.45649003403014, 0, 9.554140127388536, 164_560
+45, Costa Rica, +376, +3, 73.34567465341243, 0.5852048509580778, 9.511763217809259, 5_126_410
+46, Chile, +5973, +89, 310.6061468816063, 4.628151192443155, 9.093261882288463, 19_230_141
+47, Guyana, +76, None, 96.30102687305497, 0, 8.909730363423213, 789_192
+48, Lithuania, +364, +10, 135.0314152071341, 3.709654263932256, 8.83495145631068, 2_695_669
+49, Philippines, +4571, +87, 41.33227924416997, 0.7866786904928433, 8.726613211149294, 110_591_530
+50, Malta, +329, +5, 743.7347692613741, 11.30296001916982, 8.706006880127019, 442_362
+51, Colombia, +4078, +92, 79.55659469448034, 1.7948030191005864, 8.482226428437714, 51_259_107
+52, San Marino, +33, None, 971.130926105765, 0, 8.396946564885496, 33_981
+53, Belarus, +1186, +8, 125.54042719311505, 0.8468156977613157, 8.249287055713987, 9_447_156
+54, Togo, +96, None, 11.411642799889353, 0, 8.156329651656755, 8_412_461
+55, Italy, +26824, +380, 444.1072690578459, 6.291409269384934, 7.256868919693969, 60_399_822
+56, Bahamas, +16, None, 40.4191465497206, 0, 6.956521739130435, 395_852
+57, Aruba, +48, None, 448.25879474416564, 0, 6.837606837606838, 107_081
+58, Guinea-Bissau, +18, +1, 8.999739007568781, 0.4999855004204878, 6.7164179104477615, 2_000_058
+59, Azerbaijan, +576, +6, 56.456075702892846, 0.5880841219051338, 6.701570680628273, 10_202_622
+60, Czechia, +11220, +207, 1046.3668269261705, 19.304628625108492, 6.685296518521608, 10_722_817
+61, Qatar, +455, +1, 162.04829039053638, 0.35615008877040966, 6.658861407873555, 2_807_805 
+62, France, +25229, +254, 385.91743545114446, 3.885331507574248, 6.639455137820867, 65_374_087
+63, Bangladesh, +1066, +13, 6.428350002840897, 0.07839451222976702, 6.616597355843834, 165_827_934
+64, Pakistan, +2701, +53, 12.06585697514639, 0.23676061446973665, 6.3647288922402625, 223_854_800
+65, Zambia, +327, +1, 17.45118923717383, 0.05336755118401783, 6.255978572795103, 18_737_978
+66, Belgium, +3503, +23, 301.34077288617794, 1.9785434702775029, 6.080436027841905, 11_624_713
+67, Austria, +3126, +33, 345.71511769299417, 3.6495837760296888, 5.416269600623755, 9_042_127
+68, Panama, +451, +9, 103.39846213701925, 2.063383945084641, 5.34930613213142, 4_361_767
+69, El Salvador, +133, +5, 20.433353008757457, 0.7681711657427617, 5.307262569832402, 6_508_966
+70, Indonesia, +6412, +180, 23.271506664847724, 0.6532862132989068, 5.227713731309212, 275_530_076
+71, South Africa, +1225, +69, 20.475731302443883, 1.1533269060152065, 5.07603696183649, 59_826_923
+72, Greece, +2357, +49, 226.90738424209565, 4.717209091159392, 4.956157873709444, 10_387_498
+73, Bahrain, +744, +2, 427.07102179612065, 1.1480403811723674, 4.719913722007233, 1_742_099
+74, Malawi, +73, +1, 3.749311192469452, 0.05136042729410208, 4.392298435619735, 19_470_243
+75, Cuba, +762, +4, 67.3038093956118, 0.3533008367223716, 4.290782138633932, 11_321_796
+76, USA, +66785, +1505, 200.9465401956853, 4.5283303585312025, 4.065585067428993, 332_352_077
+77, Switzerland, +1333, +14, 153.24313869078858, 1.6094553200833008, 4.005288302635137, 8_698_595
+78, Gabon, +347, +3, 153.4088145963845, 1.3263009907468402, 3.9337943543815896, 2_261_930
+79, Barbados, +19, None, 66.05938390932481, 0, 3.8306451612903225, 287_620
+80, Finland, +706, +3, 127.28254471340244, 0.5408606715866959, 3.825936162141657, 5_546_715
+81, India, +27512, +157, 19.801071164106204, 0.11299680767536617, 3.716105329272164, 1_389_419_783
+82, Latvia, +632, +9, 337.67917166016866, 4.808722381236579, 3.5060468212581823, 1_871_599
+83, Maldives, +114, None, 208.3615108768364, 0, 3.4409900392393604, 547_126
+84, Morocco, +431, +4, 11.581702651097418, 0.10748679954614773, 3.1895212018056687, 37_213_872
+85, Malaysia, +1575, +3, 48.23392775090493, 0.09187414809696176, 3.0722116022314983, 32_653_364
+86, Trinidad and Tobago, +6, None, 4.277641764612781, 0, 2.9702970297029703, 1_402_642
+87, Canada, +3476, +33, 91.54135013115354, 0.869063450612217, 2.8644889079342057, 37_971_911
+88, Rwanda, +112, +2, 8.502005144775863, 0.15182152044242614, 2.487230735065512, 13_173_363
+89, Dominica, +5, None, 69.33851060879212, 0, 2.4630541871921183, 72_110
+90, Israel, +1948, +13, 211.79461141451182, 1.4134137312056745, 2.3567271979384685, 9_197_590 
+91, Japan, +1288, +49, 10.205515954596864, 0.3882533243596633, 2.199528672427337, 126_206_260
+92, Kyrgyzstan, +63, +4, 9.547407424245868, 0.6061845983648171, 2.0381753477838886, 6_598_650
+93, Luxembourg, +182, +6, 287.50930060993045, 9.478328591536169, 1.8016234409027914, 633_023
+94, Timor-Leste, +11, None, 8.234808836399052, 0, 1.7915309446254073, 1_335_793
+95, New Caledonia, +7, None, 24.356043604276923, 0, 1.7857142857142856, 287_403
+96, Gambia, +88, None, 35.723709582479145, 0, 1.6606906963578034, 2_463_350
+97, Russia, +9794, +486, 67.0922698669209, 3.3292672202699163, 1.6323333333333332, 145_978_069
+98, Mauritania, +16, None, 3.379968447994538, 0, 1.4842300556586272, 4_733_772
+99, Belize, +11, None, 27.32125071718283, 0, 1.4102564102564104, 402_617
+100, S. Korea, +488, +10, 9.512684101870164, 0.19493205126783125, 1.3677513383222624, 51_299_927
+101, Georgia, +332, +12, 83.33697305052982, 3.0121797488143307, 1.2434456928838953, 3_983_826
+102, Afghanistan, +17, +3, 0.4300214355567473, 0.07588613568648482, 0.9609949123798756, 39_532_913
+103, UAE, +2250, +9, 225.6037155427925, 0.9024148621711701, 0.9393591483143723, 9_973_240
+104, Cayman Islands, +5, None, 75.46372458759073, 0, 0.8012820512820512, 66_257
+105, Djibouti, +2, None, 2.0041124387242624, 0, 0.7117437722419928, 997_948
+106, Saudi Arabia, +360, +5, 10.230448525881883, 0.1420895628594706, 0.6969180734087037, 35_189_073
+107, Nepal, +48, None, 1.627172147694348, 0, 0.6861063464837049, 29_499_030
+108, Cyprus, +383, +2, 315.6250901344497, 1.6481727944357687, 0.6679805361285035, 1_213_465
+109, Mongolia, +103, None, 31.072623962423243, 0, 0.5325474380848974, 3_314_815
+110, Norway, +905, None, 166.03414689453768, 0, 0.4417802033653401, 5_450_686
+111, Gibraltar, +4, None, 118.7507421921387, 0, 0.4171011470281543, 33_684
+112, Uganda, +9, None, 0.19258579772182985, 0, 0.40196516301920504, 46_732_418
+113, UK, +6609, +175, 97.00002793025467, 2.5684679812066227, 0.37988980953776913, 68_134_001
+114, Denmark, +645, +3, 111.08437814362331, 0.5166715262494108, 0.277229765450724, 5_806_397
+115, Myanmar, +8, None, 0.14635050323535226, 0, 0.19521717911176184, 54_663_290
+116, Iceland, +2, None, 5.834612085815475, 0, 0.10610079575596816, 342_782
+117, Australia, +12, None, 0.46683468306262693, 0, 0.026488896737450886, 25_705_031
+118, New Zealand, +1, None, 0.1999160352651886, 0, 0.015071590052750564, 5_002_100 
+119, China, +9, None, 0.0062529363789235425, 0, 0, 1_439_323_776 
+120, Brazil, +84047, +2152, 393.46135548188334, 10.074468297464668, 0, 213_609_288
+121, Spain, +5348, +173, 114.35316542519642, 3.6991581186535116, 0, 46_767_398
+122, Germany, +12786, +230, 152.26791846313773, 2.7390600067669073, 0, 83_970_413
+123, Iran, +8088, +53, 95.44720378282476, 0.6254576904660871, 0, 84_737_946
+124, Ukraine, +12946, +230, 297.26624582651027, 5.281263443542203, 0, 43_550_185
+125, Netherlands, +6026, +26, 351.1394521839959, 1.515039123263175, 0, 17_161_273
+126, Portugal, +577, +15, 56.702255767071456, 1.474062108329414, 0, 10_175_962
+127, Sweden, None, +35, 0, 3.450642696990783, 0, 10_143_038
+128, Ireland, +641, +9, 128.81734424053835, 1.8086678598515527, 0, 4_976_038
+129, Kazakhstan, +899, None, 47.484712589929785, 0, 0, 18_932_409
+130, Egypt, +639, +45, 6.163914043360155, 0.43407845375775733, 0, 103_667_896
+131, Nigeria, +399, +8, 1.9030931698277085, 0.03815725653789891, 0, 209_658_679
+132, Oman, None, None, 0, 0, 0, 5_196_050
+133, Venezuela, +509, +7, 17.935343825474234, 0.24665502314011714, 0, 28_379_718
+134, Bosnia and Herzegovina, +1170, +36, 358.17496081504703, 11.02076802507837, 0, 3_266_560
+135, Algeria, +157, +3, 3.5361686423601246, 0.06757010144637181, 0, 44_398_335
+136, Sri Lanka, +297, +5, 13.829574475168814, 0.2328211191105861, 0, 21_475_715
+137, Ghana, None, None, 0, 0, 0, 31_520_596
+138, Uzbekistan, +45, None, 1.3311617057080125, 0, 0, 33_805_059
+139, Singapore, +10, None, 1.7000150111325483, 0, 0, 5_882_301
+140, Cameroon, None, None, 0, 0, 0, 27_000_972
+141, Zimbabwe, +46, +4, 3.0640664998349068, 0.2664405652030354, 0, 15_012_729
+142, Botswana, None, None, 0, 0, 0, 2_384_409
+143, Sudan, None, None, 0, 0, 0, 44_554_963
+144, DRC, +87, None, 0.9515341442825004, 0, 0, 91_431_296
+145, Thailand, +81, None, 1.158434942379446, 0, 0, 69_921_924
+146, Angola, +60, +2, 1.7874107300053532, 0.05958035766684511, 0, 33_568_110
+147, Madagascar, None, None, 0, 0, 0, 28_181_106
+148, Mayotte, +38, None, 137.01099693528033, 0, 0, 277_350
+149, French Polynesia, +10, None, 35.456340834713174, 0, 0, 282_037
+150, Guinea, +220, +1, 16.445091484043925, 0.0747504158365633, 0, 13_377_852
+151, Eswatini, +10, None, 8.557994964475764, 0, 0, 1_168_498
+152, French Guiana, +71, None, 233.54418096713604, 0, 0, 304_011
+153, Syria, +71, +5, 3.990209038621514, 0.28100063652264184, 0, 17_793_554
+154, Cabo Verde, +54, None, 96.39827482791122, 0, 0, 560_176
+155, Réunion, None, None, 0, 0, 0, 899_752
+156, Tajikistan, None, None, 0, 0, 0, 9_685_375
+157, Haiti, +38, None, 3.3046690973957293, 0, 0, 11_498_882
+158, Burkina Faso, +30, +1, 1.4086143812485252, 0.04695381270828418, 0, 21_297_525
+159, Hong Kong, +60, None, 7.958379795902045, 0, 0, 7_539_223
+160, Andorra, +69, None, 892.0375948597949, 0, 0, 77_351
+161, Guadeloupe, None, None, 0, 0, 0, 400_172
+162, Lesotho, None, None, 0, 0, 0, 2_154_044
+163, Congo, None, None, 0, 0, 0, 5_611_646
+164, Somalia, None, None, 0, 0, 0, 16_198_132
+165, Mali, +31, +1, 1.5010842428330127, 0.048422072349452026, 0, 20_651_739
+166, Martinique, None, None, 0, 0, 0, 375_062
+167, Nicaragua, None, None, 0, 0, 0, 6_679_195
+168, Benin, None, None, 0, 0, 0, 12_341_752
+169, Equatorial Guinea, None, None, 0, 0, 0, 1_434_598
+170, CAR, None, None, 0, 0, 0, 4_887_826
+171, Niger, None, None, 0, 0, 0, 24_806_536
+172, Chad, +28, +1, 1.6716572601119593, 0.05970204500399855, 0, 16_749_845
+173, Channel Islands, None, None, 0, 0, 0, 174_975
+174, Sierra Leone, +2, None, 0.2472501762584694, 0, 0, 8_088_973
+175, Comoros, +3, None, 3.3998841772790276, 0, 0, 882_383
+176, Seychelles, +41, None, 415.10580135668727, 0, 0, 98_770
+177, Eritrea, +29, None, 8.099615212417994, 0, 0, 3_580_417
+178, Yemen, +62, +12, 2.047619302391956, 0.3963134133661851, 0, 30_279_066
+179, Liechtenstein, +5, None, 130.87634802638465, 0, 0, 38_204
+180, Vietnam, +17, None, 0.17356397126413636, 0, 0, 97_946_595
+181, Burundi, +24, None, 1.9779022171294902, 0, 0, 12_134_068
+182, Turks and Caicos, None, None, 0, 0, 0, 39_080
+183, Monaco, +22, +1, 557.8800557880056, 25.358184354000255, 0, 39_435
+184, Sint Maarten, +4, None, 92.56259545517656, 0, 0, 43_214
+185, Sao Tome and Principe, +22, None, 99.11204616819313, 0, 0, 221_971
+186, Liberia, +4, None, 0.7782687140062879, 0, 0, 5_139_613
+187, Papua New Guinea, None, None, 0, 0, 0, 9_064_111
+188, St. Vincent Grenadines, None, None, 0, 0, 0, 111_185
+189, Saint Martin, +28, None, 715.7098307857472, 0, 0, 39_122
+190, Cambodia, +62, None, 3.6731542074263355, 0, 0, 16_879_226
+191, Isle of Man, +66, +1, 773.3227099102477, 11.717010756215874, 0, 85_346
+192, Taiwan, +6, None, 0.2516061171653367, 0, 0, 23_846_797
+193, Antigua and Barbuda, +8, None, 81.22487105551721, 0, 0, 98_492
+194, Bhutan, None, None, 0, 0, 0, 777_501
+195, Bermuda, None, None, 0, 0, 0, 62_117
+196, Diamond Princess, None, None, 0, 0, 0,  
+197, St. Barth, +58, None, 5859.769650434431, 0, 0, 9_898
+198, Mauritius, +43, None, 33.772161999563316, 0, 0, 1_273_238
+199, Faeroe Islands, None, None, 0, 0, 0, 48_992
+200, Tanzania, None, None, 0, 0, 0, 60_903_854
+201, Brunei , None, None, 0, 0, 0, 440_386
+202, British Virgin Islands, None, None, 0, 0, 0, 30_371
+203, Grenada, None, None, 0, 0, 0, 112_886
+204, Wallis and Futuna, +17, None, 1531.3935681470139, 0, 0, 11_101
+205, Fiji, None, None, 0, 0, 0, 900_958
+206, Falkland Islands, None, None, 0, 0, 0, 3_550
+207, Macao, None, None, 0, 0, 0, 655_466
+208, Laos, None, None, 0, 0, 0, 7_348_660
+209, Saint Kitts and Nevis, None, None, 0, 0, 0, 53_460
+210, Greenland, None, None, 0, 0, 0, 56_839
+211, Vatican City, None, None, 0, 0, 0, 802
+212, Saint Pierre Miquelon, None, None, 0, 0, 0, 5_774
+213, Montserrat, None, None, 0, 0, 0, 4_994
+214, Anguilla, None, None, 0, 0, 0, 15_096
+215, Solomon Islands, None, None, 0, 0, 0, 698_488
+216, Western Sahara, None, None, 0, 0, 0, 607_456
+217, MS Zaandam, None, None, 0, 0, 0,  
+218, Marshall Islands, None, None, 0, 0, 0, 59_468
+219, Samoa, None, None, 0, 0, 0, 199_330
+220, Vanuatu, None, None, 0, 0, 0, 312_092
+221, Micronesia, None, None, 0, 0, 0, 115_859
