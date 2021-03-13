@@ -1,156 +1,156 @@
-1: Czechia, daily cases: +11,220, daily deaths: +207, population: 10,722,817, daily cases ratio: 1046.3668269261705, daily deaths ratio: 19.304628625108492
-2: Estonia, daily cases: +1,358, daily deaths: +9, population: 1,327,157, daily cases ratio: 1023.239903040861, daily deaths ratio: 6.78141320130173
-3: Hungary, daily cases: +9,011, daily deaths: +130, population: 9,643,236, daily cases ratio: 934.4373610684214, daily deaths ratio: 13.48095182986292
-4: Jordan, daily cases: +7,705, daily deaths: +55, population: 10,273,423, daily cases ratio: 749.9934539831563, daily deaths ratio: 5.353619723435899
-5: Serbia, daily cases: +4,668, daily deaths: +26, population: 8,712,801, daily cases ratio: 535.7634129368959, daily deaths ratio: 2.984114982082111
-6: Poland, daily cases: +18,789, daily deaths: +352, population: 37,817,707, daily cases ratio: 496.830757084241, daily deaths ratio: 9.30780916992138
-7: Bulgaria, daily cases: +3,159, daily deaths: +102, population: 6,911,877, daily cases ratio: 457.03938307929957, daily deaths ratio: 14.757207050993529
-8: Italy, daily cases: +26,824, daily deaths: +380, population: 60,399,822, daily cases ratio: 444.1072690578459, daily deaths ratio: 6.291409269384934
-9: Moldova, daily cases: +1,785, daily deaths: +38, population: 4,027,422, daily cases ratio: 443.2115631289693, daily deaths ratio: 9.435316189860412
-10: Lebanon, daily cases: +2,930, daily deaths: +48, population: 6,804,102, daily cases ratio: 430.6225861987372, daily deaths ratio: 7.054567965030507
-11: Bahrain, daily cases: +744, daily deaths: +2, population: 1,742,099, daily cases ratio: 427.07102179612065, daily deaths ratio: 1.1480403811723674
-12: Slovakia, daily cases: +2,301, daily deaths: +102, population: 5,461,485, daily cases ratio: 421.3139832847659, daily deaths ratio: 18.676239154735388
-13: North Macedonia, daily cases: +868, daily deaths: +15, population: 2,083,314, daily cases ratio: 416.64386645508074, daily deaths ratio: 7.200066816620058
-14: Brazil, daily cases: +84,047, daily deaths: +2,152, population: 213,609,288, daily cases ratio: 393.46135548188334, daily deaths ratio: 10.074468297464668
-15: Uruguay, daily cases: +1,357, daily deaths: +6, population: 3,482,108, daily cases ratio: 389.70646516420516, daily deaths ratio: 1.7230941716914008
-16: France, daily cases: +25,229, daily deaths: +254, population: 65,374,087, daily cases ratio: 385.91743545114446, daily deaths ratio: 3.885331507574248
-17: Palestine, daily cases: +1,983, daily deaths: +17, population: 5,183,161, daily cases ratio: 382.58506729773586, daily deaths ratio: 3.279851812436465
-18: Slovenia, daily cases: +770, daily deaths: +8, population: 2,079,137, daily cases ratio: 370.3459656578667, daily deaths ratio: 3.847750292549265
-19: Bosnia and Herzegovina, daily cases: +1,170, daily deaths: +36, population: 3,266,560, daily cases ratio: 358.17496081504703, daily deaths ratio: 11.02076802507837
-20: Netherlands, daily cases: +6,026, daily deaths: +26, population: 17,161,273, daily cases ratio: 351.1394521839959, daily deaths ratio: 1.515039123263175
-21: Austria, daily cases: +3,126, daily deaths: +33, population: 9,042,127, daily cases ratio: 345.71511769299417, daily deaths ratio: 3.6495837760296888
-22: Latvia, daily cases: +632, daily deaths: +9, population: 1,871,599, daily cases ratio: 337.67917166016866, daily deaths ratio: 4.808722381236579
-23: Cyprus, daily cases: +383, daily deaths: +2, population: 1,213,465, daily cases ratio: 315.6250901344497, daily deaths ratio: 1.6481727944357687
-24: Kuwait, daily cases: +1,356, daily deaths: +8, population: 4,314,295, daily cases ratio: 314.30395927955783, daily deaths ratio: 1.8543006447171555
-25: Chile, daily cases: +5,973, daily deaths: +89, population: 19,230,141, daily cases ratio: 310.6061468816063, daily deaths ratio: 4.628151192443155
-26: Belgium, daily cases: +3,503, daily deaths: +23, population: 11,624,713, daily cases ratio: 301.34077288617794, daily deaths ratio: 1.9785434702775029
-27: Ukraine, daily cases: +12,946, daily deaths: +230, population: 43,550,185, daily cases ratio: 297.26624582651027, daily deaths ratio: 5.281263443542203
-28: Armenia, daily cases: +818, daily deaths: +4, population: 2,967,100, daily cases ratio: 275.690067742914, daily deaths ratio: 1.348117690674396
-29: Romania, daily cases: +5,010, daily deaths: +108, population: 19,148,003, daily cases ratio: 261.6460839284389, daily deaths ratio: 5.640274863128024
-30: Paraguay, daily cases: +1,766, daily deaths: +25, population: 7,193,267, daily cases ratio: 245.50736125879936, daily deaths ratio: 3.4754722715005575
-31: Peru, daily cases: +8,039, daily deaths: +180, population: 33,289,963, daily cases ratio: 241.4841975042147, daily deaths ratio: 5.407035147500765
-32: Albania, daily cases: +681, daily deaths: +16, population: 2,875,606, daily cases ratio: 236.81964775424728, daily deaths ratio: 5.564044587471302
-33: Greece, daily cases: +2,357, daily deaths: +49, population: 10,387,498, daily cases ratio: 226.90738424209565, daily deaths ratio: 4.717209091159392
-34: UAE, daily cases: +2,250, daily deaths: +9, population: 9,973,240, daily cases ratio: 225.6037155427925, daily deaths ratio: 0.9024148621711701
-35: Israel, daily cases: +1,948, daily deaths: +13, population: 9,197,590 , daily cases ratio: 211.79461141451182, daily deaths ratio: 1.4134137312056745
-36: Croatia, daily cases: +823, daily deaths: +12, population: 4,087,578, daily cases ratio: 201.34172363194048, daily deaths ratio: 2.935723795362437
-37: USA, daily cases: +66,785, daily deaths: +1,505, population: 332,352,077, daily cases ratio: 200.9465401956853, daily deaths ratio: 4.5283303585312025
-38: Turkey, daily cases: +14,941, daily deaths: +66, population: 84,968,579, daily cases ratio: 175.84147193988028, daily deaths ratio: 0.7767577235815606
-39: Argentina, daily cases: +7,849, daily deaths: +85, population: 45,483,666, daily cases ratio: 172.56744432166042, daily deaths ratio: 1.868802747782028
-40: Norway, daily cases: +905, daily deaths: None, population: 5,450,686, daily cases ratio: 166.03414689453768, daily deaths ratio: 0
-41: Qatar, daily cases: +455, daily deaths: +1, population: 2,807,805 , daily cases ratio: 162.04829039053638, daily deaths ratio: 0.35615008877040966
-42: Gabon, daily cases: +347, daily deaths: +3, population: 2,261,930, daily cases ratio: 153.4088145963845, daily deaths ratio: 1.3263009907468402
-43: Switzerland, daily cases: +1,333, daily deaths: +14, population: 8,698,595, daily cases ratio: 153.24313869078858, daily deaths ratio: 1.6094553200833008
-44: Germany, daily cases: +12,786, daily deaths: +230, population: 83,970,413, daily cases ratio: 152.26791846313773, daily deaths ratio: 2.7390600067669073
-45: Jamaica, daily cases: +419, daily deaths: +5, population: 2,970,159, daily cases ratio: 141.06988885106824, daily deaths ratio: 1.6834115614685947
-46: Libya, daily cases: +972, daily deaths: +8, population: 6,936,016, daily cases ratio: 140.1380850332525, daily deaths ratio: 1.1533998768168932
-47: Lithuania, daily cases: +364, daily deaths: +10, population: 2,695,669, daily cases ratio: 135.0314152071341, daily deaths ratio: 3.709654263932256
-48: Ireland, daily cases: +641, daily deaths: +9, population: 4,976,038, daily cases ratio: 128.81734424053835, daily deaths ratio: 1.8086678598515527
-49: Finland, daily cases: +706, daily deaths: +3, population: 5,546,715, daily cases ratio: 127.28254471340244, daily deaths ratio: 0.5408606715866959
-50: Belarus, daily cases: +1,186, daily deaths: +8, population: 9,447,156, daily cases ratio: 125.54042719311505, daily deaths ratio: 0.8468156977613157
-51: Spain, daily cases: +5,348, daily deaths: +173, population: 46,767,398, daily cases ratio: 114.35316542519642, daily deaths ratio: 3.6991581186535116
-52: Iraq, daily cases: +4,622, daily deaths: +25, population: 40,844,935, daily cases ratio: 113.15968552771598, daily deaths ratio: 0.6120709948491778
-53: Denmark, daily cases: +645, daily deaths: +3, population: 5,806,397, daily cases ratio: 111.08437814362331, daily deaths ratio: 0.5166715262494108
-54: Panama, daily cases: +451, daily deaths: +9, population: 4,361,767, daily cases ratio: 103.39846213701925, daily deaths ratio: 2.063383945084641
-55: Honduras, daily cases: +985, daily deaths: +10, population: 10,013,604, daily cases ratio: 98.36618264512957, daily deaths ratio: 0.9986414481739042
-56: UK, daily cases: +6,609, daily deaths: +175, population: 68,134,001, daily cases ratio: 97.00002793025467, daily deaths ratio: 2.5684679812066227
-57: Iran, daily cases: +8,088, daily deaths: +53, population: 84,737,946, daily cases ratio: 95.44720378282476, daily deaths ratio: 0.6254576904660871
-58: Canada, daily cases: +3,476, daily deaths: +33, population: 37,971,911, daily cases ratio: 91.54135013115354, daily deaths ratio: 0.869063450612217
-59: Georgia, daily cases: +332, daily deaths: +12, population: 3,983,826, daily cases ratio: 83.33697305052982, daily deaths ratio: 3.0121797488143307
-60: Colombia, daily cases: +4,078, daily deaths: +92, population: 51,259,107, daily cases ratio: 79.55659469448034, daily deaths ratio: 1.7948030191005864
-61: Costa Rica, daily cases: +376, daily deaths: +3, population: 5,126,410, daily cases ratio: 73.34567465341243, daily deaths ratio: 0.5852048509580778
-62: Ecuador, daily cases: +1,259, daily deaths: +65, population: 17,828,490, daily cases ratio: 70.61730971046903, daily deaths ratio: 3.6458499850520147
-63: Namibia, daily cases: +179, daily deaths: +6, population: 2,572,709, daily cases ratio: 69.57646589645388, daily deaths ratio: 2.3321720412219182
-64: Cuba, daily cases: +762, daily deaths: +4, population: 11,321,796, daily cases ratio: 67.3038093956118, daily deaths ratio: 0.3533008367223716
-65: Russia, daily cases: +9,794, daily deaths: +486, population: 145,978,069, daily cases ratio: 67.0922698669209, daily deaths ratio: 3.3292672202699163
-66: Bolivia, daily cases: +778, daily deaths: +19, population: 11,783,318, daily cases ratio: 66.0255456060848, daily deaths ratio: 1.6124490572180092
-67: Portugal, daily cases: +577, daily deaths: +15, population: 10,175,962, daily cases ratio: 56.702255767071456, daily deaths ratio: 1.474062108329414
-68: Azerbaijan, daily cases: +576, daily deaths: +6, population: 10,202,622, daily cases ratio: 56.456075702892846, daily deaths ratio: 0.5880841219051338
-69: Tunisia, daily cases: +640, daily deaths: +16, population: 11,904,413, daily cases ratio: 53.76157564425898, daily deaths ratio: 1.3440393911064745
-70: Mexico, daily cases: +6,470, daily deaths: +654, population: 129,872,506, daily cases ratio: 49.81808851828885, daily deaths ratio: 5.035707865681748
-71: Dominican Republic, daily cases: +529, daily deaths: +9, population: 10,923,394, daily cases ratio: 48.42817168363606, daily deaths ratio: 0.8239197450902165
-72: Malaysia, daily cases: +1,575, daily deaths: +3, population: 32,653,364, daily cases ratio: 48.23392775090493, daily deaths ratio: 0.09187414809696176
-73: Kazakhstan, daily cases: +899, daily deaths: None, population: 18,932,409, daily cases ratio: 47.484712589929785, daily deaths ratio: 0
-74: Guatemala, daily cases: +831, daily deaths: +15, population: 18,144,574, daily cases ratio: 45.79881566797876, daily deaths ratio: 0.8266934236097249
-75: Philippines, daily cases: +4,571, daily deaths: +87, population: 110,591,530, daily cases ratio: 41.33227924416997, daily deaths ratio: 0.7866786904928433
-76: Gambia, daily cases: +88, daily deaths: None, population: 2,463,350, daily cases ratio: 35.723709582479145, daily deaths ratio: 0
-77: Mauritius, daily cases: +43, daily deaths: None, population: 1,273,238, daily cases ratio: 33.772161999563316, daily deaths ratio: 0
-78: Mongolia, daily cases: +103, daily deaths: None, population: 3,314,815, daily cases ratio: 31.072623962423243, daily deaths ratio: 0
-79: Indonesia, daily cases: +6,412, daily deaths: +180, population: 275,530,076, daily cases ratio: 23.271506664847724, daily deaths ratio: 0.6532862132989068
-80: South Africa, daily cases: +1,225, daily deaths: +69, population: 59,826,923, daily cases ratio: 20.475731302443883, daily deaths ratio: 1.1533269060152065
-81: El Salvador, daily cases: +133, daily deaths: +5, population: 6,508,966, daily cases ratio: 20.433353008757457, daily deaths ratio: 0.7681711657427617
-82: India, daily cases: +27,512, daily deaths: +157, population: 1,389,419,783, daily cases ratio: 19.801071164106204, daily deaths ratio: 0.11299680767536617
-83: Venezuela, daily cases: +509, daily deaths: +7, population: 28,379,718, daily cases ratio: 17.935343825474234, daily deaths ratio: 0.24665502314011714
-84: Zambia, daily cases: +327, daily deaths: +1, population: 18,737,978, daily cases ratio: 17.45118923717383, daily deaths ratio: 0.05336755118401783
-85: Guinea, daily cases: +220, daily deaths: +1, population: 13,377,852, daily cases ratio: 16.445091484043925, daily deaths ratio: 0.0747504158365633
-86: Sri Lanka, daily cases: +297, daily deaths: +5, population: 21,475,715, daily cases ratio: 13.829574475168814, daily deaths ratio: 0.2328211191105861
-87: Kenya, daily cases: +750, daily deaths: +2, population: 54,588,274, daily cases ratio: 13.73921439611738, daily deaths ratio: 0.03663790505631301
-88: Pakistan, daily cases: +2,701, daily deaths: +53, population: 223,854,800, daily cases ratio: 12.06585697514639, daily deaths ratio: 0.23676061446973665
-89: Ivory Coast, daily cases: +313, daily deaths: +2, population: 26,828,189, daily cases ratio: 11.66683297184167, daily deaths ratio: 0.07454845349419598
-90: Ethiopia, daily cases: +1,361, daily deaths: +27, population: 116,925,005, daily cases ratio: 11.639939634811219, daily deaths ratio: 0.23091724477582876
-91: Senegal, daily cases: +198, daily deaths: +10, population: 17,047,593, daily cases ratio: 11.614542885907706, daily deaths ratio: 0.5865930750458438
-92: Morocco, daily cases: +431, daily deaths: +4, population: 37,213,872, daily cases ratio: 11.581702651097418, daily deaths ratio: 0.10748679954614773
-93: South Sudan, daily cases: +129, daily deaths: +1, population: 11,284,716, daily cases ratio: 11.431390918477701, daily deaths ratio: 0.08861543347657132
-94: Togo, daily cases: +96, daily deaths: None, population: 8,412,461, daily cases ratio: 11.411642799889353, daily deaths ratio: 0
-95: Mozambique, daily cases: +359, daily deaths: +8, population: 31,857,555, daily cases ratio: 11.268912507566887, daily deaths ratio: 0.2511178274666716
-96: Saudi Arabia, daily cases: +360, daily deaths: +5, population: 35,189,073, daily cases ratio: 10.230448525881883, daily deaths ratio: 0.1420895628594706
-97: Japan, daily cases: +1,288, daily deaths: +49, population: 126,206,260, daily cases ratio: 10.205515954596864, daily deaths ratio: 0.3882533243596633
-98: Kyrgyzstan, daily cases: +63, daily deaths: +4, population: 6,598,650, daily cases ratio: 9.547407424245868, daily deaths ratio: 0.6061845983648171
-99: S. Korea, daily cases: +488, daily deaths: +10, population: 51,299,927, daily cases ratio: 9.512684101870164, daily deaths ratio: 0.19493205126783125
-100: Guinea-Bissau, daily cases: +18, daily deaths: +1, population: 2,000,058, daily cases ratio: 8.999739007568781, daily deaths ratio: 0.4999855004204878
-101: Eswatini, daily cases: +10, daily deaths: None, population: 1,168,498, daily cases ratio: 8.557994964475764, daily deaths ratio: 0
-102: Rwanda, daily cases: +112, daily deaths: +2, population: 13,173,363, daily cases ratio: 8.502005144775863, daily deaths ratio: 0.15182152044242614
-103: Timor-Leste, daily cases: +11, daily deaths: None, population: 1,335,793, daily cases ratio: 8.234808836399052, daily deaths ratio: 0
-104: Eritrea, daily cases: +29, daily deaths: None, population: 3,580,417, daily cases ratio: 8.099615212417994, daily deaths ratio: 0
-105: Hong Kong, daily cases: +60, daily deaths: None, population: 7,539,223, daily cases ratio: 7.958379795902045, daily deaths ratio: 0
-106: Bangladesh, daily cases: +1,066, daily deaths: +13, population: 165,827,934, daily cases ratio: 6.428350002840897, daily deaths ratio: 0.07839451222976702
-107: Egypt, daily cases: +639, daily deaths: +45, population: 103,667,896, daily cases ratio: 6.163914043360155, daily deaths ratio: 0.43407845375775733
-108: Trinidad and Tobago, daily cases: +6, daily deaths: None, population: 1,402,642, daily cases ratio: 4.277641764612781, daily deaths ratio: 0
-109: Syria, daily cases: +71, daily deaths: +5, population: 17,793,554, daily cases ratio: 3.990209038621514, daily deaths ratio: 0.28100063652264184
-110: Malawi, daily cases: +73, daily deaths: +1, population: 19,470,243, daily cases ratio: 3.749311192469452, daily deaths ratio: 0.05136042729410208
-111: Cambodia, daily cases: +62, daily deaths: None, population: 16,879,226, daily cases ratio: 3.6731542074263355, daily deaths ratio: 0
-112: Algeria, daily cases: +157, daily deaths: +3, population: 44,398,335, daily cases ratio: 3.5361686423601246, daily deaths ratio: 0.06757010144637181
-113: Mauritania, daily cases: +16, daily deaths: None, population: 4,733,772, daily cases ratio: 3.379968447994538, daily deaths ratio: 0
-114: Haiti, daily cases: +38, daily deaths: None, population: 11,498,882, daily cases ratio: 3.3046690973957293, daily deaths ratio: 0
-115: Zimbabwe, daily cases: +46, daily deaths: +4, population: 15,012,729, daily cases ratio: 3.0640664998349068, daily deaths ratio: 0.2664405652030354
-116: Yemen, daily cases: +62, daily deaths: +12, population: 30,279,066, daily cases ratio: 2.047619302391956, daily deaths ratio: 0.3963134133661851
-117: Burundi, daily cases: +24, daily deaths: None, population: 12,134,068, daily cases ratio: 1.9779022171294902, daily deaths ratio: 0
-118: Nigeria, daily cases: +399, daily deaths: +8, population: 209,658,679, daily cases ratio: 1.9030931698277085, daily deaths ratio: 0.03815725653789891
-119: Angola, daily cases: +60, daily deaths: +2, population: 33,568,110, daily cases ratio: 1.7874107300053532, daily deaths ratio: 0.05958035766684511
-120: Singapore, daily cases: +10, daily deaths: None, population: 5,882,301, daily cases ratio: 1.7000150111325483, daily deaths ratio: 0
-121: Chad, daily cases: +28, daily deaths: +1, population: 16,749,845, daily cases ratio: 1.6716572601119593, daily deaths ratio: 0.05970204500399855
-122: Nepal, daily cases: +48, daily deaths: None, population: 29,499,030, daily cases ratio: 1.627172147694348, daily deaths ratio: 0
-123: Mali, daily cases: +31, daily deaths: +1, population: 20,651,739, daily cases ratio: 1.5010842428330127, daily deaths ratio: 0.048422072349452026
-124: Burkina Faso, daily cases: +30, daily deaths: +1, population: 21,297,525, daily cases ratio: 1.4086143812485252, daily deaths ratio: 0.04695381270828418
-125: Uzbekistan, daily cases: +45, daily deaths: None, population: 33,805,059, daily cases ratio: 1.3311617057080125, daily deaths ratio: 0
-126: Thailand, daily cases: +81, daily deaths: None, population: 69,921,924, daily cases ratio: 1.158434942379446, daily deaths ratio: 0
-127: DRC, daily cases: +87, daily deaths: None, population: 91,431,296, daily cases ratio: 0.9515341442825004, daily deaths ratio: 0
-128: Liberia, daily cases: +4, daily deaths: None, population: 5,139,613, daily cases ratio: 0.7782687140062879, daily deaths ratio: 0
-129: Australia, daily cases: +12, daily deaths: None, population: 25,705,031, daily cases ratio: 0.46683468306262693, daily deaths ratio: 0
-130: Afghanistan, daily cases: +17, daily deaths: +3, population: 39,532,913, daily cases ratio: 0.4300214355567473, daily deaths ratio: 0.07588613568648482
-131: Taiwan, daily cases: +6, daily deaths: None, population: 23,846,797, daily cases ratio: 0.2516061171653367, daily deaths ratio: 0
-132: Sierra Leone, daily cases: +2, daily deaths: None, population: 8,088,973, daily cases ratio: 0.2472501762584694, daily deaths ratio: 0
-133: New Zealand, daily cases: +1, daily deaths: None, population: 5,002,100 , daily cases ratio: 0.1999160352651886, daily deaths ratio: 0
-134: Uganda, daily cases: +9, daily deaths: None, population: 46,732,418, daily cases ratio: 0.19258579772182985, daily deaths ratio: 0
-135: Vietnam, daily cases: +17, daily deaths: None, population: 97,946,595, daily cases ratio: 0.17356397126413636, daily deaths ratio: 0
-136: Myanmar, daily cases: +8, daily deaths: None, population: 54,663,290, daily cases ratio: 0.14635050323535226, daily deaths ratio: 0
-137: China, daily cases: +9, daily deaths: None, population: 1,439,323,776 , daily cases ratio: 0.0062529363789235425, daily deaths ratio: 0
-138: Sweden, daily cases: None, daily deaths: +35, population: 10,143,038, daily cases ratio: 0, daily deaths ratio: 3.450642696990783
-139: Oman, daily cases: None, daily deaths: None, population: 5,196,050, daily cases ratio: 0, daily deaths ratio: 0
-140: Ghana, daily cases: None, daily deaths: None, population: 31,520,596, daily cases ratio: 0, daily deaths ratio: 0
-141: Cameroon, daily cases: None, daily deaths: None, population: 27,000,972, daily cases ratio: 0, daily deaths ratio: 0
-142: Botswana, daily cases: None, daily deaths: None, population: 2,384,409, daily cases ratio: 0, daily deaths ratio: 0
-143: Sudan, daily cases: None, daily deaths: None, population: 44,554,963, daily cases ratio: 0, daily deaths ratio: 0
-144: Madagascar, daily cases: None, daily deaths: None, population: 28,181,106, daily cases ratio: 0, daily deaths ratio: 0
-145: Tajikistan, daily cases: None, daily deaths: None, population: 9,685,375, daily cases ratio: 0, daily deaths ratio: 0
-146: Lesotho, daily cases: None, daily deaths: None, population: 2,154,044, daily cases ratio: 0, daily deaths ratio: 0
-147: Congo, daily cases: None, daily deaths: None, population: 5,611,646, daily cases ratio: 0, daily deaths ratio: 0
-148: Somalia, daily cases: None, daily deaths: None, population: 16,198,132, daily cases ratio: 0, daily deaths ratio: 0
-149: Nicaragua, daily cases: None, daily deaths: None, population: 6,679,195, daily cases ratio: 0, daily deaths ratio: 0
-150: Benin, daily cases: None, daily deaths: None, population: 12,341,752, daily cases ratio: 0, daily deaths ratio: 0
-151: Equatorial Guinea, daily cases: None, daily deaths: None, population: 1,434,598, daily cases ratio: 0, daily deaths ratio: 0
-152: CAR, daily cases: None, daily deaths: None, population: 4,887,826, daily cases ratio: 0, daily deaths ratio: 0
-153: Niger, daily cases: None, daily deaths: None, population: 24,806,536, daily cases ratio: 0, daily deaths ratio: 0
-154: Papua New Guinea, daily cases: None, daily deaths: None, population: 9,064,111, daily cases ratio: 0, daily deaths ratio: 0
-155: Tanzania, daily cases: None, daily deaths: None, population: 60,903,854, daily cases ratio: 0, daily deaths ratio: 0
-156: Laos, daily cases: None, daily deaths: None, population: 7,348,660, daily cases ratio: 0, daily deaths ratio: 0
+1: Czechia, daily cases: +11220, daily deaths: +207, population: 10_722_817, daily cases ratio: 1046.3668269261705, daily deaths ratio: 19.304628625108492
+2: Estonia, daily cases: +1358, daily deaths: +9, population: 1_327_157, daily cases ratio: 1023.239903040861, daily deaths ratio: 6.78141320130173
+3: Hungary, daily cases: +9011, daily deaths: +130, population: 9_643_236, daily cases ratio: 934.4373610684214, daily deaths ratio: 13.48095182986292
+4: Jordan, daily cases: +7705, daily deaths: +55, population: 10_273_423, daily cases ratio: 749.9934539831563, daily deaths ratio: 5.353619723435899
+5: Serbia, daily cases: +4668, daily deaths: +26, population: 8_712_801, daily cases ratio: 535.7634129368959, daily deaths ratio: 2.984114982082111
+6: Poland, daily cases: +18789, daily deaths: +352, population: 37_817_707, daily cases ratio: 496.830757084241, daily deaths ratio: 9.30780916992138
+7: Bulgaria, daily cases: +3159, daily deaths: +102, population: 6_911_877, daily cases ratio: 457.03938307929957, daily deaths ratio: 14.757207050993529
+8: Italy, daily cases: +26824, daily deaths: +380, population: 60_399_822, daily cases ratio: 444.1072690578459, daily deaths ratio: 6.291409269384934
+9: Moldova, daily cases: +1785, daily deaths: +38, population: 4_027_422, daily cases ratio: 443.2115631289693, daily deaths ratio: 9.435316189860412
+10: Lebanon, daily cases: +2930, daily deaths: +48, population: 6_804_102, daily cases ratio: 430.6225861987372, daily deaths ratio: 7.054567965030507
+11: Bahrain, daily cases: +744, daily deaths: +2, population: 1_742_099, daily cases ratio: 427.07102179612065, daily deaths ratio: 1.1480403811723674
+12: Slovakia, daily cases: +2301, daily deaths: +102, population: 5_461_485, daily cases ratio: 421.3139832847659, daily deaths ratio: 18.676239154735388
+13: North Macedonia, daily cases: +868, daily deaths: +15, population: 2_083_314, daily cases ratio: 416.64386645508074, daily deaths ratio: 7.200066816620058
+14: Brazil, daily cases: +84047, daily deaths: +2152, population: 213_609_288, daily cases ratio: 393.46135548188334, daily deaths ratio: 10.074468297464668
+15: Uruguay, daily cases: +1357, daily deaths: +6, population: 3_482_108, daily cases ratio: 389.70646516420516, daily deaths ratio: 1.7230941716914008
+16: France, daily cases: +25229, daily deaths: +254, population: 65_374_087, daily cases ratio: 385.91743545114446, daily deaths ratio: 3.885331507574248
+17: Palestine, daily cases: +1983, daily deaths: +17, population: 5_183_161, daily cases ratio: 382.58506729773586, daily deaths ratio: 3.279851812436465
+18: Slovenia, daily cases: +770, daily deaths: +8, population: 2_079_137, daily cases ratio: 370.3459656578667, daily deaths ratio: 3.847750292549265
+19: Bosnia and Herzegovina, daily cases: +1170, daily deaths: +36, population: 3_266_560, daily cases ratio: 358.17496081504703, daily deaths ratio: 11.02076802507837
+20: Netherlands, daily cases: +6026, daily deaths: +26, population: 17_161_273, daily cases ratio: 351.1394521839959, daily deaths ratio: 1.515039123263175
+21: Austria, daily cases: +3126, daily deaths: +33, population: 9_042_127, daily cases ratio: 345.71511769299417, daily deaths ratio: 3.6495837760296888
+22: Latvia, daily cases: +632, daily deaths: +9, population: 1_871_599, daily cases ratio: 337.67917166016866, daily deaths ratio: 4.808722381236579
+23: Cyprus, daily cases: +383, daily deaths: +2, population: 1_213_465, daily cases ratio: 315.6250901344497, daily deaths ratio: 1.6481727944357687
+24: Kuwait, daily cases: +1356, daily deaths: +8, population: 4_314_295, daily cases ratio: 314.30395927955783, daily deaths ratio: 1.8543006447171555
+25: Chile, daily cases: +5973, daily deaths: +89, population: 19_230_141, daily cases ratio: 310.6061468816063, daily deaths ratio: 4.628151192443155
+26: Belgium, daily cases: +3503, daily deaths: +23, population: 11_624_713, daily cases ratio: 301.34077288617794, daily deaths ratio: 1.9785434702775029
+27: Ukraine, daily cases: +12946, daily deaths: +230, population: 43_550_185, daily cases ratio: 297.26624582651027, daily deaths ratio: 5.281263443542203
+28: Armenia, daily cases: +818, daily deaths: +4, population: 2_967_100, daily cases ratio: 275.690067742914, daily deaths ratio: 1.348117690674396
+29: Romania, daily cases: +5010, daily deaths: +108, population: 19_148_003, daily cases ratio: 261.6460839284389, daily deaths ratio: 5.640274863128024
+30: Paraguay, daily cases: +1766, daily deaths: +25, population: 7_193_267, daily cases ratio: 245.50736125879936, daily deaths ratio: 3.4754722715005575
+31: Peru, daily cases: +8039, daily deaths: +180, population: 33_289_963, daily cases ratio: 241.4841975042147, daily deaths ratio: 5.407035147500765
+32: Albania, daily cases: +681, daily deaths: +16, population: 2_875_606, daily cases ratio: 236.81964775424728, daily deaths ratio: 5.564044587471302
+33: Greece, daily cases: +2357, daily deaths: +49, population: 10_387_498, daily cases ratio: 226.90738424209565, daily deaths ratio: 4.717209091159392
+34: UAE, daily cases: +2250, daily deaths: +9, population: 9_973_240, daily cases ratio: 225.6037155427925, daily deaths ratio: 0.9024148621711701
+35: Israel, daily cases: +1948, daily deaths: +13, population: 9_197_590 , daily cases ratio: 211.79461141451182, daily deaths ratio: 1.4134137312056745
+36: Croatia, daily cases: +823, daily deaths: +12, population: 4_087_578, daily cases ratio: 201.34172363194048, daily deaths ratio: 2.935723795362437
+37: USA, daily cases: +66785, daily deaths: +1505, population: 332_352_077, daily cases ratio: 200.9465401956853, daily deaths ratio: 4.5283303585312025
+38: Turkey, daily cases: +14941, daily deaths: +66, population: 84_968_579, daily cases ratio: 175.84147193988028, daily deaths ratio: 0.7767577235815606
+39: Argentina, daily cases: +7849, daily deaths: +85, population: 45_483_666, daily cases ratio: 172.56744432166042, daily deaths ratio: 1.868802747782028
+40: Norway, daily cases: +905, daily deaths: None, population: 5_450_686, daily cases ratio: 166.03414689453768, daily deaths ratio: 0
+41: Qatar, daily cases: +455, daily deaths: +1, population: 2_807_805 , daily cases ratio: 162.04829039053638, daily deaths ratio: 0.35615008877040966
+42: Gabon, daily cases: +347, daily deaths: +3, population: 2_261_930, daily cases ratio: 153.4088145963845, daily deaths ratio: 1.3263009907468402
+43: Switzerland, daily cases: +1333, daily deaths: +14, population: 8_698_595, daily cases ratio: 153.24313869078858, daily deaths ratio: 1.6094553200833008
+44: Germany, daily cases: +12786, daily deaths: +230, population: 83_970_413, daily cases ratio: 152.26791846313773, daily deaths ratio: 2.7390600067669073
+45: Jamaica, daily cases: +419, daily deaths: +5, population: 2_970_159, daily cases ratio: 141.06988885106824, daily deaths ratio: 1.6834115614685947
+46: Libya, daily cases: +972, daily deaths: +8, population: 6_936_016, daily cases ratio: 140.1380850332525, daily deaths ratio: 1.1533998768168932
+47: Lithuania, daily cases: +364, daily deaths: +10, population: 2_695_669, daily cases ratio: 135.0314152071341, daily deaths ratio: 3.709654263932256
+48: Ireland, daily cases: +641, daily deaths: +9, population: 4_976_038, daily cases ratio: 128.81734424053835, daily deaths ratio: 1.8086678598515527
+49: Finland, daily cases: +706, daily deaths: +3, population: 5_546_715, daily cases ratio: 127.28254471340244, daily deaths ratio: 0.5408606715866959
+50: Belarus, daily cases: +1186, daily deaths: +8, population: 9_447_156, daily cases ratio: 125.54042719311505, daily deaths ratio: 0.8468156977613157
+51: Spain, daily cases: +5348, daily deaths: +173, population: 46_767_398, daily cases ratio: 114.35316542519642, daily deaths ratio: 3.6991581186535116
+52: Iraq, daily cases: +4622, daily deaths: +25, population: 40_844_935, daily cases ratio: 113.15968552771598, daily deaths ratio: 0.6120709948491778
+53: Denmark, daily cases: +645, daily deaths: +3, population: 5_806_397, daily cases ratio: 111.08437814362331, daily deaths ratio: 0.5166715262494108
+54: Panama, daily cases: +451, daily deaths: +9, population: 4_361_767, daily cases ratio: 103.39846213701925, daily deaths ratio: 2.063383945084641
+55: Honduras, daily cases: +985, daily deaths: +10, population: 10_013_604, daily cases ratio: 98.36618264512957, daily deaths ratio: 0.9986414481739042
+56: UK, daily cases: +6609, daily deaths: +175, population: 68_134_001, daily cases ratio: 97.00002793025467, daily deaths ratio: 2.5684679812066227
+57: Iran, daily cases: +8088, daily deaths: +53, population: 84_737_946, daily cases ratio: 95.44720378282476, daily deaths ratio: 0.6254576904660871
+58: Canada, daily cases: +3476, daily deaths: +33, population: 37_971_911, daily cases ratio: 91.54135013115354, daily deaths ratio: 0.869063450612217
+59: Georgia, daily cases: +332, daily deaths: +12, population: 3_983_826, daily cases ratio: 83.33697305052982, daily deaths ratio: 3.0121797488143307
+60: Colombia, daily cases: +4078, daily deaths: +92, population: 51_259_107, daily cases ratio: 79.55659469448034, daily deaths ratio: 1.7948030191005864
+61: Costa Rica, daily cases: +376, daily deaths: +3, population: 5_126_410, daily cases ratio: 73.34567465341243, daily deaths ratio: 0.5852048509580778
+62: Ecuador, daily cases: +1259, daily deaths: +65, population: 17_828_490, daily cases ratio: 70.61730971046903, daily deaths ratio: 3.6458499850520147
+63: Namibia, daily cases: +179, daily deaths: +6, population: 2_572_709, daily cases ratio: 69.57646589645388, daily deaths ratio: 2.3321720412219182
+64: Cuba, daily cases: +762, daily deaths: +4, population: 11_321_796, daily cases ratio: 67.3038093956118, daily deaths ratio: 0.3533008367223716
+65: Russia, daily cases: +9794, daily deaths: +486, population: 145_978_069, daily cases ratio: 67.0922698669209, daily deaths ratio: 3.3292672202699163
+66: Bolivia, daily cases: +778, daily deaths: +19, population: 11_783_318, daily cases ratio: 66.0255456060848, daily deaths ratio: 1.6124490572180092
+67: Portugal, daily cases: +577, daily deaths: +15, population: 10_175_962, daily cases ratio: 56.702255767071456, daily deaths ratio: 1.474062108329414
+68: Azerbaijan, daily cases: +576, daily deaths: +6, population: 10_202_622, daily cases ratio: 56.456075702892846, daily deaths ratio: 0.5880841219051338
+69: Tunisia, daily cases: +640, daily deaths: +16, population: 11_904_413, daily cases ratio: 53.76157564425898, daily deaths ratio: 1.3440393911064745
+70: Mexico, daily cases: +6470, daily deaths: +654, population: 129_872_506, daily cases ratio: 49.81808851828885, daily deaths ratio: 5.035707865681748
+71: Dominican Republic, daily cases: +529, daily deaths: +9, population: 10_923_394, daily cases ratio: 48.42817168363606, daily deaths ratio: 0.8239197450902165
+72: Malaysia, daily cases: +1575, daily deaths: +3, population: 32_653_364, daily cases ratio: 48.23392775090493, daily deaths ratio: 0.09187414809696176
+73: Kazakhstan, daily cases: +899, daily deaths: None, population: 18_932_409, daily cases ratio: 47.484712589929785, daily deaths ratio: 0
+74: Guatemala, daily cases: +831, daily deaths: +15, population: 18_144_574, daily cases ratio: 45.79881566797876, daily deaths ratio: 0.8266934236097249
+75: Philippines, daily cases: +4571, daily deaths: +87, population: 110_591_530, daily cases ratio: 41.33227924416997, daily deaths ratio: 0.7866786904928433
+76: Gambia, daily cases: +88, daily deaths: None, population: 2_463_350, daily cases ratio: 35.723709582479145, daily deaths ratio: 0
+77: Mauritius, daily cases: +43, daily deaths: None, population: 1_273_238, daily cases ratio: 33.772161999563316, daily deaths ratio: 0
+78: Mongolia, daily cases: +103, daily deaths: None, population: 3_314_815, daily cases ratio: 31.072623962423243, daily deaths ratio: 0
+79: Indonesia, daily cases: +6412, daily deaths: +180, population: 275_530_076, daily cases ratio: 23.271506664847724, daily deaths ratio: 0.6532862132989068
+80: South Africa, daily cases: +1225, daily deaths: +69, population: 59_826_923, daily cases ratio: 20.475731302443883, daily deaths ratio: 1.1533269060152065
+81: El Salvador, daily cases: +133, daily deaths: +5, population: 6_508_966, daily cases ratio: 20.433353008757457, daily deaths ratio: 0.7681711657427617
+82: India, daily cases: +27512, daily deaths: +157, population: 1_389_419_783, daily cases ratio: 19.801071164106204, daily deaths ratio: 0.11299680767536617
+83: Venezuela, daily cases: +509, daily deaths: +7, population: 28_379_718, daily cases ratio: 17.935343825474234, daily deaths ratio: 0.24665502314011714
+84: Zambia, daily cases: +327, daily deaths: +1, population: 18_737_978, daily cases ratio: 17.45118923717383, daily deaths ratio: 0.05336755118401783
+85: Guinea, daily cases: +220, daily deaths: +1, population: 13_377_852, daily cases ratio: 16.445091484043925, daily deaths ratio: 0.0747504158365633
+86: Sri Lanka, daily cases: +297, daily deaths: +5, population: 21_475_715, daily cases ratio: 13.829574475168814, daily deaths ratio: 0.2328211191105861
+87: Kenya, daily cases: +750, daily deaths: +2, population: 54_588_274, daily cases ratio: 13.73921439611738, daily deaths ratio: 0.03663790505631301
+88: Pakistan, daily cases: +2701, daily deaths: +53, population: 223_854_800, daily cases ratio: 12.06585697514639, daily deaths ratio: 0.23676061446973665
+89: Ivory Coast, daily cases: +313, daily deaths: +2, population: 26_828_189, daily cases ratio: 11.66683297184167, daily deaths ratio: 0.07454845349419598
+90: Ethiopia, daily cases: +1361, daily deaths: +27, population: 116_925_005, daily cases ratio: 11.639939634811219, daily deaths ratio: 0.23091724477582876
+91: Senegal, daily cases: +198, daily deaths: +10, population: 17_047_593, daily cases ratio: 11.614542885907706, daily deaths ratio: 0.5865930750458438
+92: Morocco, daily cases: +431, daily deaths: +4, population: 37_213_872, daily cases ratio: 11.581702651097418, daily deaths ratio: 0.10748679954614773
+93: South Sudan, daily cases: +129, daily deaths: +1, population: 11_284_716, daily cases ratio: 11.431390918477701, daily deaths ratio: 0.08861543347657132
+94: Togo, daily cases: +96, daily deaths: None, population: 8_412_461, daily cases ratio: 11.411642799889353, daily deaths ratio: 0
+95: Mozambique, daily cases: +359, daily deaths: +8, population: 31_857_555, daily cases ratio: 11.268912507566887, daily deaths ratio: 0.2511178274666716
+96: Saudi Arabia, daily cases: +360, daily deaths: +5, population: 35_189_073, daily cases ratio: 10.230448525881883, daily deaths ratio: 0.1420895628594706
+97: Japan, daily cases: +1288, daily deaths: +49, population: 126_206_260, daily cases ratio: 10.205515954596864, daily deaths ratio: 0.3882533243596633
+98: Kyrgyzstan, daily cases: +63, daily deaths: +4, population: 6_598_650, daily cases ratio: 9.547407424245868, daily deaths ratio: 0.6061845983648171
+99: S. Korea, daily cases: +488, daily deaths: +10, population: 51_299_927, daily cases ratio: 9.512684101870164, daily deaths ratio: 0.19493205126783125
+100: Guinea-Bissau, daily cases: +18, daily deaths: +1, population: 2_000_058, daily cases ratio: 8.999739007568781, daily deaths ratio: 0.4999855004204878
+101: Eswatini, daily cases: +10, daily deaths: None, population: 1_168_498, daily cases ratio: 8.557994964475764, daily deaths ratio: 0
+102: Rwanda, daily cases: +112, daily deaths: +2, population: 13_173_363, daily cases ratio: 8.502005144775863, daily deaths ratio: 0.15182152044242614
+103: Timor-Leste, daily cases: +11, daily deaths: None, population: 1_335_793, daily cases ratio: 8.234808836399052, daily deaths ratio: 0
+104: Eritrea, daily cases: +29, daily deaths: None, population: 3_580_417, daily cases ratio: 8.099615212417994, daily deaths ratio: 0
+105: Hong Kong, daily cases: +60, daily deaths: None, population: 7_539_223, daily cases ratio: 7.958379795902045, daily deaths ratio: 0
+106: Bangladesh, daily cases: +1066, daily deaths: +13, population: 165_827_934, daily cases ratio: 6.428350002840897, daily deaths ratio: 0.07839451222976702
+107: Egypt, daily cases: +639, daily deaths: +45, population: 103_667_896, daily cases ratio: 6.163914043360155, daily deaths ratio: 0.43407845375775733
+108: Trinidad and Tobago, daily cases: +6, daily deaths: None, population: 1_402_642, daily cases ratio: 4.277641764612781, daily deaths ratio: 0
+109: Syria, daily cases: +71, daily deaths: +5, population: 17_793_554, daily cases ratio: 3.990209038621514, daily deaths ratio: 0.28100063652264184
+110: Malawi, daily cases: +73, daily deaths: +1, population: 19_470_243, daily cases ratio: 3.749311192469452, daily deaths ratio: 0.05136042729410208
+111: Cambodia, daily cases: +62, daily deaths: None, population: 16_879_226, daily cases ratio: 3.6731542074263355, daily deaths ratio: 0
+112: Algeria, daily cases: +157, daily deaths: +3, population: 44_398_335, daily cases ratio: 3.5361686423601246, daily deaths ratio: 0.06757010144637181
+113: Mauritania, daily cases: +16, daily deaths: None, population: 4_733_772, daily cases ratio: 3.379968447994538, daily deaths ratio: 0
+114: Haiti, daily cases: +38, daily deaths: None, population: 11_498_882, daily cases ratio: 3.3046690973957293, daily deaths ratio: 0
+115: Zimbabwe, daily cases: +46, daily deaths: +4, population: 15_012_729, daily cases ratio: 3.0640664998349068, daily deaths ratio: 0.2664405652030354
+116: Yemen, daily cases: +62, daily deaths: +12, population: 30_279_066, daily cases ratio: 2.047619302391956, daily deaths ratio: 0.3963134133661851
+117: Burundi, daily cases: +24, daily deaths: None, population: 12_134_068, daily cases ratio: 1.9779022171294902, daily deaths ratio: 0
+118: Nigeria, daily cases: +399, daily deaths: +8, population: 209_658_679, daily cases ratio: 1.9030931698277085, daily deaths ratio: 0.03815725653789891
+119: Angola, daily cases: +60, daily deaths: +2, population: 33_568_110, daily cases ratio: 1.7874107300053532, daily deaths ratio: 0.05958035766684511
+120: Singapore, daily cases: +10, daily deaths: None, population: 5_882_301, daily cases ratio: 1.7000150111325483, daily deaths ratio: 0
+121: Chad, daily cases: +28, daily deaths: +1, population: 16_749_845, daily cases ratio: 1.6716572601119593, daily deaths ratio: 0.05970204500399855
+122: Nepal, daily cases: +48, daily deaths: None, population: 29_499_030, daily cases ratio: 1.627172147694348, daily deaths ratio: 0
+123: Mali, daily cases: +31, daily deaths: +1, population: 20_651_739, daily cases ratio: 1.5010842428330127, daily deaths ratio: 0.048422072349452026
+124: Burkina Faso, daily cases: +30, daily deaths: +1, population: 21_297_525, daily cases ratio: 1.4086143812485252, daily deaths ratio: 0.04695381270828418
+125: Uzbekistan, daily cases: +45, daily deaths: None, population: 33_805_059, daily cases ratio: 1.3311617057080125, daily deaths ratio: 0
+126: Thailand, daily cases: +81, daily deaths: None, population: 69_921_924, daily cases ratio: 1.158434942379446, daily deaths ratio: 0
+127: DRC, daily cases: +87, daily deaths: None, population: 91_431_296, daily cases ratio: 0.9515341442825004, daily deaths ratio: 0
+128: Liberia, daily cases: +4, daily deaths: None, population: 5_139_613, daily cases ratio: 0.7782687140062879, daily deaths ratio: 0
+129: Australia, daily cases: +12, daily deaths: None, population: 25_705_031, daily cases ratio: 0.46683468306262693, daily deaths ratio: 0
+130: Afghanistan, daily cases: +17, daily deaths: +3, population: 39_532_913, daily cases ratio: 0.4300214355567473, daily deaths ratio: 0.07588613568648482
+131: Taiwan, daily cases: +6, daily deaths: None, population: 23_846_797, daily cases ratio: 0.2516061171653367, daily deaths ratio: 0
+132: Sierra Leone, daily cases: +2, daily deaths: None, population: 8_088_973, daily cases ratio: 0.2472501762584694, daily deaths ratio: 0
+133: New Zealand, daily cases: +1, daily deaths: None, population: 5_002_100 , daily cases ratio: 0.1999160352651886, daily deaths ratio: 0
+134: Uganda, daily cases: +9, daily deaths: None, population: 46_732_418, daily cases ratio: 0.19258579772182985, daily deaths ratio: 0
+135: Vietnam, daily cases: +17, daily deaths: None, population: 97_946_595, daily cases ratio: 0.17356397126413636, daily deaths ratio: 0
+136: Myanmar, daily cases: +8, daily deaths: None, population: 54_663_290, daily cases ratio: 0.14635050323535226, daily deaths ratio: 0
+137: China, daily cases: +9, daily deaths: None, population: 1_439_323_776 , daily cases ratio: 0.0062529363789235425, daily deaths ratio: 0
+138: Sweden, daily cases: None, daily deaths: +35, population: 10_143_038, daily cases ratio: 0, daily deaths ratio: 3.450642696990783
+139: Oman, daily cases: None, daily deaths: None, population: 5_196_050, daily cases ratio: 0, daily deaths ratio: 0
+140: Ghana, daily cases: None, daily deaths: None, population: 31_520_596, daily cases ratio: 0, daily deaths ratio: 0
+141: Cameroon, daily cases: None, daily deaths: None, population: 27_000_972, daily cases ratio: 0, daily deaths ratio: 0
+142: Botswana, daily cases: None, daily deaths: None, population: 2_384_409, daily cases ratio: 0, daily deaths ratio: 0
+143: Sudan, daily cases: None, daily deaths: None, population: 44_554_963, daily cases ratio: 0, daily deaths ratio: 0
+144: Madagascar, daily cases: None, daily deaths: None, population: 28_181_106, daily cases ratio: 0, daily deaths ratio: 0
+145: Tajikistan, daily cases: None, daily deaths: None, population: 9_685_375, daily cases ratio: 0, daily deaths ratio: 0
+146: Lesotho, daily cases: None, daily deaths: None, population: 2_154_044, daily cases ratio: 0, daily deaths ratio: 0
+147: Congo, daily cases: None, daily deaths: None, population: 5_611_646, daily cases ratio: 0, daily deaths ratio: 0
+148: Somalia, daily cases: None, daily deaths: None, population: 16_198_132, daily cases ratio: 0, daily deaths ratio: 0
+149: Nicaragua, daily cases: None, daily deaths: None, population: 6_679_195, daily cases ratio: 0, daily deaths ratio: 0
+150: Benin, daily cases: None, daily deaths: None, population: 12_341_752, daily cases ratio: 0, daily deaths ratio: 0
+151: Equatorial Guinea, daily cases: None, daily deaths: None, population: 1_434_598, daily cases ratio: 0, daily deaths ratio: 0
+152: CAR, daily cases: None, daily deaths: None, population: 4_887_826, daily cases ratio: 0, daily deaths ratio: 0
+153: Niger, daily cases: None, daily deaths: None, population: 24_806_536, daily cases ratio: 0, daily deaths ratio: 0
+154: Papua New Guinea, daily cases: None, daily deaths: None, population: 9_064_111, daily cases ratio: 0, daily deaths ratio: 0
+155: Tanzania, daily cases: None, daily deaths: None, population: 60_903_854, daily cases ratio: 0, daily deaths ratio: 0
+156: Laos, daily cases: None, daily deaths: None, population: 7_348_660, daily cases ratio: 0, daily deaths ratio: 0
