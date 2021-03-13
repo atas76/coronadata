@@ -44,6 +44,21 @@ def display_sorted(sorted_countries):
         cases_ordinal = cases_ordinal + 1
 
 
+def create_csv(sorted_countries):
+    cases_ordinal = 1
+    csv = ""
+    for sortedCountry in sorted_countries:
+        csv += str(cases_ordinal) + ": " + sortedCountry.to_str() + "\n"
+        cases_ordinal = cases_ordinal + 1
+    return csv
+
+
+def write_sorted(sorted_countries, label, current_date):
+    filename = 'report_' + label + "_" + current_date + ".csv"
+    with open('./reports/' + filename, 'w+') as f:
+        f.write(create_csv(sorted_countries))
+    f.close()
+
 CURRENT_DATE = "210312"
 
 with open('worldometer_' + CURRENT_DATE + '.jl') as f:
@@ -66,16 +81,26 @@ for country_entry in country_data:
         if int(currentCountry.deaths.replace(",", "")) >= DEATH_TOLL_THRESHOLD:
             deathTollCountries.append(currentCountry)
 
-sortedByPopulation = sorted(countries, key=get_population, reverse=True)
-sortedByCases = sorted(countries, key=get_cases, reverse=True)
-sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
+# sortedByPopulation = sorted(countries, key=get_population, reverse=True)
+# sortedByCases = sorted(countries, key=get_cases, reverse=True)
+# sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
 
 sortedByCasesRatio = sorted(biggerCountries, key=get_daily_cases_ratio, reverse=True)
 sortedByDeathsRatio = sorted(deathTollCountries, key=get_daily_deaths_ratio, reverse=True)
+
+sortedByCasesRatioAllCountries = sorted(countries, key=get_daily_cases_ratio, reverse=True)
+sortedByDeathsRatioAllCountries = sorted(countries, key=get_daily_deaths_ratio, reverse=True)
 
 # display_sorted(sortedByCases)
 # display_sorted(sortedByDeaths)
 # display_sorted(sortedByPopulation)
 
 # display_sorted(sortedByCasesRatio)
-display_sorted(sortedByDeathsRatio)
+
+# display_sorted(sortedByDeathsRatio)
+
+write_sorted(sortedByCasesRatio, 'daily_cases', CURRENT_DATE)
+write_sorted(sortedByDeathsRatio, 'daily_deaths', CURRENT_DATE)
+
+write_sorted(sortedByCasesRatioAllCountries, 'daily_cases_all_countries', CURRENT_DATE)
+write_sorted(sortedByDeathsRatioAllCountries, 'daily_deaths_all_countries', CURRENT_DATE)
