@@ -3,6 +3,7 @@ import country
 
 Country = country.Country
 
+
 def get_cases(country):
     try:
         return int(country.daily_cases.replace(',', ''))
@@ -72,8 +73,8 @@ def get_tests(country_name, test_data):
         return 0
 
 
-CURRENT_DATE = "210312"
-PREVIOUS_DATE = "210311"
+CURRENT_DATE = "210313"
+PREVIOUS_DATE = "210312"
 
 with open('worldometer_' + CURRENT_DATE + '.jl') as f:
     country_data = json.load(f)
