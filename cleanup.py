@@ -1,5 +1,7 @@
-CURRENT_DATE = "210313"
+from datetime import date, timedelta
 
+today = date.today() - timedelta(1)
+CURRENT_DATE = today.strftime("%Y%m%d")[2:]
 
 def cleanup(fileidentifier):
     with open('worldometer_' + fileidentifier + 'raw.jl', 'r') as f:

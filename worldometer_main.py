@@ -1,5 +1,7 @@
 import json
 import country
+from datetime import date, timedelta
+
 
 Country = country.Country
 
@@ -73,8 +75,11 @@ def get_tests(country_name, test_data):
         return 0
 
 
-CURRENT_DATE = "210313"
-PREVIOUS_DATE = "210312"
+today = date.today() - timedelta(1)
+previousday = today - timedelta(1)
+
+CURRENT_DATE = today.strftime("%Y%m%d")[2:]
+PREVIOUS_DATE = previousday.strftime("%Y%m%d")[2:]
 
 with open('worldometer_' + CURRENT_DATE + '.jl') as f:
     country_data = json.load(f)
@@ -83,6 +88,7 @@ with open('worldometer_tests_' + CURRENT_DATE + '.jl') as f:
     current_test_data = json.load(f)
 
 with open('worldometer_tests_' + PREVIOUS_DATE + '.jl') as f:
+    print(PREVIOUS_DATE)
     previous_test_data = json.load(f)
 
 POPULATION_THRESHOLD = 1000000
