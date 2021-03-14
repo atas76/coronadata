@@ -88,7 +88,6 @@ with open('worldometer_tests_' + CURRENT_DATE + '.jl') as f:
     current_test_data = json.load(f)
 
 with open('worldometer_tests_' + PREVIOUS_DATE + '.jl') as f:
-    print(PREVIOUS_DATE)
     previous_test_data = json.load(f)
 
 POPULATION_THRESHOLD = 1000000
