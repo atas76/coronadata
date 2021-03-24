@@ -37,6 +37,7 @@ previousDayHospital = json_hospital[-2]
 
 print("\n")
 
+print("Total vaccinated percentage: " + str(completedVaccinationPercentage + partialVaccinationPercentage))
 print("Completed vaccination percentage: " + str(completedVaccinationPercentage) + " (" + str(previousDayCompletedVaccinationPercentage) + ")")
 print("Partial vaccination percentage: " + str(partialVaccinationPercentage) + " (" + str(previousDayPartialVaccinationPercentage) + ")" + "\n")
 
