@@ -102,10 +102,10 @@ for country_entry in country_data:
     dailyTests = get_tests(countryName, current_test_data) - get_tests(countryName, previous_test_data)
     currentCountry = Country(country_entry["country"], country_entry["daily cases"], country_entry["deaths"], country_entry["daily deaths"], country_entry["population"], dailyTests)
     countries.append(currentCountry)
-    if currentCountry.population is not None and currentCountry.population != " ":
+    if currentCountry.population is not None and currentCountry.population.strip():
         if int(currentCountry.population.replace(",", "")) > POPULATION_THRESHOLD:
             biggerCountries.append(currentCountry)
-    if currentCountry.deaths is not None and currentCountry.deaths != " ":
+    if currentCountry.deaths is not None and currentCountry.deaths.strip():
         if int(currentCountry.deaths.replace(",", "")) >= DEATH_TOLL_THRESHOLD:
             deathTollCountries.append(currentCountry)
 
