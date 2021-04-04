@@ -59,6 +59,12 @@ def create_csv(sorted_countries):
         cases_ordinal = cases_ordinal + 1
     return csv
 
+# for CSVs to be sorted as their HTML represenation
+def create_csv_unsorted(sorted_countries):
+    csv = "Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population\n"
+    for sortedCountry in sorted_countries:
+        csv += sortedCountry.to_csv() + "\n"
+    return csv
 
 def write_sorted(sorted_countries, label, current_date):
     filename = 'report_' + label + "_" + current_date + ".csv"
