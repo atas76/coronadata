@@ -43,15 +43,13 @@ def print_array(sorted_array):
     for entry in sorted_array:
         print(entry)
 
-
 def display_sorted(sorted_countries):
     cases_ordinal = 1
     for sortedCountry in sorted_countries:
         print(str(cases_ordinal) + ": " + sortedCountry.to_str())
         cases_ordinal = cases_ordinal + 1
 
-
-def create_csv(sorted_countries):
+def create_csv_sorted(sorted_countries):
     cases_ordinal = 1
     csv = "Ordinal Position, Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population\n"
     for sortedCountry in sorted_countries:
@@ -59,19 +57,24 @@ def create_csv(sorted_countries):
         cases_ordinal = cases_ordinal + 1
     return csv
 
-# for CSVs to be sorted as their HTML represenation
-def create_csv_unsorted(sorted_countries):
-    csv = "Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population\n"
-    for sortedCountry in sorted_countries:
-        csv += sortedCountry.to_csv() + "\n"
-    return csv
-
 def write_sorted(sorted_countries, label, current_date):
     filename = 'report_' + label + "_" + current_date + ".csv"
     with open('./reports/' + filename, 'w+') as f:
-        f.write(create_csv(sorted_countries))
+        f.write(create_csv_sorted(sorted_countries))
     f.close()
 
+# for CSVs to be sorted as their HTML represenation
+def create_csv_unsorted(countries):
+    csv = "Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population\n"
+    for country in countries:
+        csv += country.to_csv() + "\n"
+    return csv
+
+def write_unsorted(countries, label, current_date):
+    filename = 'report_' + label + "_" + current_date + ".csv"
+    with open('./reports/' + filename, 'w+') as f:
+        f.write(create_csv_unsorted(countries))
+    f.close()
 
 def get_tests(country_name, test_data):
     try:
@@ -79,7 +82,6 @@ def get_tests(country_name, test_data):
         return int(current_tests.replace(",", ""))
     except (AttributeError, StopIteration):
         return 0
-
 
 today = date.today() - timedelta(1)
 previousday = today - timedelta(1)
@@ -115,27 +117,22 @@ for country_entry in country_data:
         if int(currentCountry.deaths.replace(",", "")) >= DEATH_TOLL_THRESHOLD:
             deathTollCountries.append(currentCountry)
 
-# sortedByPopulation = sorted(countries, key=get_population, reverse=True)
-# sortedByCases = sorted(countries, key=get_cases, reverse=True)
-# sortedByDeaths = sorted(countries, key=get_deaths, reverse=True)
-
 sortedByCasesRatio = sorted(biggerCountries, key=get_daily_cases_ratio, reverse=True)
 sortedByDeathsRatio = sorted(deathTollCountries, key=get_daily_deaths_ratio, reverse=True)
 
 sortedByCasesRatioAllCountries = sorted(countries, key=get_daily_cases_ratio, reverse=True)
 sortedByDeathsRatioAllCountries = sorted(countries, key=get_daily_deaths_ratio, reverse=True)
+
 sortedByPositiveTests = sorted(countries, key=get_positive_tests_perc, reverse=True)
-
-# display_sorted(sortedByCases)
-# display_sorted(sortedByDeaths)
-# display_sorted(sortedByPopulation)
-
-# display_sorted(sortedByCasesRatio)
-
-# display_sorted(sortedByDeathsRatio)
 
 write_sorted(sortedByCasesRatio, 'daily_cases', CURRENT_DATE)
 write_sorted(sortedByDeathsRatio, 'daily_deaths', CURRENT_DATE)
+
+# TODO Fix encoding problem
+# TODO Create a third file which will include all countries (corresponding to the legacy one for test positivity)
+# TODO Convert numeric values strings to numbers for sorting correctly through the FE
+# write_unsorted(biggerCountries, 'daily_cases', CURRENT_DATE)
+# write_unsorted(deathTollCountries, 'daily_deaths', CURRENT_DATE)
 
 write_sorted(sortedByCasesRatioAllCountries, 'daily_cases_all_countries', CURRENT_DATE)
 write_sorted(sortedByDeathsRatioAllCountries, 'daily_deaths_all_countries', CURRENT_DATE)
