@@ -128,9 +128,6 @@ sortedByPositiveTests = sorted(countries, key=get_positive_tests_perc, reverse=T
 write_sorted(sortedByCasesRatio, 'daily_cases', CURRENT_DATE)
 write_sorted(sortedByDeathsRatio, 'daily_deaths', CURRENT_DATE)
 
-# TODO Fix encoding problem
-# TODO Create a third file which will include all countries (corresponding to the legacy one for test positivity)
-# TODO Convert numeric values strings to numbers for sorting correctly through the FE
 # write_unsorted(biggerCountries, 'daily_cases', CURRENT_DATE)
 # write_unsorted(deathTollCountries, 'daily_deaths', CURRENT_DATE)
 
