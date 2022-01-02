@@ -18,28 +18,28 @@ def diff(current, previous, feature) -> any:
 
 
 # json_data = get_json_data(API_ENDPOINT)
-json_vaccine = get_json_data(VACCINE_ENDPOINT)
+# json_vaccine = get_json_data(VACCINE_ENDPOINT)
 json_hospital = get_json_data(HOSPITAL_ENDPOINT)
 
-lastDayVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'InProgress'][-1]
-lastDayCompletedVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'Completed'][-1]
+# lastDayVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'InProgress'][-1]
+# lastDayCompletedVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'Completed'][-1]
 
-previousDayVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'InProgress'][-2]
-previousDayCompletedVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'Completed'][-2]
+# previousDayVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'InProgress'][-2]
+# previousDayCompletedVaccinationData = [x for x in json_vaccine if x['VaccinationStatus'] == 'Completed'][-2]
 
-completedVaccinationPercentage = lastDayCompletedVaccinationData["PopulationCoverage"]
-previousDayCompletedVaccinationPercentage = previousDayCompletedVaccinationData["PopulationCoverage"]
-partialVaccinationPercentage = round(lastDayVaccinationData["PopulationCoverage"] - lastDayCompletedVaccinationData["PopulationCoverage"], 3)
-previousDayPartialVaccinationPercentage = round(previousDayVaccinationData["PopulationCoverage"] - previousDayCompletedVaccinationData["PopulationCoverage"], 3)
+# completedVaccinationPercentage = lastDayCompletedVaccinationData["PopulationCoverage"]
+# previousDayCompletedVaccinationPercentage = previousDayCompletedVaccinationData["PopulationCoverage"]
+# partialVaccinationPercentage = round(lastDayVaccinationData["PopulationCoverage"] - lastDayCompletedVaccinationData["PopulationCoverage"], 3)
+# previousDayPartialVaccinationPercentage = round(previousDayVaccinationData["PopulationCoverage"] - previousDayCompletedVaccinationData["PopulationCoverage"], 3)
 
 currentDayHospital = json_hospital[-1]
 previousDayHospital = json_hospital[-2]
 
 print("\n")
 
-print("Total vaccinated percentage: " + str(completedVaccinationPercentage + partialVaccinationPercentage))
-print("Completed vaccination percentage: " + str(completedVaccinationPercentage) + " (" + str(previousDayCompletedVaccinationPercentage) + ")")
-print("Partial vaccination percentage: " + str(partialVaccinationPercentage) + " (" + str(previousDayPartialVaccinationPercentage) + ")" + "\n")
+# print("Total vaccinated percentage: " + str(completedVaccinationPercentage + partialVaccinationPercentage))
+# print("Completed vaccination percentage: " + str(completedVaccinationPercentage) + " (" + str(previousDayCompletedVaccinationPercentage) + ")")
+# print("Partial vaccination percentage: " + str(partialVaccinationPercentage) + " (" + str(previousDayPartialVaccinationPercentage) + ")" + "\n")
 
 diffVentilation = diff(currentDayHospital, previousDayHospital, "IsOnVentilation")
 diffIntensiveCare = diff(currentDayHospital, previousDayHospital, "IsInIntensive")
