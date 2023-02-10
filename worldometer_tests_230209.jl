@@ -1,11 +1,11 @@
 [
 {"country": "China", "tests": "160,000,000"}
-,{"country": "USA", "tests": "1,161,492,751"}
-,{"country": "India", "tests": "916,215,668"}
+,{"country": "USA", "tests": "1,161,674,987"}
+,{"country": "India", "tests": "916,685,932"}
 ,{"country": "France", "tests": "271,490,188"}
 ,{"country": "Germany", "tests": "122,332,384"}
 ,{"country": "Brazil", "tests": "63,776,166"}
-,{"country": "Japan", "tests": "93,017,895"}
+,{"country": "Japan", "tests": "93,216,414"}
 ,{"country": "S. Korea", "tests": "15,804,065"}
 ,{"country": "Italy", "tests": "266,073,786"}
 ,{"country": "UK", "tests": "522,526,476"}
@@ -15,82 +15,82 @@
 ,{"country": "Vietnam", "tests": "85,826,548"}
 ,{"country": "Australia", "tests": "78,835,048"}
 ,{"country": "Argentina", "tests": "35,716,069"}
-,{"country": "Taiwan", "tests": "30,426,150"}
+,{"country": "Taiwan", "tests": "30,454,565"}
 ,{"country": "Netherlands", "tests": "25,984,435"}
 ,{"country": "Iran", "tests": "55,034,937"}
 ,{"country": "Mexico", "tests": "19,414,006"}
 ,{"country": "Indonesia", "tests": "114,158,919"}
-,{"country": "Poland", "tests": "38,155,458"}
+,{"country": "Poland", "tests": "38,161,344"}
 ,{"country": "Colombia", "tests": "36,951,507"}
 ,{"country": "Austria", "tests": "211,273,524"}
 ,{"country": "Greece", "tests": "102,228,365"}
 ,{"country": "Portugal", "tests": "45,931,864"}
 ,{"country": "Ukraine", "tests": "32,603,805"}
-,{"country": "Chile", "tests": "48,216,030"}
-,{"country": "Malaysia", "tests": "67,786,489"}
+,{"country": "Chile", "tests": "48,229,538"}
+,{"country": "Malaysia", "tests": "67,807,573"}
 ,{"country": "Israel", "tests": "41,373,364"}
 ,{"country": "DPRK", "tests": null}
 ,{"country": "Thailand", "tests": "17,270,775"}
-,{"country": "Belgium", "tests": "36,583,888"}
-,{"country": "Czechia", "tests": "56,916,329"}
+,{"country": "Belgium", "tests": "36,623,129"}
+,{"country": "Czechia", "tests": "56,921,370"}
 ,{"country": "Canada", "tests": "66,343,123"}
-,{"country": "Peru", "tests": "37,829,516"}
+,{"country": "Peru", "tests": "37,840,397"}
 ,{"country": "Switzerland", "tests": "23,833,472"}
-,{"country": "Philippines", "tests": "34,414,509"}
+,{"country": "Philippines", "tests": "34,425,375"}
 ,{"country": "South Africa", "tests": "26,473,049"}
 ,{"country": "Romania", "tests": "26,460,191"}
-,{"country": "Denmark", "tests": "129,162,649"}
+,{"country": "Denmark", "tests": "129,165,072"}
 ,{"country": "Hong Kong", "tests": "76,127,725"}
-,{"country": "Sweden", "tests": "19,426,657"}
-,{"country": "Serbia", "tests": "12,230,405"}
+,{"country": "Sweden", "tests": "19,442,594"}
+,{"country": "Serbia", "tests": "12,240,163"}
 ,{"country": "Iraq", "tests": "19,544,451"}
 ,{"country": "Singapore", "tests": "24,756,666"}
 ,{"country": "Hungary", "tests": "11,394,556"}
 ,{"country": "New Zealand", "tests": "7,768,604"}
 ,{"country": "Bangladesh", "tests": "15,249,261"}
-,{"country": "Slovakia", "tests": "7,393,884"}
+,{"country": "Slovakia", "tests": "7,394,550"}
 ,{"country": "Georgia", "tests": "16,920,079"}
 ,{"country": "Jordan", "tests": "17,201,885"}
-,{"country": "Ireland", "tests": "12,997,033"}
+,{"country": "Ireland", "tests": "13,000,921"}
 ,{"country": "Pakistan", "tests": "30,570,862"}
 ,{"country": "Norway", "tests": "11,002,430"}
-,{"country": "Finland", "tests": "12,028,400"}
+,{"country": "Finland", "tests": "12,036,493"}
 ,{"country": "Kazakhstan", "tests": "11,575,012"}
-,{"country": "Slovenia", "tests": "2,828,071"}
-,{"country": "Lithuania", "tests": "10,357,867"}
-,{"country": "Bulgaria", "tests": "11,006,894"}
-,{"country": "Morocco", "tests": "12,946,903"}
-,{"country": "Croatia", "tests": "5,488,156"}
-,{"country": "Guatemala", "tests": "6,809,135"}
+,{"country": "Slovenia", "tests": "2,828,353"}
+,{"country": "Lithuania", "tests": "10,359,196"}
+,{"country": "Bulgaria", "tests": "11,009,872"}
+,{"country": "Morocco", "tests": "12,948,388"}
+,{"country": "Croatia", "tests": "5,489,676"}
+,{"country": "Guatemala", "tests": "6,816,842"}
 ,{"country": "Lebanon", "tests": "4,795,578"}
-,{"country": "Costa Rica", "tests": "4,659,757"}
 ,{"country": "Bolivia", "tests": "2,705,422"}
+,{"country": "Costa Rica", "tests": "4,659,757"}
 ,{"country": "Tunisia", "tests": "4,998,401"}
 ,{"country": "Cuba", "tests": "14,304,679"}
 ,{"country": "Ecuador", "tests": "3,082,403"}
-,{"country": "UAE", "tests": "198,810,660"}
+,{"country": "UAE", "tests": "198,834,128"}
 ,{"country": "Uruguay", "tests": "6,114,822"}
 ,{"country": "Panama", "tests": "7,491,978"}
 ,{"country": "Mongolia", "tests": "4,030,048"}
-,{"country": "Nepal", "tests": "6,006,114"}
+,{"country": "Nepal", "tests": "6,006,765"}
 ,{"country": "Belarus", "tests": "13,646,641"}
-,{"country": "Latvia", "tests": "7,860,270"}
-,{"country": "Saudi Arabia", "tests": "45,077,620"}
-,{"country": "Azerbaijan", "tests": "7,500,674"}
+,{"country": "Latvia", "tests": "7,860,530"}
+,{"country": "Saudi Arabia", "tests": "45,081,690"}
+,{"country": "Azerbaijan", "tests": "7,502,054"}
 ,{"country": "Paraguay", "tests": "2,657,506"}
 ,{"country": "Bahrain", "tests": "10,688,096"}
 ,{"country": "Sri Lanka", "tests": "6,486,117"}
 ,{"country": "Kuwait", "tests": "8,455,743"}
 ,{"country": "Dominican Republic", "tests": "3,740,928"}
 ,{"country": "Cyprus", "tests": "9,640,118"}
-,{"country": "Myanmar", "tests": "9,973,742"}
+,{"country": "Myanmar", "tests": "9,978,203"}
 ,{"country": "Palestine", "tests": "3,078,533"}
 ,{"country": "Estonia", "tests": "3,663,669"}
 ,{"country": "Moldova", "tests": "3,216,305"}
 ,{"country": "Venezuela", "tests": "3,359,014"}
 ,{"country": "Egypt", "tests": "3,693,367"}
 ,{"country": "Libya", "tests": "2,483,446"}
-,{"country": "Ethiopia", "tests": "5,469,125"}
+,{"country": "Ethiopia", "tests": "5,470,589"}
 ,{"country": "Qatar", "tests": "4,065,369"}
 ,{"country": "R\u00e9union", "tests": "1,603,660"}
 ,{"country": "Honduras", "tests": "1,620,796"}
@@ -99,11 +99,11 @@
 ,{"country": "Oman", "tests": "25,000,000"}
 ,{"country": "North Macedonia", "tests": "2,218,852"}
 ,{"country": "Kenya", "tests": "3,967,062"}
-,{"country": "Zambia", "tests": "3,892,752"}
+,{"country": "Zambia", "tests": "3,896,059"}
 ,{"country": "Albania", "tests": "1,941,032"}
 ,{"country": "Botswana", "tests": "2,026,898"}
 ,{"country": "Luxembourg", "tests": "4,412,567"}
-,{"country": "Montenegro", "tests": "2,702,602"}
+,{"country": "Montenegro", "tests": "2,703,370"}
 ,{"country": "Brunei ", "tests": "717,784"}
 ,{"country": "Algeria", "tests": "230,861"}
 ,{"country": "Nigeria", "tests": "5,708,974"}
@@ -134,14 +134,14 @@
 ,{"country": "DRC", "tests": "846,704"}
 ,{"country": "Senegal", "tests": "1,146,543"}
 ,{"country": "Malawi", "tests": "624,784"}
-,{"country": "Ivory Coast", "tests": "1,673,891"}
+,{"country": "Ivory Coast", "tests": "1,674,155"}
 ,{"country": "Suriname", "tests": "240,907"}
 ,{"country": "New Caledonia", "tests": "98,964"}
 ,{"country": "French Polynesia", "tests": null}
 ,{"country": "Eswatini", "tests": "1,048,704"}
 ,{"country": "Guyana", "tests": "719,071"}
 ,{"country": "Belize", "tests": "576,016"}
-,{"country": "Fiji", "tests": "667,953"}
+,{"country": "Fiji", "tests": "668,173"}
 ,{"country": "Madagascar", "tests": "524,209"}
 ,{"country": "Sudan", "tests": "562,941"}
 ,{"country": "Mauritania", "tests": "1,009,957"}
@@ -158,14 +158,14 @@
 ,{"country": "Tanzania", "tests": null}
 ,{"country": "Mayotte", "tests": "176,919"}
 ,{"country": "Mauritius", "tests": "358,675"}
-,{"country": "Togo", "tests": "807,269"}
+,{"country": "Togo", "tests": "807,322"}
 ,{"country": "Guinea", "tests": "660,107"}
 ,{"country": "Isle of Man", "tests": "150,753"}
 ,{"country": "Bahamas", "tests": "257,839"}
 ,{"country": "Lesotho", "tests": "431,221"}
 ,{"country": "Faeroe Islands", "tests": "778,000"}
 ,{"country": "Haiti", "tests": "132,422"}
-,{"country": "Mali", "tests": "790,993"}
+,{"country": "Mali", "tests": "791,214"}
 ,{"country": "Cayman Islands", "tests": "222,773"}
 ,{"country": "Saint Lucia", "tests": "210,983"}
 ,{"country": "Benin", "tests": "604,310"}
