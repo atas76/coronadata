@@ -1,0 +1,222 @@
+Ordinal Position, Country, New Cases, New Deaths, New Cases Ratio, New Deaths Ratio, Positive Tests Percentage, Population
+1, Gibraltar, +29, None, 860.4319962022312, 0, 0, 33_704
+2, Austria, +4702, None, 518.6004625713186, 0, 0, 9_066_710
+3, Taiwan, +9095, +54, 380.7256140430193, 2.260492925599015, 0, 23_888_595
+4, S. Korea, +10335, +12, 201.34463931051178, 0.2337818743808555, 0, 51_329_899
+5, Slovenia, +412, +1, 198.26432098801078, 0.48122408006798734, 113.8121546961326, 2_078_034
+6, Chile, +3708, +12, 192.62142539335315, 0.6233703087163532, 19.80346079897458, 19_250_195
+7, Bahrain, +323, None, 181.05553696419753, 0, 26.716294458229946, 1_783_983
+8, Palau, +3, None, 164.5368288268524, 0, 2.2058823529411766, 18_233
+9, Montenegro, +80, None, 127.39867823871327, 0, 12.012012012012011, 627_950
+10, Lithuania, +330, +3, 123.98054181750966, 1.1270958347046334, 12.51896813353566, 2_661_708
+11, Serbia, +859, +5, 99.27174525044217, 0.5778332086754492, 11.403159431833267, 8_653_016
+12, Poland, +3619, +6, 95.89349806841773, 0.15898341763208243, 34.895381351846495, 37_739_785
+13, France, +6188, +90, 94.35153583045316, 1.372275084799739, 0, 65_584_518
+14, Czechia, +947, +4, 88.20145771769275, 0.3725510357663896, 21.124247155922372, 10_736_784
+15, Germany, +6943, +122, 82.76946067023641, 1.4543963995058102, 0, 83_883_596
+16, Japan, +9113, +49, 72.56449221999235, 0.3901744890573494, 10.568125152207443, 125_584_838
+17, Russia, +10311, +44, 70.71728013947195, 0.3017709558856334, 0, 145_805_947
+18, Belize, +25, None, 60.65164123341177, 0, 0, 412_190
+19, Israel, +364, None, 39.03066695260562, 0, 0, 9_326_000
+20, Netherlands, +567, None, 32.94319181879362, 0, 0, 17_211_447
+21, Guatemala, +540, None, 29.057192572615673, 0, 4.256660886016081, 18_584_039
+22, Mexico, +3809, +18, 28.95195914540323, 0.13681681927468053, 0, 131_562_772
+23, Liechtenstein, +1, None, 26.050485841560945, 0, 0, 38_387
+24, Spain, +1150, +19, 24.615178078398785, 0.4066855508605017, 0, 46_719_142
+25, USA, +7451, +50, 22.254727418880613, 0.14934054099369623, 6.5654518539405045, 334_805_269
+26, Slovakia, +109, +1, 19.962664323403953, 0.18314370938902708, 23.49137931034483, 5_460_193
+27, UAE, +190, None, 18.84586905989366, 0, 0.9081349775356083, 10_081_785
+28, Lebanon, +108, +1, 16.155937104936854, 0.14959201023089674, 0, 6_684_849
+29, Bulgaria, +107, +1, 15.632768444950083, 0.1461006396724307, 4.276578737010392, 6_844_597
+30, Paraguay, +106, +2, 14.50893483476171, 0.27375348744833417, 0, 7_305_843
+31, Guyana, +11, None, 13.853119155715355, 0, 1.455026455026455, 794_045
+32, Mauritius, +17, None, 13.336188846709923, 0, 0, 1_274_727
+33, Denmark, +67, +4, 11.482531983993008, 0.6855242975518213, 4.901243599122165, 5_834_950
+34, Bolivia, +110, +1, 9.172280102089145, 0.08338436456444678, 0, 11_992_656
+35, Norway, +44, None, 7.9834959365820115, 0, 0, 5_511_370
+36, Malaysia, +251, None, 7.564553670839809, 0, 2.2273493655160173, 33_181_072
+37, Latvia, +12, None, 6.490566772516993, 0, 3.5502958579881656, 1_848_837
+38, Peru, +217, +9, 6.442187983164099, 0.267187520039064, 0, 33_684_208
+39, South Africa, +386, None, 6.353267863401778, 0, 0, 60_756_135
+40, Albania, +17, None, 5.930838055327044, 0, 0, 2_866_374
+41, Iran, +448, +8, 5.207919380756996, 0.09299856037066064, 0, 86_022_837
+42, Honduras, +51, None, 4.989606454085299, 0, 2.13657310431504, 10_221_247
+43, Hong Kong, +36, None, 4.734164187915283, 0, 0, 7_604_299
+44, Azerbaijan, +45, +4, 4.368845086092946, 0.38834178543048414, 5.569306930693069, 10_300_205
+45, Saudi Arabia, +96, +1, 2.6782045952467057, 0.02789796453381985, 0, 35_844_909
+46, Philippines, +172, +5, 1.528766669089584, 0.044440891543301865, 2.258699934340118, 112_508_994
+47, Indonesia, +295, +3, 1.0568381719773412, 0.010747506833667876, 0, 279_134_505
+48, Morocco, +36, None, 0.9530678672215499, 0, 1.3703844689760183, 37_772_756
+49, Togo, +8, None, 0.9215701204849256, 0, 3.6363636363636362, 8_680_837
+50, Venezuela, +20, None, 0.6833637253655491, 0, 0, 29_266_991
+51, Cuba, +4, None, 0.353805335596744, 0, 0, 11_305_652
+52, India, +456, +1, 0.3241786569735504, 0.0007109181073981369, 0.6438040915444239, 1_406_631_776
+53, Pakistan, +73, None, 0.31809804351663157, 0, 0, 229_488_994
+54, Ivory Coast, +5, None, 0.1802302029918358, 0, 2.336448598130841, 27_742_298
+55, Ethiopia, +21, None, 0.17382278806487708, 0, 1.4075067024128687, 120_812_698
+56, Vietnam, +14, None, 0.14148053580012865, 0, 0, 98_953_541
+57, Mali, +2, None, 0.09313690883442698, 0, 1.1235955056179776, 21_473_764
+58, Myanmar, +4, None, 0.07242815367074122, 0, 0.08435259384226065, 55_227_143
+59, Algeria, +3, None, 0.06615193405763527, 0, 0, 45_350_148
+60, Afghanistan, +2, None, 0.04907447021410308, 0, 0.26109660574412535, 40_754_388
+61, Sri Lanka, +1, None, 0.046348133250141525, 0, 0, 21_575_842
+62, China, None, None, 0, 0, 0, 1_448_471_400                                
+63, Brazil, None, None, 0, 0, 0, 215_353_593
+64, Italy, None, None, 0, 0, 0, 60_262_770
+65, UK, None, None, 0, 0, 0, 68_497_907
+66, Turkey, None, None, 0, 0, 0, 85_561_976
+67, Australia, None, None, 0, 0, 0, 26_068_792
+68, Argentina, None, None, 0, 0, 0, 46_010_234
+69, Colombia, None, None, 0, 0, 0, 51_512_762
+70, Greece, None, None, 0, 0, 0, 10_316_637
+71, Portugal, None, None, 0, 0, 0, 10_140_570
+72, Ukraine, None, None, 0, 0, 0, 43_192_122
+73, DPRK, None, None, 0, 0, 0, 25_990_679
+74, Belgium, None, None, 0, 0, 0, 11_668_278
+75, Thailand, None, None, 0, 0, 0, 70_078_203
+76, Canada, None, None, 0, 0, 0, 38_388_419
+77, Switzerland, None, None, 0, 0, 0, 8_773_637
+78, Romania, None, None, 0, 0, 0, 19_031_335
+79, Sweden, None, None, 0, 0, 0, 10_218_971
+80, Iraq, None, None, 0, 0, 0, 42_164_965
+81, Singapore, None, None, 0, 0, 0, 5_943_546
+82, New Zealand, None, None, 0, 0, 0, 4_898_203
+83, Hungary, None, None, 0, 0, 0, 9_606_259
+84, Bangladesh, None, None, 0, 0, 0, 167_885_689
+85, Georgia, None, None, 0, 0, 0, 3_968_738
+86, Jordan, None, None, 0, 0, 0, 10_300_869
+87, Ireland, None, None, 0, 0, 0, 5_020_199
+88, Finland, None, None, 0, 0, 0, 5_554_960
+89, Kazakhstan, None, None, 0, 0, 0, 19_205_043
+90, Croatia, None, None, 0, 0, 0, 4_059_286
+91, Costa Rica, None, None, 0, 0, 0, 5_182_354
+92, Tunisia, None, None, 0, 0, 0, 12_046_656
+93, Ecuador, None, None, 0, 0, 0, 18_113_361
+94, Uruguay, None, None, 0, 0, 0, 3_496_016
+95, Panama, None, None, 0, 0, 0, 4_446_964
+96, Mongolia, None, None, 0, 0, 0, 3_378_078
+97, Nepal, None, None, 0, 0, 0, 30_225_582
+98, Belarus, None, None, 0, 0, 0, 9_432_800
+99, Kuwait, None, None, 0, 0, 0, 4_380_326
+100, Dominican Republic, None, None, 0, 0, 0, 11_056_370
+101, Cyprus, None, None, 0, 0, 0, 1_223_387
+102, Palestine, None, None, 0, 0, 0, 5_345_541
+103, Estonia, None, None, 0, 0, 0, 1_321_910
+104, Moldova, None, None, 0, 0, 0, 4_013_171
+105, Egypt, None, None, 0, 0, 0, 106_156_692
+106, Libya, None, None, 0, 0, 0, 7_040_745
+107, Qatar, None, None, 0, 0, 0, 2_979_915
+108, Réunion, None, None, 0, 0, 0, 908_061
+109, Armenia, None, None, 0, 0, 0, 2_971_966
+110, Bosnia and Herzegovina, None, None, 0, 0, 0, 3_249_317
+111, Oman, None, None, 0, 0, 0, 5_323_993
+112, North Macedonia, None, None, 0, 0, 0, 2_081_304
+113, Zambia, None, None, 0, 0, 0, 19_470_234
+114, Kenya, None, None, 0, 0, 0, 56_215_221
+115, Botswana, None, None, 0, 0, 0, 2_441_162
+116, Luxembourg, None, None, 0, 0, 0, 642_371
+117, Brunei , None, None, 0, 0, 0, 445_431
+118, Nigeria, None, None, 0, 0, 0, 216_746_934
+119, Zimbabwe, None, None, 0, 0, 0, 15_331_428
+120, Uzbekistan, None, None, 0, 0, 0, 34_382_084
+121, Mozambique, None, None, 0, 0, 0, 33_089_461
+122, Martinique, None, None, 0, 0, 0, 374_087
+123, Laos, None, None, 0, 0, 0, 7_481_023
+124, Iceland, None, None, 0, 0, 0, 345_393
+125, Kyrgyzstan, None, None, 0, 0, 0, 6_728_271
+126, Guadeloupe, None, None, 0, 0, 0, 399_794
+127, El Salvador, None, None, 0, 0, 0, 6_550_389
+128, Trinidad and Tobago, None, None, 0, 0, 0, 1_406_585
+129, Maldives, None, None, 0, 0, 0, 540_985
+130, Ghana, None, None, 0, 0, 0, 32_395_450
+131, Namibia, None, None, 0, 0, 0, 2_633_874
+132, Uganda, None, None, 0, 0, 0, 48_432_863
+133, Jamaica, None, None, 0, 0, 0, 2_985_094
+134, Cambodia, None, None, 0, 0, 0, 17_168_639
+135, Rwanda, None, None, 0, 0, 0, 13_600_464
+136, Cameroon, None, None, 0, 0, 0, 27_911_548
+137, Malta, None, None, 0, 0, 0, 444_033
+138, Barbados, None, None, 0, 0, 0, 288_023
+139, Angola, None, None, 0, 0, 0, 35_027_343
+140, Channel Islands, None, None, 0, 0, 0, 176_463
+141, French Guiana, None, None, 0, 0, 0, 314_169
+142, DRC, None, None, 0, 0, 0, 95_240_792
+143, Senegal, None, None, 0, 0, 0, 17_653_671
+144, Malawi, None, None, 0, 0, 0, 20_180_839
+145, Suriname, None, None, 0, 0, 0, 596_831
+146, New Caledonia, None, None, 0, 0, 0, 290_915
+147, French Polynesia, None, None, 0, 0, 0, 284_164
+148, Eswatini, None, None, 0, 0, 0, 1_184_817
+149, Fiji, None, None, 0, 0, 0, 909_466
+150, Madagascar, None, None, 0, 0, 0, 29_178_077
+151, Sudan, None, None, 0, 0, 0, 45_992_020
+152, Mauritania, None, None, 0, 0, 0, 4_901_981
+153, Cabo Verde, None, None, 0, 0, 0, 567_678
+154, Bhutan, None, None, 0, 0, 0, 787_941
+155, Syria, None, None, 0, 0, 0, 19_364_809
+156, Burundi, None, None, 0, 0, 0, 12_624_840
+157, Seychelles, None, None, 0, 0, 0, 99_426
+158, Gabon, None, None, 0, 0, 0, 2_331_533
+159, Andorra, None, None, 0, 0, 0, 77_463
+160, Papua New Guinea, None, None, 0, 0, 0, 9_292_169
+161, Curaçao, None, None, 0, 0, 0, 165_529
+162, Aruba, None, None, 0, 0, 0, 107_609
+163, Tanzania, None, None, 0, 0, 0, 63_298_550
+164, Mayotte, None, None, 0, 0, 0, 286_259
+165, Guinea, None, None, 0, 0, 0, 13_865_691
+166, Isle of Man, None, None, 0, 0, 0, 85_732
+167, Bahamas, None, None, 0, 0, 0, 400_516
+168, Lesotho, None, None, 0, 0, 0, 2_175_699
+169, Faeroe Islands, None, None, 0, 0, 0, 49_233
+170, Haiti, None, None, 0, 0, 0, 11_680_283
+171, Cayman Islands, None, None, 0, 0, 0, 67_277
+172, Saint Lucia, None, None, 0, 0, 0, 185_113
+173, Benin, None, None, 0, 0, 0, 12_784_726
+174, Somalia, None, None, 0, 0, 0, 16_841_795
+175, Congo, None, None, 0, 0, 0, 5_797_805
+176, Solomon Islands, None, None, 0, 0, 0, 721_159
+177, Micronesia, None, None, 0, 0, 0, 117_489
+178, San Marino, None, None, 0, 0, 0, 34_085
+179, Timor-Leste, None, None, 0, 0, 0, 1_369_429
+180, Burkina Faso, None, None, 0, 0, 0, 22_102_838
+181, Grenada, None, None, 0, 0, 0, 113_475
+182, Bermuda, None, None, 0, 0, 0, 61_939
+183, Nicaragua, None, None, 0, 0, 0, 6_779_100
+184, South Sudan, None, None, 0, 0, 0, 11_618_511
+185, Tajikistan, None, None, 0, 0, 0, 9_957_464
+186, Equatorial Guinea, None, None, 0, 0, 0, 1_496_662
+187, Tonga, None, None, 0, 0, 0, 107_749
+188, Samoa, None, None, 0, 0, 0, 202_239
+189, Monaco, None, None, 0, 0, 0, 39_783
+190, Dominica, None, None, 0, 0, 0, 72_344
+191, Djibouti, None, None, 0, 0, 0, 1_016_097
+192, Marshall Islands, None, None, 0, 0, 0, 60_057
+193, CAR, None, None, 0, 0, 0, 5_016_678
+194, Gambia, None, None, 0, 0, 0, 2_558_482
+195, Saint Martin, None, None, 0, 0, 0, 39_730
+196, Vanuatu, None, None, 0, 0, 0, 321_832
+197, Greenland, None, None, 0, 0, 0, 56_973
+198, Yemen, None, None, 0, 0, 0, 31_154_867
+199, Caribbean Netherlands, None, None, 0, 0, 0, 26_647
+200, Sint Maarten, None, None, 0, 0, 0, 43_966
+201, Eritrea, None, None, 0, 0, 0, 3_662_244
+202, Niger, None, None, 0, 0, 0, 26_083_660
+203, St. Vincent Grenadines, None, None, 0, 0, 0, 111_551
+204, Antigua and Barbuda, None, None, 0, 0, 0, 99_509
+205, Comoros, None, None, 0, 0, 0, 907_419
+206, Guinea-Bissau, None, None, 0, 0, 0, 2_063_367
+207, Liberia, None, None, 0, 0, 0, 5_305_117
+208, Sierra Leone, None, None, 0, 0, 0, 8_306_436
+209, Chad, None, None, 0, 0, 0, 17_413_580
+210, British Virgin Islands, None, None, 0, 0, 0, 30_596
+211, Cook Islands, None, None, 0, 0, 0, 17_571
+212, Saint Kitts and Nevis, None, None, 0, 0, 0, 53_871
+213, Turks and Caicos, None, None, 0, 0, 0, 39_741
+214, Sao Tome and Principe, None, None, 0, 0, 0, 227_679
+215, St. Barth, None, None, 0, 0, 0, 9_945
+216, Nauru, None, None, 0, 0, 0, 10_903
+217, Kiribati, None, None, 0, 0, 0, 123_419
+218, Anguilla, None, None, 0, 0, 0, 15_230
+219, Macao, None, None, 0, 0, 0, 667_490
+220, Saint Pierre Miquelon, None, None, 0, 0, 0, 5_759
+221, Wallis and Futuna, None, None, 0, 0, 0, 10_982
