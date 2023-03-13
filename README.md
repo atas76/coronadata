@@ -1,3 +1,7 @@
 # COVID-19 data
 
-Dabbling with COVID-19 data, to see what reports I could generate. Use them at your own risk.
+_Dabbling with COVID-19 data, to see what reports I could generate. Use them at your own risk._
+
+This project started as a few scripts that would hit the official COVID-19 data API for Estonia for getting directly the data I was interested in, and it evolved into doing something similar with worldometer.info data. The output has been a set of daily reports in CSV format, presenting the data according to my own personal preferences. It started two years ago, while we were already one year into the pandemic, and during one of its worst phases.
+
+Today, was the last update, for anyone that might be following. I decided to not run any manual updates anymore, as now most countries don't produce daily reports anyway, so there is no more a point to generate reports daily. Another reason is the passage of time itself. Since March 12th is the anniversary of COVID-19 being declared a pandemic by WHO (and also my country of residence being declared in a state of emergency), I decided this to be the last day I am generating these reports. I am happy that the situation is not dire as it has been during these couple of years I was updating this project and one year before that, but now I'd like to take the opportunity to say that it is not over (yet). We still need to exercise caution especially for the vulnerable among us. I'll stop here as this is not the place to start a blog post. Soon, I will write a more thorough post in another medium. Take care all.
